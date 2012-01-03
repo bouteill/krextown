@@ -1,0 +1,41 @@
+\documentclass[xcolor=dvipsnames, 9pt]{beamer}
+
+\input{../tex/workshop_style.tex}
+
+\title{6 - Project: Bring Your Own Data}
+\subtitle{Or use ours}
+\author{Drew Conway and Aric Hagberg}
+\date{February 8, 2011}
+
+\begin{document}
+\begin{frame}[plain]
+\titlepage
+\end{frame}
+
+\begin{frame}
+\frametitle{Ideas for your data}
+\begin{itemize}
+   \item Undirected
+   \begin{itemize}
+      \item Reduce the size/complexity (k-core analysis)
+      \item Compute assortativity by degree, visualize degree mixing matrix
+      \item Uncover underlying structure (block model) (blockmodel.py)
+   \end{itemize}
+   \item Bipartite
+   \begin{itemize}
+       \item Project onto one of the node sets
+       \item Project and keep track of multiple edges 
+   \end{itemize}
+   \item Directed
+   \begin{itemize}
+      \item Node analysis, PageRank, HITS
+      \item Find strongly and weakly connected components, condensation, draw
+   \end{itemize}
+   \item With attributes 
+   \begin{itemize}
+      \item Visualize (node color, node size, edge color, edge width)
+      \item Assortativity by attribute
+   \end{itemize}
+\end{itemize}
+\end{frame}
+\end{document}
