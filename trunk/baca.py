@@ -10,6 +10,7 @@ import networkx as nx
 import os
 import nltk
 import pprint
+import matplotlib.pyplot as plt
 
 def grab_files(directory):
     for name in os.listdir(directory):
@@ -37,18 +38,47 @@ def main():
     sentTokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
     daftarBerkas = grab_files(folderKorpus)
+    termList = []
     for berkas in daftarBerkas:
         data = open(berkas)
+        ctrBerkas += 1
+        ctrBaris = 0
         for baris in data:
+            ctrBaris += 1
             sents = sentTokenizer.tokenize(baris)
             for sent in sents:
                 kalimat = sent.replace('\n', ' ').strip()
-                tokens = nltk.word_tokenize(kalimat)
-                text = nltk.Text(tokens)
+                if len(kalimat) > 0:
+                    kalimat = kalimat.lower()
+                    tokens = nltk.word_tokenize(kalimat)
+                    #print ctrBaris, len(tokens), tokens
+                    akhirKalimat = tokens[len(tokens)-1]
+                    '''
+                    if akhirKalimat != '.':
+                        print(berkas)
+                        print(ctrBaris)
+                        #print(kalimat)
+                        print(akhirKalimat)
+                    '''
+                    if tokens[0] not in termList:
+                        termList.append(tokens[0])
+                        #print(tokens[0])
+                        print(ctrBerkas, len(termList))
+                    for idx in range(1,len(tokens)-1):
+                        G.add_edge(tokens[idx-1], tokens[idx])
+                        if tokens[idx] not in termList:
+                            termList.append(tokens[idx])
+                            #print(tokens[idx])
+                            print(ctrBerkas, len(termList))
+                    #text = nltk.Text(tokens)
         data.close()
-        ctrBerkas += 1
-    pprint.pprint(text)
+    pprint.pprint(tokens)
+    '''
+    nx.draw(G)
+    plt.show()
+    '''
     print("%d berkas diolah" % ctrBerkas)
+    print("%d term diolah" % len(termList))
 
 
 if __name__ == '__main__':
