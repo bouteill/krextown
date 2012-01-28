@@ -63,13 +63,13 @@ def main():
                     if tokens[0] not in termList:
                         termList.append(tokens[0])
                         #print(tokens[0])
-                        print(ctrBerkas, len(termList))
+                        #print(ctrBerkas, len(termList))
                     for idx in range(1,len(tokens)-1):
                         G.add_edge(tokens[idx-1], tokens[idx])
                         if tokens[idx] not in termList:
                             termList.append(tokens[idx])
                             #print(tokens[idx])
-                            print(ctrBerkas, len(termList))
+                            #print(ctrBerkas, len(termList))
                     #text = nltk.Text(tokens)
         data.close()
     pprint.pprint(tokens)
@@ -79,6 +79,9 @@ def main():
     '''
     print("%d berkas diolah" % ctrBerkas)
     print("%d term diolah" % len(termList))
+
+    ce = nx.eigenvector_centrality(G)
+    print(sorted(['%0.2f %s'%(ce[node], node) for node in ce]))
 
 
 if __name__ == '__main__':
