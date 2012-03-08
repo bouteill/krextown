@@ -160,6 +160,8 @@ def main():
     print("Opening trainingLabels.txt..")
     label = open('trainingLabels.txt', 'r')
     
+    gjrs = nx.Graph()
+    
     train.close()
     label.close()
     print("Done..")
