@@ -7,6 +7,12 @@
 # Created:     20120302
 # Copyright:   (c) Anung 2012
 # Licence:     <your licence>
+# To Do:
+# - Hitung jumlah maksimum dan minimum atribut di
+# trainingData.
+# - Hitung rata-rata jumlah atribut.
+# - Hitung standar deviasi jumlah atribut.
+# - Why do I need all those above?
 # version:
 # 20120302 Start.
 #-------------------------------------------------------------------------------
@@ -145,7 +151,7 @@ class ExamplePanel(wx.Panel):
         self.logger.AppendText("EvtCheckBox: %d\n" %event.Checked())
 
 
-def jrs01():
+def jrs():
     print("Opening trainingData.csv..")
     train = open('trainingData.csv', 'r')
     print("Opening trainingLabels.txt..")
@@ -153,9 +159,19 @@ def jrs01():
     
     gjrs = nx.Graph()
     
+    print "Reading 'trainingData.csv'.."
+    docId = 1
     for lines in train:
-        print lines
-    
+        attrId = 1
+        for data in lines:
+            if data != "0":
+                print docId, attrId, data
+            attrId += 1
+        print attrId," attributes has been read."
+        docId += 1
+        pause = raw_input("..pause..")
+    print docId," documents has been read."
+
     train.close()
     label.close()
     print("Done..")
