@@ -145,7 +145,21 @@ class ExamplePanel(wx.Panel):
         self.logger.AppendText("EvtCheckBox: %d\n" %event.Checked())
 
 
-
+def jrs01():
+    print("Opening trainingData.csv..")
+    train = open('trainingData.csv', 'r')
+    print("Opening trainingLabels.txt..")
+    label = open('trainingLabels.txt', 'r')
+    
+    gjrs = nx.Graph()
+    
+    for lines in train:
+        print lines
+    
+    train.close()
+    label.close()
+    print("Done..")
+    
 def main():
     '''
     app = wx.App(False)
@@ -155,16 +169,7 @@ def main():
     frm.Show()
     app.MainLoop()
     '''
-    print("Opening trainingData.csv..")
-    train = open('trainingData.csv', 'r')
-    print("Opening trainingLabels.txt..")
-    label = open('trainingLabels.txt', 'r')
-    
-    gjrs = nx.Graph()
-    
-    train.close()
-    label.close()
-    print("Done..")
+    jrs01()
 
 
 if __name__ == '__main__':
