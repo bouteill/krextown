@@ -228,11 +228,17 @@ class Fetcher(object):
                 data=handle.open(request)
                 mime_type=data.info().gettype()
                 url=data.geturl();
+                print ">> DEBUG: ",url
                 if mime_type != "text/html":
                     raise OpaqueDataException("Not interested in files of type %s" % mime_type,
                                               mime_type, url)
                 content = unicode(data.read(), "utf-8",
                         errors="replace")
+                '''
+                print ">>>>>>>>>>>>>> DEBUG >>>>>>>>>>>>>>"
+                print ">> DEBUG: ",content
+                print ">>>>>>>>>>>>>> DEBUG >>>>>>>>>>>>>>"
+                '''
                 soup = BeautifulSoup(content)
                 tags = soup('a')
             except urllib2.HTTPError, error:

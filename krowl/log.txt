@@ -1,0 +1,3 @@
+Ubuntu:
+- install scrapy: sudo apt-get install python-scrapy-doc
+-
