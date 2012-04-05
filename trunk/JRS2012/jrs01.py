@@ -162,11 +162,12 @@ def jrs():
     print "Reading 'trainingData.csv'.."
     docId = 1
     for lines in train:
+        gjrs.add_node(docId)
         attrId = 1
         for data in lines:
+            attrId += 1
             if data != "0":
                 print docId, attrId, data
-            attrId += 1
         print attrId," attributes has been read."
         docId += 1
         pause = raw_input("..pause..")
