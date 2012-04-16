@@ -107,3 +107,4 @@ if __name__ == '__main__':
 else:
     print "Modul Analisis Graf Bahasa."
     print __doc__
+
