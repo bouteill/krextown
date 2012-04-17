@@ -24,11 +24,9 @@ class Parallel:
 
     def __init__(self):
         self.tandaBaca = '''!'",;)(/.#&=@+:'''
-        ''' path to the corpus
-        '''
-        self.corpus_path = os.getcwd() + "\\plain\\"
-        ''' the corpus
-        '''
+        # path to the corpus
+        self.corpus_path = os.getcwd() + "/plain/"
+        # the corpus
         self.file_ID = self.corpus_path + "PANL-BPPT-SPO-ID-100Kw.txt"
         self.file_EN = self.corpus_path + "PANL-BPPT-SPO-EN-100Kw.txt"
         self.G_ID = nx.Graph()
@@ -38,6 +36,12 @@ class Parallel:
 
 
     def load_ID(self):
+        ''' Setiap baris dari data yang dibaca adalah satu
+        representasi 'dokumen'
+
+        Mustinya graph dibikin per 'dokumen', dan hasil
+        centrality-nya ditaro di file data luaran.
+        '''
         f_ID = open(self.file_ID)
         for lines in f_ID:
             lines = lines.lower()
@@ -77,6 +81,12 @@ class Parallel:
 
     def get_G_EN(self):
         return(self.G_EN)
+
+
+    def rank_G_ID(self):
+        ''' For each sentence in the document, create the
+        graph and extract centrality measures.
+        '''
 
 
 def main():
