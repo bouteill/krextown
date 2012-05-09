@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="pada" />
+    <node id="ronde" />
+    <node id="indonesia." />
+    <node id="15" />
+    <node id="bertarung" />
+    <node id="di" />
+    <node id="pertama" />
+    <node id="dengannya" />
+    <node id="pertandingan" />
+    <node id="saya" />
+    <node id="selama" />
+    <edge source="pada" target="ronde" />
+    <edge source="pada" target="pertandingan" />
+    <edge source="ronde" target="15" />
+    <edge source="indonesia." target="di" />
+    <edge source="15" target="selama" />
+    <edge source="bertarung" target="dengannya" />
+    <edge source="bertarung" target="saya" />
+    <edge source="di" target="pertama" />
+    <edge source="pertama" target="pertandingan" />
+    <edge source="dengannya" target="selama" />
+  </graph>
+</graphml>
