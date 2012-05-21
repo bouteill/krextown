@@ -147,40 +147,102 @@ def latihan_wordnet():
     #[Lemma('vertical.a.01.vertical'), Lemma('inclined.a.02.inclined')]
     wn.lemma('staccato.r.01.staccato').antonyms()
     #[Lemma('legato.r.01.legato')]
-Semantic Similarity
-Semakin dekat path antara dua lemma, semakin mirip makna semantik kedua lemma tersebut
->>> right = wn.synset('right_whale.n.01')
->>> orca = wn.synset('orca.n.01')
->>> minke = wn.synset('minke_whale.n.01')
->>> tortoise = wn.synset('tortoise.n.01')
->>> novel = wn.synset('novel.n.01')
-Semantic Similarity
->>> right.lowest_common_hypernyms(minke)
-[Synset('baleen_whale.n.01')]
->>> right.lowest_common_hypernyms(orca)
-[Synset('whale.n.02')]
->>> right.lowest_common_hypernyms(tortoise)
-[Synset('vertebrate.n.01')]
->>> right.lowest_common_hypernyms(novel)
-[Synset('entity.n.01')]
-Semantic Similarity
->>> wn.synset('baleen_whale.n.01').min_depth()
-14
->>> wn.synset('whale.n.02').min_depth()
-13
->>> wn.synset('vertebrate.n.01').min_depth()
-8
->>> wn.synset('entity.n.01').min_depth()
-0
-Semantic Similarity
->>> right.path_similarity(minke)
-0.25
->>> right.path_similarity(orca)
-0.16666666666666666
->>> right.path_similarity(tortoise)
-0.076923076923076927
->>> right.path_similarity(novel)
-0.043478260869565216
+
+    #Semantic Similarity
+    #Semakin dekat path antara dua lemma, semakin mirip makna semantik kedua lemma tersebut
+    right = wn.synset('right_whale.n.01')
+    orca = wn.synset('orca.n.01')
+    minke = wn.synset('minke_whale.n.01')
+    tortoise = wn.synset('tortoise.n.01')
+    novel = wn.synset('novel.n.01')
+    print right.lowest_common_hypernyms(minke)
+    #[Synset('baleen_whale.n.01')]
+    print right.lowest_common_hypernyms(orca)
+    #[Synset('whale.n.02')]
+    print right.lowest_common_hypernyms(tortoise)
+    #[Synset('vertebrate.n.01')]
+    print right.lowest_common_hypernyms(novel)
+    #[Synset('entity.n.01')]
+    print wn.synset('baleen_whale.n.01').min_depth()
+    #14
+    print wn.synset('whale.n.02').min_depth()
+    #13
+    print wn.synset('vertebrate.n.01').min_depth()
+    #8
+    print wn.synset('entity.n.01').min_depth()
+    #0
+    print right.path_similarity(minke)
+    #0.25
+    print right.path_similarity(orca)
+    #0.16666666666666666
+    print right.path_similarity(tortoise)
+    #0.076923076923076927
+    print right.path_similarity(novel)
+    #0.043478260869565216
+
+    ##nltk web
+    #from __future__ import division
+    import nltk, re, pprint
+
+    #from urllib import urlopen
+    url = "http://www.gutenberg.org/files/2554/2554.txt"
+    raw = urlopen(url).read()
+    len(raw)
+    raw[:75]
+
+    #from __future__ import division
+    #import nltk, re, pprint
+    #from urllib import urlopen
+    url = "http://www.gutenberg.org/files/2554/2554.txt"
+    print "Accessing gutenberg #2554..."
+    raw = urlopen(url).read()
+    tokens = nltk.word_tokenize(raw)
+    text = nltk.Text(tokens)
+    text.concorddance("Gutenberg")
+    text.collocations()
+    text.similarity()
+
+    #Mengakses data dengan tag HTML
+    url = 'http://news.bbc.co.uk/2/hi/health/2284783.stm'
+    htmlsite = urlopen(url)
+    htmldata = htmlsite.read()
+    htmlraw = nltk.clean_html(htmldata)
+    htmltokens = nltk.word_tokenize(htmlraw)
+    htmltexts = nltk.Text(htmltokens)
+    htmltexts.concordance('gene')
+
+    #Mengakses Berkas Lokal
+    f = open('document.txt', 'r')
+    data = f.read()
+    tokens = nltk.word_tokenize(data)
+    texts = nltk.Text(tokens)
+    texts.concordance('gene')
+
+    #Menulis Berkas Lokal
+    f = open('document.txt', 'w')
+    for word in sorted(htmltexts):
+        f.write(word + '\n')
+
+    #Mengakses RSS Feed
+    import feedparser
+    url = 'http://news.bbc.co.uk/2/hi/health/2284783.stm'
+    htmlsite = urlopen(url)
+    htmldata = htmlsite.read()
+    htmlraw = nltk.clean_html(htmldata)
+    htmltokens = nltk.word_tokenize(htmlraw)
+    htmltexts = nltk.Text(htmltokens)
+    htmltexts.concordance('gene')
+
+    #Python dan PyScripter
+    import os
+    os.chdir('path\to\tugas')
+    import  tugas
+    reload(tugas)
+    #NLTK dan Teks
+    import nltk
+    data = 'Sebuah contoh kalimat yang ingin dianalisis menggunakan NLTK'
+    tokens = nltk.word_tokenize(data)
+    text = nltk.Text(tokens)
 
 
 
