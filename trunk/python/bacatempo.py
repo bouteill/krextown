@@ -23,6 +23,7 @@ def grab_files(directory):
         else:
             print('Unidentified name %s. It could be a symbolic link' % full_path)
 
+
 def main():
     G = nx.Graph()
 
@@ -37,8 +38,10 @@ def main():
     ctrBerkas = 0
     sentTokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
+    print "Membuka folder korpus..."
     daftarBerkas = grab_files(folderKorpus)
     termList = []
+    print "Mengolah data dalam korpus..."
     for berkas in daftarBerkas:
         data = open(berkas)
         ctrBerkas += 1
