@@ -1,8 +1,9 @@
 #-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
+# Name:        nltkexer.py
+# Purpose: Mendokumentasikan langkah-langkah pemanggilan fungsi NLTK
+# untuk pengolahan bahasa.
 #
-# Author:      user
+# Author:      Anung Ariwibowo
 #
 # Created:     17/05/2012
 # Copyright:   (c) user 2012

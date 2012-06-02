@@ -12,6 +12,47 @@ import nltk
 import pprint
 import matplotlib.pyplot as plt
 
+
+def test_potong_kalimat():
+    '''
+      Membuka sebuah berkas teks dan memberikannya kepada
+      potong_kalimat()
+    '''
+
+    kompas = open('020101apid01.txt', 'r')
+    dokumen_kompas = ''
+    for baris in kompas:
+        if baris == '':
+            continue
+        else:
+            dokumen_kompas = dokumen_kompas + baris
+    kompas.close()
+    potong_kalimat(dokumen_kompas)
+#print dokumen_kompas
+
+    tempo = open('000106-111.txt', 'r')
+    dokumen_tempo = ''
+    for baris in tempo:
+        if baris == '':
+            continue
+        else:
+            dokumen_tempo = dokumen_tempo + baris
+    tempo.close()
+#print dokumen_tempo
+
+
+def potong_kalimat(dokumen):
+    '''
+      Memotong dokumen ke dalam kalimat-kalimat penyusunnya.
+    '''
+    tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
+    tokens = nltk.word_tokenize(dokumen)
+    text = nltk.Text(tokens)
+    sents = tokenizer.tokenize(text)
+    print sents[:10]
+
+
+
 def grab_files(directory):
     for name in os.listdir(directory):
         full_path = os.path.join(directory, name)
@@ -22,7 +63,6 @@ def grab_files(directory):
             yield full_path
         else:
             print('Unidentified name %s. It could be a symbolic link' % full_path)
-
 
 def main():
     G = nx.Graph()
@@ -38,10 +78,8 @@ def main():
     ctrBerkas = 0
     sentTokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
-    print "Membuka folder korpus..."
     daftarBerkas = grab_files(folderKorpus)
     termList = []
-    print "Mengolah data dalam korpus..."
     for berkas in daftarBerkas:
         data = open(berkas)
         ctrBerkas += 1
