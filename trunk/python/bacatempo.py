@@ -27,6 +27,7 @@ def test_potong_kalimat():
         else:
             dokumen_kompas = dokumen_kompas + baris
     kompas.close()
+    return dokumen_kompas
     potong_kalimat(dokumen_kompas)
 #print dokumen_kompas
 
