@@ -22,11 +22,16 @@ def test_potong_kalimat():
     kompas = open('020101apid01.txt', 'r')
     dokumen_kompas = ''
     for baris in kompas:
-        if baris == '':
+        if len(baris) == 1:
+            dokumen_kompas += ' '
             continue
         else:
+            baris = baris.strip()
+            if not baris.endswith('.'):
+                baris += '.'
             dokumen_kompas = dokumen_kompas + baris
     kompas.close()
+    dokumen_kompas.replace('\n', ' ')
     return dokumen_kompas
     potong_kalimat(dokumen_kompas)
 #print dokumen_kompas
@@ -42,6 +47,7 @@ def test_potong_kalimat():
 #print dokumen_tempo
 
 
+
 def potong_kalimat(dokumen):
     '''
       Memotong dokumen ke dalam kalimat-kalimat penyusunnya.
@@ -49,8 +55,9 @@ def potong_kalimat(dokumen):
     tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
     tokens = nltk.word_tokenize(dokumen)
     text = nltk.Text(tokens)
-    sents = tokenizer.tokenize(text)
+    sents = tokenizer.tokenize(dokumen)
     print sents[:10]
+    return sents
 
 
 
@@ -64,6 +71,7 @@ def grab_files(directory):
             yield full_path
         else:
             print('Unidentified name %s. It could be a symbolic link' % full_path)
+
 
 def main():
     G = nx.Graph()
