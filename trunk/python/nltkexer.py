@@ -215,6 +215,7 @@ def latihan_wordnet():
     #Mengakses Berkas Lokal
     f = open('document.txt', 'r')
     data = f.read()
+    f.close()
     tokens = nltk.word_tokenize(data)
     texts = nltk.Text(tokens)
     texts.concordance('gene')
