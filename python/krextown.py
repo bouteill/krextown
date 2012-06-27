@@ -25,8 +25,16 @@ def init(workplace):
     workplace = workplace.lower().strip()
     if workplace == 'netbook-kantor':
         os.chdir('C:\\Users\\user\\Documents\\/02254\\krextown\\python')
+    elif workplace == 'netbook':
+        os.chdir('C:\\Users\\user\\Documents\\/02254\\krextown\\python')
     else:
         print "krextown init: Unknown workplace."
+
+
+def test_read():
+    text = read('000106-111.txt')
+    print type(text)
+    return text
 
 
 def read(aFile):
