@@ -2,6 +2,8 @@
 Membaca isi berkas dari korpus Tempo di folder yang diberikan.
 Anung Ariwibowo
 Versioning
+http://web.media.mit.edu/~hugo/montylingua/montylingua-2.1.zip
+http://web.media.mit.edu/~hugo/montylingua/
 20120118 Membaca korpus Tempo, memasukkannya ke nltk.Text.
 20120116 v1.0
 '''
