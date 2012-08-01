@@ -37,8 +37,19 @@ class The1stTimes(CrawlSpider):
     def parse(self, response):
         x = HtmlXPathSelector(response)
         post = x.select('//div[@class="post"]/text()').extract()
+        posts = x.select('//div[@class="post"]')
+        latest_entries = x.select('//li[@id="tab-latest]')
+        links = []
+        for post in posts:
+            link = post.select('a/@href').extract()
+            links.append(link)
+        for entry in latest_entries:
+            link = item.select('li/a/@href').extract()
+            links.append(link)
 
-        print "DEBUG post: ",post
+        print "DEBUG links: ",links
+
+        #print "DEBUG post: ",post
         print "DEBUG response.url: ",response.url
         urls = response.url.split("/")
         filename = urls[-2]
