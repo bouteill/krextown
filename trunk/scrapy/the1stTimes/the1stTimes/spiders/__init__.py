@@ -13,7 +13,7 @@ from scrapy.contrib.linkextractors.sgml import SgmlLinkExtractor
 from scrapy.contrib.spiders import CrawlSpider, Rule
 
 class The1stTimes(CrawlSpider):
-    name = "the1sttimes"
+    name = "the1stTimes"
     allowed_domains = ["the1sttimes.com"]
     start_urls = [
         'http://the1sttimes.com/?cat=31',
@@ -29,27 +29,35 @@ class The1stTimes(CrawlSpider):
     ]
     rules = [
         Rule(SgmlLinkExtractor(allow=['/the1sttimes.com/\?cat=\d+']),
-          'parse'),
+          'parse', follow=True),
         Rule(SgmlLinkExtractor(allow=['/the1sttimes.com/?p=\d+']),
-          'parse')
+          'parse', follow=True)
     ]
+
+    def __init__(self):
+        self.queue_links = []
+
 
     def parse(self, response):
         x = HtmlXPathSelector(response)
-        post = x.select('//div[@class="post"]/text()').extract()
+        a_post = x.select('//div[@class="post"]/text()').extract()
         posts = x.select('//div[@class="post"]')
-        latest_entries = x.select('//li[@id="tab-latest]')
-        links = []
+        #latest_entries = x.select('//li[@id="tab-latest]')
         for post in posts:
             link = post.select('a/@href').extract()
-            links.append(link)
+            if link not in self.queue_links:
+                self.queue_links.append(link)
+        '''
         for entry in latest_entries:
             link = item.select('li/a/@href').extract()
             links.append(link)
+        '''
 
-        print "DEBUG links: ",links
+        print "DEBUG links: ",self.count_members()
+        print "DEBUG links: ",self.queue_links
 
         #print "DEBUG post: ",post
+        '''
         print "DEBUG response.url: ",response.url
         urls = response.url.split("/")
         filename = urls[-2]
@@ -59,4 +67,12 @@ class The1stTimes(CrawlSpider):
         page_part = page_part.replace('=', '-')
         filename = filename + page_part + ".html"
         open(filename, 'wb').write(response.body)
+        '''
+
+
+    def count_members(self):
+        n = 0
+        for item in self.queue_links:
+            n += 1
+        return n
 
