@@ -32,7 +32,7 @@ def init(workplace):
 
 
 def test_read():
-    text = read('000106-111.txt')
+    text = read('lexrank.xml')
     print type(text)
     return text
 
@@ -45,7 +45,10 @@ def read(aFile):
         f = open(aFile, 'r')
         data = f.read()
         data.replace('\n', ' ')
-        tokens = nltk.word_tokenize(data.strip())
+        #tokens = nltk.word_tokenize(data.strip())
+        tokens = data.replace('\n', ' ').strip().lower().split(' ')
+        for token in tokens:
+            if token == '<doc>':
         text = nltk.Text(tokens)
     except IOError:
         print "Something wrong with",aFile,"."
