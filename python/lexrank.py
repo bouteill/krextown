@@ -12,6 +12,7 @@
 
 import os
 import nltk
+import networkx as nx
 
 
 def main():
@@ -49,6 +50,7 @@ def read(aFile):
         tokens = data.replace('\n', ' ').strip().lower().split(' ')
         for token in tokens:
             if token == '<doc>':
+                print 'found a doc'
         text = nltk.Text(tokens)
     except IOError:
         print "Something wrong with",aFile,"."
