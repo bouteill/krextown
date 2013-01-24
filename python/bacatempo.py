@@ -15,15 +15,23 @@
 
 import os
 import utility
+import nltk
+import networkx as nx
 
 
 def main():
+    init('netbook')
+
     filelist = []
     root = '../corpus-local/tempo-txt'
     os.path.walk(root, utility.ls, filelist)
     print root, 'has', len(filelist), 'files.'
+    print filelist[0]
+    print filelist[-1]
+    create_graph(filelist)
 
 
+def create_graph(filelist):
 def init(workplace):
     '''
     Change working directory, depends on workplace
