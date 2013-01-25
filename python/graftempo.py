@@ -1,11 +1,13 @@
 
+import os
 import nltk.data
 
 print nltk.data.path
 
 from nltk.corpus import PlaintextCorpusReader
 
-corpus_root = 'C:/Users/user/Documents/02254/krextown/corpus-local/tempo-txt'
+corpus_dir = '../corpus-local/tempo-txt'
+corpus_root = os.getcwd() + '/' + corpus_dir
 wordlists = PlaintextCorpusReader(corpus_root, '.*\.txt')
 
 len(wordlists.fileids())
