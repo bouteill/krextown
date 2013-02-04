@@ -34,8 +34,8 @@ def build_graph(folder, file_pattern):
   word_lists = PlaintextCorpusReader(corpus_root, file_pattern)
 
   naskah = word_lists.sents()
-  filelists = tempo_word_lists.fileids()
-  teks = tokenize.sent_tokenize(tempo_word_lists.raw(fileids=filelists))
+  filelists = word_lists.fileids()
+  teks = tokenize.sent_tokenize(word_lists.raw(fileids=filelists))
 
   print folder + " memiliki " + str(len(teks)) + ", " + str(len(naskah)) + " kalimat."
 
