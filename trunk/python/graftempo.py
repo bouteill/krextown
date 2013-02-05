@@ -12,19 +12,27 @@ def main():
   file_regex = '.*\.txt'
 
   G = build_graph(tempo_dir, file_regex)
+  '''
+  ccs = nx.clustering(G)
+  avg_clust = sum(ccs.values()) / len(ccs)
+  '''
   print tempo_dir
   print "\tAda " + str(len(G.nodes())) + " node."
   print "\tAda " + str(len(G.edges())) + " edge."
-  print "\tClustering coefficient      : " + str(nx.clustering(G))
-  print "\tAverage shortest path length: " + str(nx.clustering(G))
+  print "\tClustering coefficient      : " + str(nx.average_clustering(G))
+  print "\tAverage shortest path length"
+  for g in nx.connected_component_subgraphs(G):
+    print "\t\t" + str(nx.average_shortest_path_length(g))
 
   kompas_dir = '../corpus-local/kompas-txt'
   G = build_graph(kompas_dir, file_regex)
   print kompas_dir
   print "\tAda " + str(len(G.nodes())) + " node."
   print "\tAda " + str(len(G.edges())) + " edge."
-  print "\tClustering coefficient      : " + str(nx.clustering(G))
-  print "\tAverage shortest path length: " + str(nx.clustering(G))
+  print "\tClustering coefficient      : " + str(nx.average_clustering(G))
+  print "\tAverage shortest path length"
+  for g in nx.connected_component_subgraphs(G):
+    print "\t\t" + str(nx.average_shortest_path_length(g))
 
 
 
