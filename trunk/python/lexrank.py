@@ -6,6 +6,9 @@
 # TODO:
 # - Different computer Box has different folder location
 # VERSIONING
+# 20130216 compute intra-sentence cosine similarities of lexrank
+# corpus (d1003t).
+# Python's XML processing to extract sentences in d1003t.
 # 20120624
 # - init() function.
 
