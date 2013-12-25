@@ -3,6 +3,10 @@
 \begin_document
 \begin_header
 \textclass extarticle
+\begin_preamble
+\usepackage{wordlike}
+\end_preamble
+\options a5paper,includefoot,margin=2.5cm
 \use_default_options true
 \maintain_unincluded_children false
 \language bahasa
@@ -39,7 +43,7 @@
 \pdf_backref false
 \pdf_pdfusetitle true
 \papersize a5paper
-\use_geometry true
+\use_geometry false
 \use_amsmath 1
 \use_esint 1
 \use_mhchem 1
@@ -13331,7 +13335,7 @@ Surat yang berisi 206 ayat ini termasuk kelompok surat Makkiyyah yang diturunkan
 Isi
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Alif, Lâm, Mîm, Shâd, adalah huruf-huruf fonemis yang disebut di awal beberapa
  surat Makkiyyah untuk mengingatkan orang-orang musyrik bahwa al-Qur'ân
  terdiri atas huruf yang sama dengan fonem yang mereka bunyikan.
@@ -13341,7 +13345,7 @@ Alif, Lâm, Mîm, Shâd, adalah huruf-huruf fonemis yang disebut di awal beberap
  saling menasihati agar tidak mendengarkan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Al-Qur'ân diturunkan kepadamu supaya, dengan al-Qur'ân itu, kamu memberi
  peringatan kepada orang-orang yang mendustakannya agar mereka beriman,
  dan juga untuk mengingatkan orang-orang Mukmin supaya bertambah iman.
@@ -13349,7 +13353,7 @@ Al-Qur'ân diturunkan kepadamu supaya, dengan al-Qur'ân itu, kamu memberi
  dada dalam menyampaikan al-Qur'ân itu.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Ikutilah apa yang diwahyukan kepada kalian dan jangan mengikuti pemimpin-pemimpi
 n dengan menerima ajakan dan meminta bantuan kepada mereka.
  Kalian akan sedikit sekali mendapat nasihat dan pelajaran saat kalian meninggal
@@ -13358,7 +13362,7 @@ kan agama Allah dan mengikuti yang lain.
  nasihat.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Sungguh telah Kami binasakan banyak negeri karena penduduknya menyembah
  selain Allah dan mengikuti selain jalan-Nya.
  Siksaan Kami tersebut datang menimpa mereka di malam hari, di saat mereka
@@ -13367,7 +13371,7 @@ Sungguh telah Kami binasakan banyak negeri karena penduduknya menyembah
  menimpa kaum Nabi Syu'ayb.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Mereka mengakui dosa-dosa yang menjadi penyebab bencana.
  Tidak ada yang dapat mereka lakukan ketika menyaksikan siksaan Kami selain
  berkata, "Sesungguhnya kamilah yang menzalimi diri sendiri dengan berbuat
@@ -13376,7 +13380,7 @@ Mereka mengakui dosa-dosa yang menjadi penyebab bencana.
  tidak berguna lagi.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Pembalasan Allah pada hari kiamat nanti akan sangat teliti dan adil.
  Kami akan menanyakan orang-orang yang Kami datangkan para rasul apakah
  pesan-pesan Kami telah sampai kepada mereka dan bagaimana rasul-rasul itu
@@ -13385,14 +13389,14 @@ Pembalasan Allah pada hari kiamat nanti akan sangat teliti dan adil.
  segala apa yang diturunkan oleh Tuhan, dan bagaimana kaum mereka menyambutnya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Akan Kami kabarkan kepada mereka semua kabar yang benar, yang sesuai dengan
  apa yang mereka lakukan.
  Sebab Kami telah menghitung semua apa yang mereka kerjakan.
  Kami tidak pernah jauh dari mereka dan selalu tahu apa yang mereka lakukan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Pada hari itu Kami akan menanyakan dan memberitahukan mereka, perhitungan
  segala perbuatan untuk diberi balasan yang sangat adil.
  Orang-orang yang kebaikannya banyak, dan melebihi kejahatannya, adalah
@@ -13400,14 +13404,14 @@ Pada hari itu Kami akan menanyakan dan memberitahukan mereka, perhitungan
  Mereka akan Kami jaga dari api neraka dan akan Kami masukkan ke dalam surga.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Sebaliknya, siapa yang kejahatannya banyak, melebihi kebaikannya, adalah
  orang-orang yang merugi.
  Sebab mereka telah menjual diri kepada setan, sehingga tidak merenungi
  tanda-tanda kekuasaan Kami karena ingkar dan keras kepala.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Sesungguhnya Kami telah menempatkan kalian di muka bumi.
  Lalu Kami berikan kalian kekuatan untuk dapat mengeksploitasi dan mendaya-gunak
 annya.
@@ -13416,7 +13420,7 @@ annya.
  akan mendapatkan balasan dari itu.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Di dalam kisah-kisah umat terdahulu terdapat banyak pelajaran dan nasihat
  dan di situ jelas bahwa setan selalu berusaha menghilangkan nikmat-nikmat
  dari kalian dengan membuat kalian lupa perintah Allah.
@@ -13426,7 +13430,7 @@ Di dalam kisah-kisah umat terdahulu terdapat banyak pelajaran dan nasihat
  Semua menghormatinya kecuali Iblîs yang tidak taat.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Allah berfirman sebagai penolakan atas keingkarannya, "Apakah yang membuatmu
  tidak hormat kepadanya, padahal Kami telah memerintahmu untuk itu?" Dengan
  angkuhnya Iblîs menjawab, "Aku lebih baik daripada Adam.
@@ -13434,7 +13438,7 @@ Allah berfirman sebagai penolakan atas keingkarannya, "Apakah yang membuatmu
  Dan api lebih mulia daripada tanah."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Allah membalas sikap menentang dan kesombongan setan dengan mengusirnya
  dari surga-Nya.
  Dia berfirman kepadanya, "Turunlah kamu dari surga setelah sebelumnya kamu
@@ -13443,17 +13447,17 @@ Allah membalas sikap menentang dan kesombongan setan dengan mengusirnya
  Keluarlah dalam keadaan terhina!
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Iblîs berkata kepada Allah, "Berilah aku tenggang waktu.
  Dan jangan matikan aku sampai datang hari kiamat."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Lalu Allah menjawab dengan firman-Nya, "Kamu termasuk orang-orang yang ditangguh
 kan dan diakhirkan."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Karena dengki dan iri terhadap Adam, Iblîs berkata, "Karena Engkau telah
  menetapkan aku dalam kesesatan, aku bersumpah akan menyesatkan keturunan
  Adam.
@@ -13461,7 +13465,7 @@ Karena dengki dan iri terhadap Adam, Iblîs berkata, "Karena Engkau telah
  cara.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dan aku bersumpah akan mendatangi mereka dari segala arah: depan, belakang,
  kanan, kiri, dan segala penjuru yang memungkinkan.
  Akan aku cari kesempatan lengah dan titik lemah mereka untuk mencapai tujuan
@@ -13470,7 +13474,7 @@ Dan aku bersumpah akan mendatangi mereka dari segala arah: depan, belakang,
  nikmat-Mu."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Allah menambahkan kemurkaan-Nya dengan berfirman kepada setan, "Keluarlah
  kamu dari surga dengan keadaan terhina karena kesombongan dan pelanggaranmu,
  dan hidupmu akan berakhir dengan kebinasaan.
@@ -13478,7 +13482,7 @@ Allah menambahkan kemurkaan-Nya dengan berfirman kepada setan, "Keluarlah
  Aku isi neraka Jahanam dengan kamu dan mereka semua."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 "Hai Adam, tinggallah kamu dan istrimu di tempat kemuliaan-Ku, surga.
  Bersenang-senanglah kalian berdua di dalamnya.
  Makanlah apa saja yang kalian sukai, kecuali pohon ini.
@@ -13487,7 +13491,7 @@ Allah menambahkan kemurkaan-Nya dengan berfirman kepada setan, "Keluarlah
  sendiri lantaran siksaan yang timbul akibat pelanggaran."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Setan menggoda keduanya agar melanggar perintah Allah.
  Sehingga pakaian mereka terlepas dan auratnya terlihat.
  Setan berkata kepadanya, "Tuhan melarang kamu berdua mendekati pohon ini
@@ -13495,13 +13499,13 @@ Setan menggoda keduanya agar melanggar perintah Allah.
  nikmat yang tanpa terputus di dalam surga."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Setan bersumpah kepada keduanya bahwa ia termasuk orang-orang yang memberi
  nasihat.
  Sumpahnya pun berulang-ulang.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dengan tipu dayanya, setan berhasil menggiring mereka memakan buah dari
  pohon tersebut.
  Ketika mereka mencicipi dan aurat mereka terbuka, mereka kumpulkan dedaunan
@@ -13512,7 +13516,7 @@ Dengan tipu dayanya, setan berhasil menggiring mereka memakan buah dari
  kalian dalam kebaikan?"
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dengan menyesal dan menunduk, Adam dan istrinya berkata, "Ya Tuhan kami,
  kami telah menganiaya diri kami sendiri dengan melanggar perintah-Mu yang
  membuat segala nikmat hilang.
@@ -13520,20 +13524,20 @@ Dengan menyesal dan menunduk, Adam dan istrinya berkata, "Ya Tuhan kami,
  karunia-Mu, niscaya kami akan termasuk golongan yang merugi."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Allah berfirman kepada keduanya dan juga kepada setan, "Turunlah kalian,
  sebagian menjadi musuh bagi yang lain.
  Di bumi, kalian akan menemukan ketenangan dan kesenangan sampai datangnya
  waktu yang telah ditentukan untuk kalian.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Di bumi kalian akan hidup dan beranak pinak.
  Di sana kalian akan mati dan dikubur.
  Dan dari sana pula kalian akan dibangkitkan pada hari kiamat."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Hai anak keturunan Adam, Kami telah berikan nikmat kepada kalian.
  Kami ciptakan pakaian sebagai penutup aurat dan penghias diri.
  Tetapi ketakwaan adalah pakaian terbaik yang dapat memelihara diri dari
@@ -13546,7 +13550,7 @@ Hai anak keturunan Adam, Kami telah berikan nikmat kepada kalian.
  ingat, berusaha taat kepada Allah dan mensyukuri semua nikmat.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Hai anak Adam, jangan kalian penuhi ajakan dan kesesatan dari setan.
  Sebab, itu dapat menghilangkan nikmat-nikmat yang bisa kekal hanya dengan
  bersyukur dan taat kepada Allah.
@@ -13561,7 +13565,7 @@ Hai anak Adam, jangan kalian penuhi ajakan dan kesesatan dari setan.
  total.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Orang-orang yang mendustakan rasul, apabila melakukan kemungkaran seperti
  syirik, tawaf di sekeliling Ka'bah dengan telanjang dan sebagainya, beralasan
  dengan mengatakan, "Kami mendapati leluhur kami melakukan hal itu.
@@ -13574,7 +13578,7 @@ Orang-orang yang mendustakan rasul, apabila melakukan kemungkaran seperti
  kalian juga tidak mengetahui kebenarannya."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Terangkan kepada mereka apa yang diperintahkan Allah.
  Katakanlah, "Tuhanku menyuruh berlaku adil dan tidak berlaku keji.
  Dia menyuruh kalian beribadah hanya kepada-Nya di setiap waktu dan tempat.
@@ -13585,7 +13589,7 @@ Terangkan kepada mereka apa yang diperintahkan Allah.
  meninggalkan semua nikmat yang ada di sekeliling kalian."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Pada hari kiamat manusia terbagi ke dalam dua golongan.
  Pertama, golongan yang diberi hidayah oleh Allah karena memilih jalan kebenaran
 , beriman dan beramal saleh.
@@ -13596,7 +13600,7 @@ Pada hari kiamat manusia terbagi ke dalam dua golongan.
  Mereka mengira diri mereka benar karena terbuai oleh tipu daya setan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Hai anak Adam, pakailah hiasan-hiasan yang berupa pakaian materi yang menutupi
  aurat dan pakaian moril yaitu berupa takwa, di setiap tempat salat, waktu
  melaksanakan ibadah dan menikmati makanan dan minuman.
@@ -13626,7 +13630,7 @@ n tubuh.
  kejang jantung (angina pectoris).
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Katakanlah kepada mereka, hai Muhammad, dengan mengingkari dusta mereka
  kepada Allah dalam hal penghalalan dan pengharaman, "Siapakah yang dapat
  mengharamkan hiasan dari Allah yang diciptakan untuk hamba-Nya? Dan siapa
@@ -13643,7 +13647,7 @@ Katakanlah kepada mereka, hai Muhammad, dengan mengingkari dusta mereka
  Dalam kewenangan-Nyalah masalah halal dan haram."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Katakan, wahai Muhammad, "Tuhanku hanya mengharamkan hal-hal yang sangat
  keji seperti perzinaan yang dilakukan secara terang-terangan atau terselubung,
  maksiat, apa pun jenisnya dan penindasan yang tidak dapat dibenarkan.
@@ -13652,13 +13656,13 @@ Katakan, wahai Muhammad, "Tuhanku hanya mengharamkan hal-hal yang sangat
 "
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Tiap-tiap umat mempunyai batas waktu akhir yang telah ditentukan.
  Tidak ada satu kekuatan apa pun mampu memajukan dan mengundurkannya walau
  sesaat.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Hai anak Adam, ketika datang kepadamu rasul-rasul dari jenis manusia seperti
  kalian untuk menyampaikan wahyu yang berisi pesan-pesan-Ku, kalian terbagi
  dalam dua kelompok.
@@ -13667,14 +13671,14 @@ Hai anak Adam, ketika datang kepadamu rasul-rasul dari jenis manusia seperti
  di akhirat.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Kedua, orang-orang yang mendustakan pesan-pesan-Ku, menyombongkan diri dengan
  enggan mengikutinya dan memetik petunjuk darinya.
  Mereka itu adalah penghuni neraka, tersiksa di dalamnya dan kekal abadi
  dalam siksaan tersebut.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Tidak ada yang lebih zalim daripada orang-orang yang membuat dusta terhadap
  Allah dengan cara menyatakan Dia memiliki sekutu dan anak, mengaku-aku
  memiliki kewenangan dalam masalah halal-haram dan lainnya tanpa bukti,
@@ -13688,7 +13692,7 @@ Tidak ada yang lebih zalim daripada orang-orang yang membuat dusta terhadap
  Dalam diri, mereka mengakui bahwa mereka adalah orang-orang yang kafir.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Pada hari kiamat Allah berfirman kepada mereka yang kafir, "Masuklah kalian
  ke dalam neraka besama umat-umat jin dan manusia terdahulu yang kafir.
  Setiap kali suatu umat masuk ke dalam neraka, dia akan mengutuk umat yang
@@ -13709,7 +13713,7 @@ Pada hari kiamat Allah berfirman kepada mereka yang kafir, "Masuklah kalian
  Akan tetapi kalian semua tidak mengetahui sepedih apa siksaan itu.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Di sini orang-orang yang diikut berkata kepada yang mengikuti, "Ketundukan
  kalian dalam mengikuti kekafiran dan kemaksiatan kami tidak membuat kalian
  lebih baik dari kami lantas siksaan kalian menjadi ringan." Allah berfirman
@@ -13717,7 +13721,7 @@ Di sini orang-orang yang diikut berkata kepada yang mengikuti, "Ketundukan
  kekafiran dan kemaksiatan yang kalian lakukan."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Orang-orang yang mendustakan tanda-tanda kekuasaan Kami yang ada di kitab-kitab
  suci dan alam semesta, enggan memetik petunjuk darinya dan tidak bertobat,
  terputus harapannya untuk diterima amalnya, dan untuk mendapat kasih sayang
@@ -13728,20 +13732,20 @@ Orang-orang yang mendustakan tanda-tanda kekuasaan Kami yang ada di kitab-kitab
  dan menyombongkan diri.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Bagi mereka di neraka jahannam alas tidur dan selimut yang terbuat dari
  api.
  Dengan cara seperti ini Allah menghukum orang-orang yang menzalimi diri
  sendiri dengan kekafiran dan kesesatan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Orang-orang yang beriman dan beramal saleh yang Kami beri tugas-tugas yang
  dapat dilaksanakan, adalah penghuni surga.
  Mereka bersenang-senang dan kekal abadi di dalamnya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Kami keluarkan segala rasa dendam yang ada dalam hati mereka.
  Di surga mereka akan saling mengasihi.
  Di bawah mereka mengalir sungai-sungai dengan airnya yang tawar.
@@ -13758,7 +13762,7 @@ Kami keluarkan segala rasa dendam yang ada dalam hati mereka.
  di dunia."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Penghuni surga berseru kepada penghuni neraka dengan mengatakan, "Kami telah
  mendapatkan dengan sebenarnya pahala yang dijanjikan Tuhan kepada kami.
  Apakah kalian juga telah memperoleh siksa yang dijanjikan Tuhan dengan
@@ -13768,14 +13772,14 @@ Penghuni surga berseru kepada penghuni neraka dengan mengatakan, "Kami telah
  diri sendiri dengan kekafiran dan kesesatan."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Orang-orang yang lalim itu adalah mereka yang menghalangi manusia dari jalan
  Allah yang benar, berupa iman dan amal saleh, membuat hambatan dan keraguan
  sehingga jalan tersebut kelihatan bengkok dan orang tidak mengikutinya.
  Mereka itu ingkar terhadap kehidupan akhirat dan tidak takut hukuman Allah.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Di antara penghuni surga dan penghuni neraka terdapat pembatas.
  Tempat tertinggi dari pembatas itu, yang disebut a'râf, telah ditempati
  lebih dulu oleh orang-orang Mukmin yang terpilih dan terhormat.
@@ -13788,14 +13792,14 @@ Di antara penghuni surga dan penghuni neraka terdapat pembatas.
  dan surga yang akan dimasuki oleh mereka.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Setelah itu, ketika pandangan orang-orang Mukmin beralih ke arah penghuni
  neraka, mereka berkata karena melihat betapa menakutkannya neraka, "Ya
  Tuhan kami, janganlah Engkau masukkan kami ke dalamnya bersama orang-orang
  yang menzalimi diri, kebenaran dan manusia."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Orang-orang yang mempunyai derajat tinggi di surga--nabi-nabi dan orang-orang
  yang amat teguh kepercayaannya kepada kebenaran Rasul--menyeru penghuni
  neraka yang mereka kenali lewat ciri-cirinya dengan mencela, "Jumlah kalian
@@ -13804,7 +13808,7 @@ Orang-orang yang mempunyai derajat tinggi di surga--nabi-nabi dan orang-orang
  Sekarang lihat dan bandingkan keadaan kalian dan keadaan mereka."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Mereka, orang-orang lengah yang kalian rendahkan dan bersumpah tidak akan
  mendapat kasih sayang Allah--seakan-akan kalianlah yang mengaturnya--mereka
  itu telah masuk surga.
@@ -13814,7 +13818,7 @@ Mereka, orang-orang lengah yang kalian rendahkan dan bersumpah tidak akan
  tidak akan bersedih karena sesuatu yang terlewatkan."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Penghuni neraka menyeru penghuni surga dengan mengatakan, "Tinggalkan dan
  limpahkan untuk kami sedikit air.
  Atau berilah kami sedikit rezeki yang telah Allah berikan kepada kalian
@@ -13824,7 +13828,7 @@ Penghuni neraka menyeru penghuni surga dengan mengatakan, "Tinggalkan dan
  dan nikmat-nikmat-Nya di dunia."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Orang-orang kafir itu adalah mereka yang tidak berusaha mencari agama yang
  benar--bahkan agama mereka adalah mengikuti hawa nafsu dengan main-main--ditipu
  oleh kegemerlapan dunia sehingga mengira itulah satu-satunya kehidupan,
@@ -13835,7 +13839,7 @@ Orang-orang kafir itu adalah mereka yang tidak berusaha mencari agama yang
  bukti-bukti jelas yang mendukung kebenaran.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Sesungguhnya telah Kami berikan kepada mereka, sebagai penjelasan kebenaran,
  suatu kitab suci yang telah Kami buat jelas dan rinci, berisikan banyak
  ilmu pengetahuan.
@@ -13848,7 +13852,7 @@ Sesungguhnya telah Kami berikan kepada mereka, sebagai penjelasan kebenaran,
  selalu tunduk kepada kebenaran dan meyakininya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Sekali-kali mereka tidak meyakininya.
  Yang mereka tunggu hanyalah saat kembali yang telah dijelaskan oleh Allah
  untuk orang yang ingkar kepada-Nya.
@@ -13869,7 +13873,7 @@ n yang dapat menolong mereka.
  mereka.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Tuhan yang rasul-rasul-Nya menyeru kalian kepada kebenaran, percaya hari
  akhir dan pembalasan yang akan terjadi saat itu adalah pencipta alam semesta
  ini.
@@ -13885,7 +13889,7 @@ Tuhan yang rasul-rasul-Nya menyeru kalian kepada kebenaran, percaya hari
  Mahasuci dan Mahatinggi keberkahan Sang Pencipta alam seisinya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Jika hanya Allah, Tuhan kalian, yang menjadikan alam, maka memohonlah kepada-Nya
  dengan beribadah ritual atau ibadah lainnya sambil berdoa, berendah diri
  dengan suara keras atau tidak.
@@ -13893,7 +13897,7 @@ Jika hanya Allah, Tuhan kalian, yang menjadikan alam, maka memohonlah kepada-Nya
  Allah tidak menyukai orang-orang yang melampaui batas.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Jangan kalian membuat kerusakan di muka bumi yang telah dibuat baik dengan
  menebar kemaksiatan, kezaliman dan permusuhan.
  Berdoalah kepada-Nya dengan rasa takut akan siksa-Nya dan berharap pahala-
@@ -13902,7 +13906,7 @@ Jangan kalian membuat kerusakan di muka bumi yang telah dibuat baik dengan
  dan pasti terlaksana.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Hanya Allahlah yang mengirim angin sebagai pembawa berita datangnya rahmat
  melalui hujan yang menumbuhkan tanaman dan menyiraminya.
  Angin itu membawa awan(1) yang berisikan air.
@@ -13920,13 +13924,13 @@ Hanya Allahlah yang mengirim angin sebagai pembawa berita datangnya rahmat
  Awan inilah yang kemudian menurunkan hujan setelah berkumpul dan menebal.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Tanah yang baik, tanamannya tumbuh subur dan hidup dengan izin Allah.
  Dan tanah yang tidak subur, tidak menghasilkan kecuali sedikit tanaman
  yang tidak berguna, bahkan menjadi penyebab kerugian pemiliknya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Orang-orang musyrik telah membangkang dan mendustakan kebenaran yang datang
  kepada mereka dengan disertai bukti-bukti kuat.
  Itulah sikap orang-orang kafir pada masa lalu terhadap nabi-nabi mereka.
@@ -13939,20 +13943,20 @@ Orang-orang musyrik telah membangkang dan mendustakan kebenaran yang datang
  Aku takut saat itu kalian akan ditimpa siksa yang pedih."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Para tokoh dan pemuka masyarakat mereka menjawab seruan kepada keesaan Tuhan
  dan hari akhir itu dengan mengatakan, "Sesungguhnya kami memandang kamu
  telah berada jauh sekali dari kebenaran."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Nûh menjawab sambil membantah tuduhan mereka, "tidak terjadi pada diriku
  apa yang kalian kira.
  Aku adalah utusan Sang Pencipta alam semesta.
  Maka tidak mungkin berada jauh dari kebenaran.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dengan seruan yang benar kepada keesaan Tuhan dan percaya akan adanya hari
  akhir, aku menyampaikan pesan-pesan Tuhan yang dapat memberikan kemaslahatan
  bagi manusia, yang telah dipercayakan kepadaku.
@@ -13960,7 +13964,7 @@ Dengan seruan yang benar kepada keesaan Tuhan dan percaya akan adanya hari
  Allah telah mengajarkanku apa-apa yang tidak kalian ketahui.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Apakah kalian menuduhku telah tersesat dan jauh dari kebenaran? Dan apakah
  kalian heran bahwa peringatan Allah, pencipta kalian, telah datang melalui
  seorang lelaki yang datang untuk mengingatkan kalian akan datangnya siksa
@@ -13970,7 +13974,7 @@ Apakah kalian menuduhku telah tersesat dan jauh dari kebenaran? Dan apakah
  padahal telah ada bukti-bukti jelas yang menguatkan risalah."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Akan tetapi, meskipun telah ada bukti-bukti jelas, kebanyakan mereka tidak
  beriman, bahkan mendustakannya.
  Lalu Kami menimpakan mereka azab dengan ditenggelamkan ke dalam air.
@@ -13980,7 +13984,7 @@ Akan tetapi, meskipun telah ada bukti-bukti jelas, kebanyakan mereka tidak
  telah ada bukti-bukti yang jelas dan nyata.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Seperti halnya Kami mengutus Nûh kepada kaumnya untuk mengajak kepada keesaan
  Tuhan, Kami juga mengutus Hûd kepada kaum 'Ad.
  (1) Hûd adalah bagian dari mereka.
@@ -14008,13 +14012,13 @@ Seperti halnya Kami mengutus Nûh kepada kaumnya untuk mengajak kepada keesaan
  suatu masa pernah bepergian dari Ahqâf ke daerah tersebut.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Para tokoh dan pemuka mereka berkata, "Kami memandangmu dalam keadaan lemah
  akal karena menyerukan hal semacam itu.
  Kami sangat yakin bahwa kamu benar-benar termasuk orang-orang yang bohong."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Hûd menjawab, "Wahai kaumku, tidak ada padaku kelemahan akal dalam seruan
  yang aku bawa.
  Aku bukan pembohong.
@@ -14022,7 +14026,7 @@ Hûd menjawab, "Wahai kaumku, tidak ada padaku kelemahan akal dalam seruan
  Aku adalah utusan Allah, Tuhan semesta alam, yang datang kepada kalian.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Yang aku sampaikan adalah perintah dan larangan Tuhanku.
  Itulah pesan-pesan Tuhan untuk kalian.
  Aku hanyalah pemberi nasihat yang tulus bagi kalian.
@@ -14030,7 +14034,7 @@ Yang aku sampaikan adalah perintah dan larangan Tuhanku.
  Dan aku bukan termasuk orang-orang pembohong."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Kemudian Hûd berkata kepada mereka, "Apakah kalian heran dan merasa aneh
  dengan kedatangan peringatan berupa kebenaran melalui salah seorang di
  antara kalian yang mengingatkan akibat buruk dari perbuatan kalian? Tidak
@@ -14044,7 +14048,7 @@ Kemudian Hûd berkata kepada mereka, "Apakah kalian heran dan merasa aneh
  Maka ingatlah nikmat-nikmat tersebut agar kalian beruntung."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Akan tetapi, dengan seruan baik semacam ini mereka malah berkata dengan
  heran, "Apakah kamu datang untuk mengajak kami menyembah hanya kepada Allah
  dan harus meninggalkan patung-patung sesembahan leluhur kami? Kami tidak
@@ -14053,7 +14057,7 @@ Akan tetapi, dengan seruan baik semacam ini mereka malah berkata dengan
  kamu termasuk orang-orang yang benar."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Hûd berkata, "Dengan pembangkangan kalian, sudah pantas siksa dan kemurkaan
  Allah kalian terima.
  Apakah kalian akan mendebat aku tentang patung-patung yang kalian dan leluhur
@@ -14064,7 +14068,7 @@ Hûd berkata, "Dengan pembangkangan kalian, sudah pantas siksa dan kemurkaan
 a."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Lalu Kami selamatkan Hûd dan pengikut-pengikutnya yang beriman dengan kasih
  sayang Kami.
  Dan Kami turunkan kepada orang-orang kafir sesuatu yang memusnahkan mereka
@@ -14072,7 +14076,7 @@ Lalu Kami selamatkan Hûd dan pengikut-pengikutnya yang beriman dengan kasih
  Mereka tidak termasuk kelompok orang-orang yang beriman.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Kami utus kepada kaum Tsamûd(1) saudara mereka, Shâlih, yang berasal dari
  keturunan dan negeri mereka sendiri.
  Ajarannya sama dengan ajaran rasul-rasul yang datang sebelum dan sesudah
@@ -14105,7 +14109,7 @@ Kami utus kepada kaum Tsamûd(1) saudara mereka, Shâlih, yang berasal dari
  bagi orang yang melakukan perjalanan haji dari Syâm di dekat Wâdî al-Qurâ.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Ingatlah ketika Allah menjadikan kalian pewaris-pewaris negeri 'Ad.
  Dia menurunkan kalian di sebuah negeri sebagai tempat tinggal yang indah.
  Tanah-tanahnya yang datar kalian jadikan istana-istana yang megah.
@@ -14115,20 +14119,20 @@ Ingatlah ketika Allah menjadikan kalian pewaris-pewaris negeri 'Ad.
  Janganlah kalian berlaku semena-mena di muka bumi ini dengan menjadi perusak.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Para tokoh dan pemuka yang sombong berkata kepada orang-orang yang beriman
  dan dianggap lemah, sambil mencela dan mencibir, "Apakah kalian yakin bahwa
  Shâlih itu diutus oleh Tuhannya?" Orang-orang yang meyakini kebenaran menjawab,
  "Kami yakin dan tunduk kepada apa yang dibawanya."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Orang-orang yang sombong itu berkata, "Kami mengingkari dan menolak apa
  yang kalian yakini, yaitu seruan kepada keesaan Tuhan yang dibawa Nabi
  Shâlih."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Mereka yang sombong itu terus membangkang.
  Mereka menentang Allah dan rasul-Nya.
  Unta itu mereka sembelih.
@@ -14137,12 +14141,12 @@ Mereka yang sombong itu terus membangkang.
  janjikan jika kamu benar-benar telah diutus oleh Allah."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Lalu mereka ditimpa gempa bumi yang sangat dahsyat.
  Semuanya mati berserakan di tempat tinggal mereka.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Sebelum malapetaka itu menimpa, Shâlih sempat mengingatkan mereka dengan
  mengatakan, "Hai kaumku, aku telah sampaikan semua perintah dan larangan
  Tuhanku.
@@ -14151,7 +14155,7 @@ Sebelum malapetaka itu menimpa, Shâlih sempat mengingatkan mereka dengan
  menyukai orang-orang yang menasihati kalian."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Kami telah mengutus Lûth kepada kaumnya.
  Ia mengajak mereka kepada tauhid.
  Ia juga mengingatkan mereka agar meninggalkan perbuatan yang paling jelek
@@ -14161,7 +14165,7 @@ Kami telah mengutus Lûth kepada kaumnya.
  itu?
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Yaitu, kalian mendatangi laki-laki untuk melampiaskan nafsu seksual dengan
  mereka, sementara wanita- wanita itu kalian tinggalkan.
  Sungguh kalian telah berlebihan.
@@ -14169,7 +14173,7 @@ Yaitu, kalian mendatangi laki-laki untuk melampiaskan nafsu seksual dengan
  binatang saja belum pernah melakukannya."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Penolakan atas perbuatan yang sangat keji itu dijawab oleh kaumnya dengan
  hanya mengatakan, "Usirlah Lûth beserta keluarga dan para pengikutnya dari
  kota kalian ini.
@@ -14177,20 +14181,20 @@ Penolakan atas perbuatan yang sangat keji itu dijawab oleh kaumnya dengan
  akal dan fitrah tetapi dipandang baik oleh mereka."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Siksa Allah harus mereka terima.
  Lalu kami selamatkakan Lûth dan keluarganya, kecuali istrinya, sebab dia
  termasuk orang-orang yang tersesat.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Kami hujani mereka dengan bebatuan yang menghancurkan.
  Dari bawah mereka bumi digoncang dengan gempa.
  Perhatikanlah, wahai Nabi, bagaimana akhirnya kesudahan orang-orang yang
  berdosa itu.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Kami juga telah mengutus kepada penduduk Madyan saudara mereka, Syu'ayb.
  Ia berkata, "Menyembahlah kalian hanya kepada Allah.
  Tidak ada tuhan selain Dia.
@@ -14205,7 +14209,7 @@ Kami juga telah mengutus kepada penduduk Madyan saudara mereka, Syu'ayb.
  dan kebenaran yang nyata.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Janganlah kalian duduk di setiap jalan kebenaran, petunjuk dan amal saleh
  dengan menakut-nakuti orang yang akan menempuh jalan itu.
  Dengan begitu kalian berarti telah menghalangi para pencari kebenaran untuk
@@ -14219,14 +14223,14 @@ Janganlah kalian duduk di setiap jalan kebenaran, petunjuk dan amal saleh
  merusak.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Jika ada sekelompok orang di antara kalian yang beriman kepada kebenaran
  yang aku bawa dan ada sekelompok lain yang tidak beriman, maka tunggulah
  sampai Allah menetapkan hukum-Nya di antara dua kelompok tersebut.
  Dia adalah hakim yang sebaik-baiknya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Begitulah dakwah Syu'ayb kepada kaumnya.
  Akan tetapi kaumnya telah merajalela dalam kebatilan.
  Para pembesar mereka yang sombong dan tidak menerima kebenaran menghadapi
@@ -14238,7 +14242,7 @@ Begitulah dakwah Syu'ayb kepada kaumnya.
  karena rusak? Tidak mungkin itu akan terjadi."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Syu'ayb menolak keras keinginan mereka agar kembali kepada agama mereka
  semula.
  Ia berkata, "kalau kami kembali kepada agama kalian setelah Allah menunjuki
@@ -14255,7 +14259,7 @@ an dan mengadakan perbaikan dan orang-orang yang melakukan kebatilan dan
  kerusakan."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Sampai di sini, kaum Syu'aib merasa putus asa menundukkan Syu'ayb dan pengikutny
 a.
  Mereka tetap teguh pada agama mereka.
@@ -14268,13 +14272,13 @@ a.
  belum pernah diikuti oleh leluhur kalian."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Siksa Allah pantas mereka terima.
  Maka Allah menimpakan mereka gempa bumi yang membuat hati mereka kacau.
  Lalu matilah mereka, bergelimpangan di rumah-rumah dengan muka terjerumus.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Inilah siksa Allah terhadap orang-orang yang mendustakan Syu'ayb, mengancam
  akan mengusirnya dari kota mereka serta menolak ajakannya.
  Mereka semua binasa.
@@ -14284,7 +14288,7 @@ n Syu'ayb dan mengira bahwa orang yang mengikutinya akan merugi.
  dan akhirat.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Ketika Syu'ayb melihat kehancuran yang menimpa mereka, ia berpaling dari
  mereka dan berkata sambil melepaskan tanggung jawab, "Aku telah sampaikan
  kepada kalian pesan-pesan Tuhan yang dapat membawa kepada kebaikan jika
@@ -14297,7 +14301,7 @@ Ketika Syu'ayb melihat kehancuran yang menimpa mereka, ia berpaling dari
  mereka, tetapi mereka malah memilih kehancuran.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Setiap kami mengutus seorang nabi ke suatu negeri untuk mengajak penduduknya
  kepada agama Allah yang benar tetapi mereka menolak ajakan tersebut, mereka
  pasti akan ditimpa kemiskinan dan penyakit.
@@ -14306,7 +14310,7 @@ Setiap kami mengutus seorang nabi ke suatu negeri untuk mengajak penduduknya
  Begitu juga agar mereka memenuhi ajakan rasul.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Ketika mereka tidak melakukan itu dan terus kafir dan ingkar, Kami coba
  mereka dengan membiarkan mereka dalam kesenangan sebagai pengganti kesulitan.
  Kami berikan mereka keluasan rezeki, kesehatan dan keselamatan.
@@ -14324,7 +14328,7 @@ Ketika mereka tidak melakukan itu dan terus kafir dan ingkar, Kami coba
  Mereka kehilangan kesadaran atas apa yang akan menimpa.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Kalau saja penduduk negeri itu beriman kepada apa yang dibawa oleh para
  rasul, melakukan pesan- pesan mereka dan menjauhi larangan Allah, maka
  niscaya mereka akan Kami berikan sejumlah keberkahan dari langit dan bumi
@@ -14338,19 +14342,19 @@ Kalau saja penduduk negeri itu beriman kepada apa yang dibawa oleh para
 n akal.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Apakah penduduk negeri-negeri yang tidak beriman kepada ajakan para nabi
  yang telah sampai kepada mereka, merasa aman dari datangnya siksa Kami
  pada malam hari di saat mereka terlelap dalam tidur?
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Apakah mereka lalai dan merasa aman dari datangnya siksa Kami kepada mereka
  di waktu matahari sepenggalahan naik pada saat mereka hanyut dalam permainan
  yang sama sekali tidak berguna?
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Apakah mereka juga tidak mengetahui ketentuan Allah yang berlaku bagi orang-oran
 g yang mendustakan, lalu merasa aman dari datangnya siksa Allah pada waktu
  siang atau malam, yang diatur tanpa diketahui oleh manusia? Sesungguhnya
@@ -14359,7 +14363,7 @@ g yang mendustakan, hanyalah orang-orang yang merugikan diri sendiri dengan
  menutup mata terhadap sesuatu yang membawa kepada kebahagiaan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Apakah orang-orang yang meneruskan bangsa-bangsa terdahulu lupa akan ketentuan
  Allah yang berlaku untuk mereka, bahwa sikap Kami terhadap mereka sama
  seperti terhadap para pendahulu mereka? Yaitu, mereka semua tunduk kepada
@@ -14372,7 +14376,7 @@ Apakah orang-orang yang meneruskan bangsa-bangsa terdahulu lupa akan ketentuan
  untuk dipahami dan dipetik pelajarannya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Negeri-negeri yang masa dan sejarahnya telah lampau jauh itu Kami ceritakan
  kembali saat ini sebagian beritanya yang mengandung pelajaran.
  Telah datang kepada penduduk negeri-negeri itu rasul- rasul dengan membawa
@@ -14385,14 +14389,14 @@ Negeri-negeri yang masa dan sejarahnya telah lampau jauh itu Kami ceritakan
  kebenaran.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Kami tidak mendapati kebanyakan mereka itu memenuhi janji berupa keimanan
  yang Kami pesankan kepada mereka melalui para rasul dan nalar yang sehat.
  Tetapi keadaan kebanyakan mereka selalu dalam kefasikan dan melanggar perjanjia
 n.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Setelah rasul-rasul itu, Kami mengutus Mûsâ a.
  s.
  kepada Fir'aun dan kaumnya, dengan membawa bukti-bukti yang menunjukkan
@@ -14406,13 +14410,13 @@ Setelah rasul-rasul itu, Kami mengutus Mûsâ a.
  kerusakan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Mûsâ berkata, "Wahai Fir'aun, sesungguhnya aku diutus oleh Allah, Tuhan
  semesta alam yang berkuasa mutlak atasmu, untuk menyampaikan seruan dan
  syariat-Nya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Sungguh aku telah menyampaikan apa yang kudapatkan dari Allah secara benar.
  Untuk memperkuat kebenaran yang kubawa ini, aku datangkan kepadamu bukti-bukti
  yang jelas dan kuat.
@@ -14421,33 +14425,33 @@ Sungguh aku telah menyampaikan apa yang kudapatkan dari Allah secara benar.
  yang bukan wilayahmu, agar mereka dapat menyembah Tuhan mereka dan Tuhanmu."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Fir'aun menjawab, "Kalau kamu memang datang dengan membawa bukti pendukung
  dari Pengutusmu, maka perlihatkanlah itu kepadaku, jika kamu memang termasuk
  orang yang dapat dipercaya karena selalu mengatakan kebenaran."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Maka Mûsâ pun segera melemparkan tongkat yang ada di tangan kanannya ke
  hadapan Fir'aun dan kaumnya.
  Tiba-tiba tongkat itu menjadi ular yang merayap dengan cepat ke sana ke
  mari, yang menunjukkan bahwa ular itu memang benar-benar hidup.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dan ia pun mengeluarkan tangan dari kantongnya.
  Saat itu tangannya menjadi putih gemerlapan, membuat silau orang-orang
  yang melihatnya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Maka ketika Mûsâ telah memperlihatkan bukti-bukti dari Allah itu, tercenganglah
  para kroni dan pembesar Fir'aun.
  Mereka pun, dengan menjilat dan bersikap munafik, berkata kepada Fir'aun,
  "Ini sebenarnya hanya kemahiran sihir saja, bukan bukti dari Allah.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dengan sihirnya itu, ia sebenarnya ingin merampas kekuasaanmu dan mengusirmu
  dari negeri ini.
  Dengan sihir itu pula ia dapat meluluhkan hati warga negeri ini agar mengikutin
@@ -14456,20 +14460,20 @@ ya.
  yang dilakukannya ini!"
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Para pembesar itu pun menjawab, "Berilah tempo kepadanya dan saudaranya
  yang menjadi tangan kanannya.
  Kerahkanlah beberapa bala tentara ke kota-kota yang berada di bawah kekuasaanmu
  untuk mengumpulkan ahli-ahli sihir.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dengan berkumpulnya para ahli sihir itu di hadapanmu, mereka akan membeberkan
  hakikat yang sebenarnya dibawa Mûsâ.
  Dengan demikian, tak seorang pun yang dapat diperdaya."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Ahli-ahli sihir yang dikumpulkan oleh bala tentara itu pun datang ke hadapan
  Fir'aun.
  Kemudian mereka berkata kepada Fir'aun, "Tentulah kami akan mendapatkan
@@ -14477,18 +14481,18 @@ Ahli-ahli sihir yang dikumpulkan oleh bala tentara itu pun datang ke hadapan
 an Mûsâ."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Fir'aun menanggapi tuntutan mereka, "Tentu, bagi kalian upah yang besar.
  Lebih dari itu, kalian akan termasuk orang-orang terdekatku."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Para ahli sihir itu pun--setelah mendapatkan janji Fir'aun--dengan penuh
  percaya diri mendatangi Mûsâ dan berkata, "Silakan lempar lebih dulu apa
  yang kamu miliki, atau biar kami yang lebih dulu melempar."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dengan penuh keyakinan dan tanpa rasa takut sedikit pun, Mûsâ menjawab,
  "Lemparlah lebih dulu apa yang ada pada kalian." Ketika mereka semua telah
  melempar apa yang dibawa berupa tali dan tongkat, mata orang-orang pun
@@ -14499,41 +14503,41 @@ Dengan penuh keyakinan dan tanpa rasa takut sedikit pun, Mûsâ menjawab,
  dan mengagumkan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Allah pun memerintahkan agar Mûsâ melempar tongkatnya.
  Tibalah saat yang ditunggu, dan Mûsâ pun segera melemparkan tongkatnya.
  Seketika itu juga tongkat itu menelan dengan cepat pengelabuan dan kebohongan
  sihir mereka.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Maka nyatalah kebenaran yang berada di pihak Mûsâ dan batillah pengelabuan
  yang dilakukan para ahli sihir itu.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dalam pertemuan itu, Fir'aun beserta para pembantunya berada di pihak yang
  kalah.
  Mereka merasa sangat terhina dengan kekalahan ini.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Demikianlah halnya Fir'aun dan pembesar-pembesarnya.
  Adapun para ahli sihir itu, mereka tercengang kagum mendapati kebenaran
  yang terjadi itu, sehingga terdorong untuk sujud kepada Allah dan tunduk
  kepada kebenaran.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Mereka berkata, "Kami beriman kepada Pencipta alam semesta yang menguasai
  serta mengaturnya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Sesungguhnya Dia adalah Tuhan yang diyakini dan diimani oleh Mûsâ dan Hârûn."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Melihat itu, Fir'aun pun terkejut dan naik pitam, lalu berkata, "Apakah
  kalian beriman dan percaya kepada Tuhan Mûsâ dan Hârûn sedangkan aku belum
  mengizinkan kalian? Sungguh ini merupakan kesepakatan antar kalian dengan
@@ -14545,7 +14549,7 @@ Melihat itu, Fir'aun pun terkejut dan naik pitam, lalu berkata, "Apakah
  dan tipu muslihat yang kalian lakukan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Aku bersumpah akan menjadikan kalian sebagai bahan pelajaran.
  Akan aku potong tangan dan kaki kalian secara bersilang, tangan kanan dengan
  kaki kiri atau sebaliknya.
@@ -14554,14 +14558,14 @@ Aku bersumpah akan menjadikan kalian sebagai bahan pelajaran.
  dan melawan kekuasaan kami."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Tetapi ancaman itu tidak membuat mereka bergeming sedikit pun.
  Keimanan sudah sangat merasuk ke dalam kalbu mereka.
  Mereka pun berkata kepada Fir'aun, "Sesungguhnya kepada Tuhanlah kami akan
  kembali dalam naungan rahmat dan kenikmatan ganjaran-Nya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Sebenarnya kamu tidak berbuat ingkar dan menyiksa kami kecuali karena kami
  telah percaya kepada Mûsâ dan tunduk kepada ayat-ayat Tuhan kami yang jelas
  dan benar." Kemudian mereka tunduk kepada Allah dan berdoa, "Wahai Tuhan
@@ -14570,7 +14574,7 @@ Sebenarnya kamu tidak berbuat ingkar dan menyiksa kami kecuali karena kami
  Wafatkanlah kami dalam Islam tanpa tergoda oleh ancaman Fir'aun.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Setelah Fir'aun dan kaumnya menyaksikan kemenangan dan kehebatan Mûsâ serta
  keimanan para ahli sihir kepadanya, para pembesar Fir'aun pun berkata,
  "Apakah Mûsâ dan kaumnya kita biarkan bebas begitu saja? Di suatu saat
@@ -14585,7 +14589,7 @@ g Mesir akan mengetahui kelemahanmu." Fir'aun menjawab, "Akan kita bunuh
  Sesungguhnya kita akan selalu dapat menguasai dan menekan mereka."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Mûsâ pun melihat rasa takut pada kaumnya dan segera memompa optimisme mereka
  sambil berkata, "Mohonlah pertolongan dan bantuan Allah, janganlah kalian
  merasa gentar.
@@ -14595,7 +14599,7 @@ Mûsâ pun melihat rasa takut pada kaumnya dan segera memompa optimisme mereka
  Allah dengan berpegang teguh kepada ajaran-ajaran-Nya."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Lalu kaumnya berkata dengan nada lemah dan sedih, "Dulu, sebelum kedatanganmu,
  kami telah dianiaya oleh Fir'aun.
  Kini, setelah kamu datang, kami pun dianiaya juga." Mûsâ memberi harapan
@@ -14611,7 +14615,7 @@ Lalu kaumnya berkata dengan nada lemah dan sedih, "Dulu, sebelum kedatanganmu,
  dan di akhirat."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Sungguh kami telah memberi hukuman kepada Fir'aun dan kaumnya dengan mendatangka
 n kemarau panjang, musim paceklik dan sulitnya penghidupan karena kurangnya
  bahan-bahan pangan dan buah- buahan, dengan harapan agar mereka mengakui
@@ -14625,7 +14629,7 @@ n kemarau panjang, musim paceklik dan sulitnya penghidupan karena kurangnya
  mendorong untuk mengharap perkenan Tuhan semesta alam dan tunduk kepada-Nya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Akan tetapi Fir'aun dan kaumnya, yang tidak terbiasa memegang kebenaran,
  kembali ingkar dan berbuat maksiat.
  Mereka memang orang-orang yang tidak konsisten.
@@ -14644,7 +14648,7 @@ Akan tetapi Fir'aun dan kaumnya, yang tidak terbiasa memegang kebenaran,
  ini.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Karena adanya asumsi yang salah seperti inilah, mereka senantiasa tetap
  mempertahankan kemungkaran.
  Dan mereka--saat menyaksikan bukti-bukti kebenaran Mûsâ a.
@@ -14653,7 +14657,7 @@ Karena adanya asumsi yang salah seperti inilah, mereka senantiasa tetap
  kami tetap tidak akan percaya dan patuh kepadamu."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Maka Allah menimpakan kepada mereka lebih banyak lagi bencana dan malapetaka.
  Dimulai dalam bentuk angin topan yang meluluhlantakan tempat-tempat tinggal
  mereka, datangnya belalang dalam jumlah besar yang menggerogoti tumbuh-tumbuhan
@@ -14672,7 +14676,7 @@ a, atau berupa berubahnya air yang dibutuhkan dalam keseharian menjadi lautan
  melakukan kejahatan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Manakala ditimpa suatu azab, mereka--karena begitu mudah berubah sikap sesuai
  situasi--akan merengek kesakitan, "Wahai Mûsâ, mohonkanlah untuk kami perkenan
  Tuhanmu, yang telah berjanji memberimu ayat-ayat dan mengabulkan doamu,
@@ -14682,21 +14686,21 @@ Manakala ditimpa suatu azab, mereka--karena begitu mudah berubah sikap sesuai
  seperti yang kamu inginkan."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Tetapi setiap kali azab-azab yang menimpa mereka itu satu demi satu kami
  hilangkan, mereka selalu menyalahi janji dan mengkhianati sumpah mereka.
  Dan mereka pun kembali seperti sediakala.
  Cobaan- cobaan yang pedih itu tidak ada gunanya bagi mereka.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Maka Kami turunkan hukuman kepada mereka: Kami tenggelamkan mereka di laut
  karena pengingkaran yang selalu mereka lakukan terhadap ayat-ayat Kami
  dan karena keengganan mereka untuk mengimani dan mematuhi ayat-ayat Kami
  itu.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Sekelompok orang tertindas di Mesir, yakni Banû Isrâ'îl, kami anugerahkan
  mereka seluruh negeri--baik di belahan timur maupun barat--yang Kami berkahi
  dengan kesuburan dan kebaikan melimpah.
@@ -14712,7 +14716,7 @@ Nya kepada Banû Isrâ'îl.
  di muka bumi sebagai pemimpin dan pewaris bumi.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Banû Isrâ'îl, dengan lindungan dan bantuan Kami, dapat selamat menyeberangi
  lautan.
  Setelah selamat menyeberang, mereka melewati satu kaum yang sedang menyembah
@@ -14727,19 +14731,19 @@ Banû Isrâ'îl, dengan lindungan dan bantuan Kami, dapat selamat menyeberangi
  yang bagaimana yang patut disembah.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Sesungguhnya para penyembah berhala yang kalian lihat keyakinan mereka yang
  batil itu akan binasa.
  Perbuatan-perbuatan mereka akan musnah dan sia-sia belaka.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Apakah pantas aku mencarikan kalian sembahan selain Allah, Tuhan semesta
  alam yang telah memberi kalian keutamaan dan nikmat yang tidak diberikan
  kepada orang-orang semasa kalian?
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Ingatlah ketika Allah, dengan pertolongan-Nya, menyelamatkan kalian dari
  Fir'aun dan kaumnya.
  Sebelumnya, mereka selalu menyiksa kalian dengan siksaan yang sangat menyakitka
@@ -14755,7 +14759,7 @@ n.
  dan cobaan seberat itu."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Kami telah menjanjikan Mûsâ untuk bermunajat dan kemudian akan memperoleh
  Tawrât setelah melakukan ibadah selama tiga puluh hari.
  Kemudian, untuk melengkapi ibadahnya, Kami sempurnakan waktu pelaksanaannya
@@ -14767,7 +14771,7 @@ Kami telah menjanjikan Mûsâ untuk bermunajat dan kemudian akan memperoleh
  merusak."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Tatkala ia datang untuk bermunajat, Tuhan berbicara langsung kepadanya dalam
  suatu dialog yang tidak sama dengan pembicaraan yang dilakukan manusia.
  Mûsâ berkata, "Tuhanku, perlihatkanlah zat-Mu kepadaku.
@@ -14788,7 +14792,7 @@ Tatkala ia datang untuk bermunajat, Tuhan berbicara langsung kepadanya dalam
 Mu."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Tatkala Allah menolak permintaan Mûsâ untuk melihat-Nya, Dia telah menyiapkan
  untuk Mûsâ nikmat- nikmat yang lain sebagai penghibur penolakan itu, seraya
  berfirman, "Wahai Mûsâ, sesungguhnya Aku telah memberikan keutamaan kepadamu,
@@ -14798,7 +14802,7 @@ Tatkala Allah menolak permintaan Mûsâ untuk melihat-Nya, Dia telah menyiapkan
  sebagaimana yang dilakukan orang-orang yang mensyukuri nikmat-nikmat-Ku."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Di kepingan-kepingan Tawrât itu, Kami jelaskan kepada Mûsâ segala sesuatu
  yang berkaitan dengan ajaran-ajaran dan aturan-aturan terperinci yang dibutuhka
 n umat manusia dalam kehidupan dunia dan akhirat.
@@ -14814,7 +14818,7 @@ n umat manusia dalam kehidupan dunia dan akhirat.
  dari bencana yang menimpa mereka."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Orang-orang yang bersikap congkak di muka bumi dan enggan menerima kebenaran,
  mereka tak akan dapat mencermati bukti-bukti kekuasaan-Ku yang terdapat
  dalam diri manusia maupun di alam raya.
@@ -14826,7 +14830,7 @@ Orang-orang yang bersikap congkak di muka bumi dan enggan menerima kebenaran,
  turunkan dan tidak mau menjadikannya sebagai petunjuk.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dan orang-orang yang telah mendustakan ayat-ayat yang Kami turunkan melalui
  rasul-rasul, serta mendustakan pertemuan di hari kiamat dan mengingkari
  hari kebangkitan dan pembalasan, amal perbuatan mereka akan sia-sia belaka.
@@ -14834,7 +14838,7 @@ Dan orang-orang yang telah mendustakan ayat-ayat yang Kami turunkan melalui
  yang selalu mereka lakukan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Setelah kepergian Mûsâ ke bukit untuk bermunajat kepada Tuhan, kaumnya membuat
  sebuah patung anak lembu yang tidak dapat berpikir dan merasa dari perhiasan-pe
 rhiasan mereka.
@@ -14850,7 +14854,7 @@ rhiasan mereka.
  diri mereka sendiri.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Ketika mereka menyadari ketergelinciran dan kesalahan, mereka bingung dan
  menyesal telah menuhankan anak lembu.
  Mereka sadar atas kesesatan yang mereka lakukan, dan berkata, "Demi Allah,
@@ -14859,7 +14863,7 @@ Ketika mereka menyadari ketergelinciran dan kesalahan, mereka bingung dan
  mereka telah meletakkan ibadah bukan pada tempatnya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Setelah kembali dari bermunajat kepada Tuhan, Mûsâ--yang telah diberitahu
  oleh Allah apa yang terjadi pada kaumnya--merasa marah bercampur sedih
  melihat mereka menjadikan patung anak lembu sebagai sembahan.
@@ -14882,7 +14886,7 @@ ku.
  aku bebas dari kezaliman mereka."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Mûsâ berkata, "Ya Tuhanku, ampunilah aku karena telah menuduh saudaraku
  sebelum jelas duduk persoalannya.
  Ampunilah saudaraku jika ia memang melakukan kekurangan dalam mengemban
@@ -14891,7 +14895,7 @@ Mûsâ berkata, "Ya Tuhanku, ampunilah aku karena telah menuduh saudaraku
  Pengasih lagi Maha Penyayang."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Sesungguhnya mereka yang terus menyembah patung anak lembu, seperti al-Sâmiriy
  dan konco- konconya, di samping menjadi sangat terhina di dunia, juga akan
  mendapat murka Tuhan di akhirat.
@@ -14899,14 +14903,14 @@ Sesungguhnya mereka yang terus menyembah patung anak lembu, seperti al-Sâmiriy
  kebohongan terhadap Allah dan menyembah selain Dia.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dan orang-orang yang melakukan berbagai keburukan, seperti kekufuran, menuhankan
  patung anak lembu dan melakukan kemaksiatan, tetapi kemudian benar-benar
  bertobat kepada Allah, sesungguhnya Tuhanmu--dengan sebab pertobatan itu--akan
  menjadi Pelindung mereka dan mengampuni apa yang mereka lakukan sebelumnya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Setelah amarah Mûsâ reda, yang ditandai dengan pemaafannya atas Hârûn, ia
  pun mengambil kembali kepingan-kepingan Tawrât yang dilemparkannya tadi.
  Dan bagi orang yang takut akan murka Tuhan, apa yang tertera dalam Tawrat
@@ -14914,7 +14918,7 @@ Setelah amarah Mûsâ reda, yang ditandai dengan pemaafannya atas Hârûn, ia
  memperoleh rahmat Tuhan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Kemudian Allah menyuruh Mûsâ untuk mengumpulkan sejumlah orang di antara
  kaumnya untuk memintakan ampunan atas penyembahan mereka kepada patung
  anak lembu.
@@ -14954,7 +14958,7 @@ ya sebelum kami berangkat ke pertemuan ini? Mengapa Engkau tidak membinasakan
  Wa Allâh a'lam bi al-shawâb.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dan Allah menetapkan kami di dunia ini dengan kehidupan yang baik, dan kami
  pun akan selalu diberi petunjuk untuk menaati-Nya.
  Sementara di akhirat nanti, kami akan mendapatkan rahmat dan ganjaran kebaikan.
@@ -14966,7 +14970,7 @@ Dan Allah menetapkan kami di dunia ini dengan kehidupan yang baik, dan kami
  zakat, dan mengimani seluruh kitab suci yang diturunkan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Rahmat-Ku akan Aku utamakan bagi mereka yang mengikuti Muhammad saw., seorang
  rasul yang tak dapat membaca dan menulis, yang ciri-cirinya telah kalian
  temukan dalam Tawrât dan Injîl.
@@ -14982,7 +14986,7 @@ Rahmat-Ku akan Aku utamakan bagi mereka yang mengikuti Muhammad saw., seorang
  Sebaliknya, mereka yang ingkar, adalah orang-orang yang merugi."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai Nabi (Muhammad), katakan kepada umat manusia, "Sesungguhnya aku adalah
  utusan Allah kepada kalian semua, baik bangsa Arab maupun non-Arab, berkulit
  hitam atau berkulit putih.
@@ -14999,7 +15003,7 @@ Wahai Nabi (Muhammad), katakan kepada umat manusia, "Sesungguhnya aku adalah
  mendapat petunjuk ke jalan yang benar.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Di antara kaum Mûsâ terdapat sekelompok orang yang tetap berpegang teguh
  pada agama yang benar, serta mengajak manusia untuk mengikuti kebenaran
  yang telah disampaikan Mûsâ dari Tuhannya.
@@ -15007,7 +15011,7 @@ Di antara kaum Mûsâ terdapat sekelompok orang yang tetap berpegang teguh
  landasan kebenaran yang telah mereka dapatkan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Allah telah memberikan berbagai nikmat-Nya kepada kaum Mûsâ.
  Dibagilah mereka menjadi dua belas kelompok.
  Kelompok-kelompok itu kemudian menjadi paguyuban-paguyuban yang memiliki
@@ -15032,7 +15036,7 @@ Allah telah memberikan berbagai nikmat-Nya kepada kaum Mûsâ.
  diri mereka sendiri.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai Muhammad, ingatkanlah orang-orang Banû Isrâ'îl di zamanmu akan firman
  Kami yang disampaikan Mûsâ kepada nenek-moyang mereka, "Tinggallah kalian
  di kota Bayt al-Maqdis setelah keluar dari padang Tîh.
@@ -15045,7 +15049,7 @@ Wahai Muhammad, ingatkanlah orang-orang Banû Isrâ'îl di zamanmu akan firman
  optimal."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Tetapi mereka ternyata melanggar perintah-perintah itu.
  Untuk memperolok Mûsâ, mereka--dengan zalim--malah mengatakan ucapan yang
  tidak dperintahkan.
@@ -15053,7 +15057,7 @@ Tetapi mereka ternyata melanggar perintah-perintah itu.
  mereka mlampaui batas dan berbuat zalim.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Tanyakanlah, wahai Muhammad, kepada orang-orang Yahudi--guna mencela perbuatan
  nenek-moyang mereka--tentang ihwal penduduk negri Eilah yang terletak di
  tepi laut, ketika mereka melanggar aturan Allah dengan menangkap ikan pada
@@ -15066,7 +15070,7 @@ mentara di hari lain ikan-ikan itu tidak ada.
  dan mana yang jahat."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dan ingatkanlah pula orang-orang Yahudi itu, tatkala sekelompok orang-orang
  saleh dari leluhur mereka--yang tidak berbuat jahat seperti yang lainnya--berta
 nya kepada mereka yang menasihati orang-orang yang berbuat jahat, "Mengapa
@@ -15077,7 +15081,7 @@ nya kepada mereka yang menasihati orang-orang yang berbuat jahat, "Mengapa
  Sebenarnya, kami berharap agar mereka menjadi orang yang bertakwa."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Tatkala mereka tidak juga mendengarkan nasihat itu, mereka yang tidak melakukan
  kejahatan Kami selamatkan dari azab.
  Sementara mereka yang berbuat zalim, melanggar dan melampaui batas, Kami
@@ -15085,7 +15089,7 @@ Tatkala mereka tidak juga mendengarkan nasihat itu, mereka yang tidak melakukan
  Hal itu karena mereka selalu saja tidak mau taat kepada Allah, Tuhan mereka.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Ketika hati mereka semakin keras membatu, mereka terus melakukan berbagai
  pelanggaran, sementara azab yang pedih tidak membuat mereka jera, maka
  Kami jadikan mereka seperti layaknya kera.
@@ -15093,7 +15097,7 @@ Ketika hati mereka semakin keras membatu, mereka terus melakukan berbagai
 i halnya kera--mereka pun dijauhkan dari berbagai bentuk kebaikan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dan ingatkanlah pula orang-orang Yahudi itu, tatkala Allah memberitahukan--melal
 ui para nabi-Nya--kepada nenek-moyang mereka, bahwa Allah akan mengerahkan
  sekelompok orang untuk menyiksa orang-orang Yahudi hingga hari kiamat,
@@ -15105,7 +15109,7 @@ ng kafir.
  bertobat dan kembali menaati-Nya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Di muka bumi ini, Kami telah mengelompokkan mereka menjadi beberapa golongan:
  ada yang saleh, yaitu mereka yang beriman dan konsisten dengan keimanannya
  itu; ada pula yang berada di luar kategori saleh.
@@ -15113,7 +15117,7 @@ Di muka bumi ini, Kami telah mengelompokkan mereka menjadi beberapa golongan:
  mereka bertobat dan menyesali pelanggaran-pelanggaran yang mereka lakukan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Setelah dua golongan yang telah Kami kelompokkan tadi, akan datang satu
  generasi yang jahat.
  Mereka memang telah mewarisi Tawrât dari leluhur mereka, tetapi mereka
@@ -15135,13 +15139,13 @@ Setelah dua golongan yang telah Kami kelompokkan tadi, akan datang satu
  kesenangan dunia yang kalian lebih utamakan!"
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dan orang-orang yang berpegang teguh mengamalkan Tawrât serta melaksanakan
  kewajiban salat, sesungguhnya Kami tidak membiarkan mereka tanpa ganjaran
  atas kesalehan dan kebajikan yang mereka lakukan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Allah membantah orang-orang Yahudi yang mengatakan bahwa Banû Isrâ'îl itu
  tidak pernah melanggar kebenaran.
  Maka Allah berfirman, "Ingatkanlah mereka, wahai Nabi, ketika Kami mengangkat
@@ -15154,7 +15158,7 @@ Allah membantah orang-orang Yahudi yang mengatakan bahwa Banû Isrâ'îl itu
  dan membersihkan diri dengan ketakwaan!"
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Pada ayat ini Allah menjelaskan kepada umat manusia mengenai keesaan-Nya
  melalui bukti-bukti yang terdapat di alam raya, setelah sebelumnya dijelaskan
  melalui perantaraan para rasul dan kitab-kitab suci- Nya.
@@ -15178,7 +15182,7 @@ asi selanjutnya.
  7.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Atau agar mereka tidak beralasan, 'Hanyasanya para nenek-moyang kamilah
  yang telah menyekutukan Engkau.
  Sementara kami ini hanyalah anak-cucu yang mengikuti jejak leluhur.
@@ -15187,13 +15191,13 @@ Atau agar mereka tidak beralasan, 'Hanyasanya para nenek-moyang kamilah
  diterima lagi."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dengan penjelasan penuh hikmah seperti itulah Kami paparkan bukti-bukti
  adanya Allah kepada anak- anak Adam, agar mereka menyadari kesalahan mereka
  dan tidak menuruti begitu saja orang-orang yang berbuat kebatilan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Allah telah mengumpamakan orang-orang yang mendustakan ayat-ayat yang diturunkan
  kepada rasul- Nya, dan berkata, "Wahai Nabi, bacakanlah kepada kaummu kisah
  tentang seorang lelaki dari Banû Isrâ'îl yang mengetahui ayat-ayat yang
@@ -15202,7 +15206,7 @@ Allah telah mengumpamakan orang-orang yang mendustakan ayat-ayat yang diturunkan
  Maka ia pun termasuk kelompok orang-orang yang sesat.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Jika Kami menghendaki untuk mengangkat derajatnya ke golongan orang baik,
  niscaya Kami lakukan dengan memberinya petunjuk untuk mengamalkan ayat-ayat
  yang Kami turunkan.
@@ -15227,20 +15231,20 @@ a ke langit.
  lidah, anjing dapat bernafas lebih banyak dari biasanya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Sangat buruklah keadaan orang-orang yang menentang ayat-ayat Kami.
  Dengan mengingkari kebenaran, mereka sebenarnya tidak lain telah menganiaya
  diri mereka sendiri.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Barangsiapa yang diberi petunjuk oleh Allah untuk mengikuti kebenaran, maka
  dia benar-benar memperoleh kebahagiaan dunia dan akhirat.
  Dan barangsiapa yang dijauhkan dari petunjuk karena selalu mengikuti hawa
  nafsunya, maka dia termasuk kelompok yang merugi.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dan sungguh Kami telah menciptakan banyak di antara jin dan manusia yang,
  di hari kiamat nanti, akan berada di api neraka.
  Hal itu karena hati mereka tidak digunakan untuk menembus kebenaran, mata
@@ -15255,7 +15259,7 @@ Dan sungguh Kami telah menciptakan banyak di antara jin dan manusia yang,
  Mereka itu memang orang-orang yang sangat bodoh!
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dan Allah, tidak yang lain-Nya, memiliki nama-nama yang menunjuki kemahasempurna
 an-Nya.
  Maka lakukanlah doa, serulah dan gelarilah Allah dengan nama-nama itu.
@@ -15264,27 +15268,27 @@ an-Nya.
  Sesungguhnya perlakuan orang-orang seperti itu akan diberi balasan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Di antara orang-orang yang Kami siapkan surga untuk mereka, adalah meraka
  yang selalu mengajak kepada kebenaran, lalu berdasarkan kebenaran itu,
  mereka menegakkan keadilan dalam memutuskan hukum-hukum mereka.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dan orang-orang yang mendustakan ayat-ayat yang Kami turunkan, setahap demi
  setahap Kami biarkan mereka hingga mencapai tahap maksimal.
  Di saat tingkat kekayaan dan kesenangan dunia telah membuat mereka lupa
  daratan, maka mereka akan sangat terkejut jika kebinasaan itu datang.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dan Aku beri mereka kesempatan hidup yang cukup, tanpa melupakan kejahatan-kejah
 atan yang mereka lakukan.
  Rencana-Ku ini akan menyakitkan mereka, sesuai dengan kadar kejahatan yang
  mereka langgar.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Mereka terlalu cepat mendustakan dan tidak merenungi apa yang dibawa Rasulullah
  beserta bukti- buktinya.
  Lebih dari itu, mereka bahkan menuduh Rasulullah saw.
@@ -15295,7 +15299,7 @@ Mereka terlalu cepat mendustakan dan tidak merenungi apa yang dibawa Rasulullah
  Penjelasan yang disampaikannya itu benar-benar jelas dan lugas.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Mereka sungguh telah mendustakan Muhammad yang mengajak mereka untuk mengesakan
  Allah.
  Mereka pun tidak merenungi ciptaan Allah yang ada di langit dan di bumi,
@@ -15307,14 +15311,14 @@ Mereka sungguh telah mendustakan Muhammad yang mengajak mereka untuk mengesakan
  apa lagi yang bisa membuat mereka beriman?
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Barangsiapa yang telah Allah tentukan tersesat karena pilihan dan usahanya
  sendiri, tak satu pun yang dapat memberinya petunjuk.
  Dalam kesesatan itu, Allah membiarkan mereka terombang-ambing dan tak mendapatk
 an jalan kebenaran.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai Muhammad, orang-orang Yahudi bertanya kepadamu tentang hari kiamat
  yang mengakhiri kehidupan dunia ini, "Bilakah terjadinya dan bagaimana
  mengetahuinya?" Katakan kepada mereka, "Pengetahuan waktu kejadiannya hanya
@@ -15328,7 +15332,7 @@ nya ilmu tentang itu hanya ada pada Allah.
  kasat mata."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Katakanlah, wahai Muhammad, kepada mereka, "Aku tidak memiliki kekuasaan
  untuk mendatangkan kebaikan dan menolak kemudaratan kecuali jika Allah
  menghendakinya sehingga aku dapat melakukannya.
@@ -15340,7 +15344,7 @@ Katakanlah, wahai Muhammad, kepada mereka, "Aku tidak memiliki kekuasaan
  tunduk kepada kebenaran.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dialah, Allah, yang menciptakan kalian dari satu nafs (jiwa).
  Lalu dijadikanlah istri dari jenis nafs tadi sehingga lahirlah kemudian
  keturunan-keturunannya.
@@ -15353,7 +15357,7 @@ Dialah, Allah, yang menciptakan kalian dari satu nafs (jiwa).
  mudlghah
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Tetapi ketika permohonan mereka dikabulkan, keduanya itu--lewat anaknya--menjadi
 kan berhala sebagai sekutu Allah Swt.
  Mereka berdua bersyukur kepada berhala-berhala itu.
@@ -15361,26 +15365,26 @@ kan berhala sebagai sekutu Allah Swt.
 u yang mereka sembah itu.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Apakah patut mereka menyekutukan Allah dengan berhala-berhala yang tidak
  dapat melakukan apa- apa, lebih-lebih lagi mereka sendiri diciptakan oleh
  Allah?
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Berhala-berhala itu pun tak dapat menolong penyembah-penyembahnya, bahkan
  mereka pun tidak dapat menolong diri mereka sendiri, jika ada yang merusak
  mereka?
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Jika kalian, wahai penyembah berhala, meminta kepada berhala-berhala itu
  untuk memberi apa yang kalian sukai, mereka tidak akan dapat mengabulkan
  permintaan kalian! Maka, apakah kalian memohon kepada mereka atau pun tidak,
  sama saja akhirnya: mereka tidak ada gunanya sama sekali!
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Tuhan-tuhan yang kalian sembah selain Allah yang kalian berharap mendatangkan
  manfaat dari mereka adalah makhkuk yang tunduk kepada Allah sesuai tabiat
  ciptaan mereka, seperti halnya kalian.
@@ -15388,7 +15392,7 @@ Tuhan-tuhan yang kalian sembah selain Allah yang kalian berharap mendatangkan
  tuhan-tuhan itu agar mereka mewujudkan keinginan kalian.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Bahkan berhala-berhala itu lebih rendah derajatnya dari kalian dalam segi
  ciptaan dan aspek bentuk.
  Apakah mereka itu mempunyai kaki untuk berjalan dan tangan untuk menampik
@@ -15404,33 +15408,33 @@ Bahkan berhala-berhala itu lebih rendah derajatnya dari kalian dalam segi
  Maka, jangan kalian beri aku penundaan waktu karena aku tidak menghiraukannya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Sesungguhnya penolongku atas kalian hanyalah Allah.
  Kepada-Nya aku ikrarkan perwalian.
  Dia yang menurunklan al-Qur'ân kepadaku.
  Dan hanya Allah sajalah penolong hamba-hamba-Nya yang saleh.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Adapun berhala-berhala yang kalian minta pertolongan kepada mereka selain
  Allah tidak akan dapat memberikan pertolongan itu pada kalian, juga pada
  diri mereka sendiri.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Apabila kalian meminta petunjuk kebaikan pada tuhan-tuhan kalian, mereka
  tidak akan mendengar apalagi mengabulkan permintaan itu.
  Di hadapan kalian, mereka seolah-olah dapat itu melihat kalian, padahal
  sesungguhnya mereka tidak melihat apa-apa.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai Nabi, berpalinglah kamu dari orang-orang bodoh, teruskan langkah dakwahmu.
  Berikanlah kemudahan-kemudahan pada manusia dan perintahkan mereka berbuat
  kebajikan yang dipandang baik oleh akal pikiran.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Apabila kamu mendengar bisikan setan untuk meninggalkan apa yang diperintahkan
  Allah kepadamu--seperti saat dirimu murka karena hujatan-hujatan jahat
  mereka--mohonlah perlindungan Allah, niscaya Dia akan mengusir bisikan-bisikan
@@ -15438,7 +15442,7 @@ Apabila kamu mendengar bisikan setan untuk meninggalkan apa yang diperintahkan
  Karena sesungguhnya Allah Maha Mendengar dan Melihat apa pun yang terjadi.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Sesungguhnya orang-orang yang takut kepada Allah yang memberi batas antara
  diri mereka dengan perbuatan-perbuatan maksiat berupa dinding yang menghalang-h
 alangi masuknya rayuan dan godaan setan yang dapat memalingkan mereka dari
@@ -15447,13 +15451,13 @@ alangi masuknya rayuan dan godaan setan yang dapat memalingkan mereka dari
  Dan di saat menyadari kebenaran, mereka akan kembali kepada-Nya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Sementara pengikut-pengikut setan dari kalangan orang-orang kafir semakin
  lama semakin terjerumus dalam kesesatan oleh bisikan dan rayuannya.
  Selamanya mereka tidak akan meninggalkan kesesatan karena kesadaran.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Selama kamu belum membawa bukti-bukti yang diminta oleh orang-orang kafir
  yang ingkar dan membangkang, mereka akan berkata, "Bukankah kami telah
  memintanya kepadamu?" Katakan pada mereka, "Aku tidak akan mengikuti kecuali
@@ -15463,13 +15467,13 @@ Selama kamu belum membawa bukti-bukti yang diminta oleh orang-orang kafir
  ajaran-Nya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai orang-orang yang beriman, apabila al-Qur'ân dibacakan kepada kalian,
  maka simaklah agar kalian dapat merenungi pesan-pesan kebaikan (maw'izhah).
  Simaklah sepenuh hati agar kalian mendapat rahmat.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Ingatlah Tuhan dalam hatimu, kamu akan merasakan kehadiran, kedekatan dan
  rasa takut pada-Nya.
  Tidak perlu kamu bersuara keras, ataupun terlalu lemah.
@@ -15478,15 +15482,26 @@ Ingatlah Tuhan dalam hatimu, kamu akan merasakan kehadiran, kedekatan dan
  Jangan sampai kamu lupa berzikir pada Allah.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Sesungguhnya orang yang dekat dengan Tuhanmu karena penghormatan dan perkenan-Ny
 a, tidak menyombongkan diri dan lalai beribadah.
  Mereka menyucikan Allah dari sifat-siafat yang serba tidak layak untuk-Nya.
 \end_layout
 
+\begin_layout Section
+Al-anfal (Harta Rampasan Perang)
+\end_layout
+
+\begin_layout Subsection
+Pendahuluan
+\end_layout
+
 \begin_layout Standard
-[[8 ~ AL-ANFAL (HARTA RAMPASAN PERANG) Pendahuluan: Madaniyyah, 75 ayat
- ~ Surat al-Anfâl diturunkan di Madinah dan terdiri atas 75 ayat.
+Madaniyyah, 75 ayat
+\end_layout
+
+\begin_layout Standard
+Surat al-Anfâl diturunkan di Madinah dan terdiri atas 75 ayat.
  Dalam surat ini Allah memaparkan penjelasan sebagian hukum dan latar belakang
  perang.
  Diketengahkan pula faktor-faktor pembawa kemenangan dan peran strategis
@@ -15503,10 +15518,17 @@ a, tidak menyombongkan diri dan lalai beribadah.
  Surat al-Anfâl ditutup dengan uraian masalah yang berkaitan dengan perwalian
  antar sesama orang Mukmin, dan penjelasan hukum yang mewajibkan orang-orang
  Mukmin untuk berhijrah dari bumi penindasan untuk berjuang bersama saudara-saud
-ara seiman demi kejayaan Islam dan umatnya.]] Bermula dari makar dan rencana
- jahat orang-orang musyrik untuk membunuh Rasulullah saw., Allah memerintahkan
- Rasul-Nya itu berhijrah meninggalkan kota suci Mekah menuju Madinah sebagai
- bumi tempat tinggal selamanya.
+ara seiman demi kejayaan Islam dan umatnya.
+\end_layout
+
+\begin_layout Subsection
+Isi
+\end_layout
+
+\begin_layout Enumerate
+Bermula dari makar dan rencana jahat orang-orang musyrik untuk membunuh
+ Rasulullah saw., Allah memerintahkan Rasul-Nya itu berhijrah meninggalkan
+ kota suci Mekah menuju Madinah sebagai bumi tempat tinggal selamanya.
  Di bumi kemenangan itulah nantinya orang-orang Muslim membangun suatu negara
  yang berdaulat.
  Bertolak dari realitas seperti itu, tidak ada alasan lain kecuali berjihad
@@ -15530,7 +15552,7 @@ ara seiman demi kejayaan Islam dan umatnya.]] Bermula dari makar dan rencana
  karena hal yang demikian itu merupakan sifat orang-orang beriman."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Sesungguhnya hati orang-orang yang benar-benar beriman selalu dipenuhi rasa
  takut dan tunduk kepada Allah.
  Apabila disebut asma Allah hati mereka bergetar dan diliputi rasa takut
@@ -15542,7 +15564,7 @@ Sesungguhnya hati orang-orang yang benar-benar beriman selalu dipenuhi rasa
  yang menciptakan, melindungi, dan memelihara mereka.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Sesungguhnya orang-orang yang benar-benar beriman adalah mereka yang mengerjakan
  salat berikut rukun-rukunnya secara sempurna dengan penuh rasa khusyuk
  dan ketertundukan diri agar mereka selalu dalam keterkaitan dengan Tuhan,
@@ -15551,7 +15573,7 @@ Sesungguhnya orang-orang yang benar-benar beriman adalah mereka yang mengerjakan
  kepentingan kaum lemah.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Mereka yang memiliki sifat-sifat seperti tersebut di atas itulah orang yang
  benar-benar beriman.
  Mereka akan mendapatkan derajat yang tinggi di sisi Allah.
@@ -15560,7 +15582,7 @@ Mereka yang memiliki sifat-sifat seperti tersebut di atas itulah orang yang
  di akhirat.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Sesungguhnya kemenangan itu ada pada Allah, tempat bergantungnya segala
  urusan.
  Dan sesungguhnya persengketaan orang-orang beriman menyangkut soal pembagian
@@ -15570,7 +15592,7 @@ Sesungguhnya kemenangan itu ada pada Allah, tempat bergantungnya segala
  dari orang-orang Mukmin itu enggan berperang.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Golongan yang enggan berperang itu membantahmu dan berusaha mempertahankan
  pendapat sendiri dengan maksud menentang perintah yang benar untuk berjihad.
  Karena pada saat yang bersamaan kelompok itu bersama kolega-kolega mereka
@@ -15585,7 +15607,7 @@ Golongan yang enggan berperang itu membantahmu dan berusaha mempertahankan
  menuju kematian, dengan menyaksikan sebab-sebab kematian itu.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai orang-orang yang beriman, ingatlah janji Allah.
  Dia akan memenangkan kalian atas salah satu di antara dua golongan musuh,
  yaitu pasukan yang bersenjata dan berkekuatan.
@@ -15610,13 +15632,13 @@ Wahai orang-orang yang beriman, ingatlah janji Allah.
  kekufuran.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Juga, demi menegakkan kebenaran dan menghapuskan kebatilan, meskipun orang-orang
  kafir yang telah melanggar hak Tuhan, hak orang-orang beriman dan hak mereka
  sendiri merasa benci.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai orang-orang yang beriman, ingatlah--sementara kalian berebut dan mempersen
 gketakan harta rampasan perang--saat kalian berbondong-bondong menghadap
  Allah memohon pertolongan karena kalian tidak mempunyai pilihan selain
@@ -15642,7 +15664,7 @@ nkan doa mereka dan mengirimkan seribu malaikat secara berturut-turut.
  Kemenangan hanya dan selalu datang dari Allah.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Bantuan yang didatangkan oleh Allah berupa malaikat itu untuk membawa berita
  kemenangan agar kalian berbesar hati dan terus maju.
  Sungguh pertolongan itu tidak datang selain dari Allah yang Mahakuat dan
@@ -15650,7 +15672,7 @@ Bantuan yang didatangkan oleh Allah berupa malaikat itu untuk membawa berita
  ilmu-Nya yang meliputi segala sesuatu.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai orang-orang yang beriman, ingatlah di saat kalian kekurangan perbekalan
  air dan di saat kalian dicekam rasa takut pada musuh, lalu Allah mendatangkan
  pada kalian rasa aman.
@@ -15677,7 +15699,7 @@ Wahai orang-orang yang beriman, ingatlah di saat kalian kekurangan perbekalan
  meruntuhkan senjata lawan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai orang-orang yang beriman, ketahuilah bahwa Allah telah mewahyukan
  kepada para malaikat itu untuk membisikkan ke dalam hati kalian.
  Allah berfirman kepada malaikat, "Aku akan menyertai kalian untuk membantu
@@ -15690,7 +15712,7 @@ Wahai orang-orang yang beriman, ketahuilah bahwa Allah telah mewahyukan
  pedang."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dukungan dan kemenangan itu adalah bagi kalian, sedangkan orang-orang musyrik
  itu hanya akan merasa takut dan gentar.
  Hal itu disebabkan karena mereka menentang Allah dan Rasul-Nya.
@@ -15701,7 +15723,7 @@ Dukungan dan kemenangan itu adalah bagi kalian, sedangkan orang-orang musyrik
  Dan siksa Allah itu amat keras.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Begitulah peperangan, wahai orang-orang yang beriman.
  Maka, rasakanlah pahit-manisnya perang dengan jiwa penuh keyakinan bahwa
  kalian akan mendapat pertolongan dan kemenangan.
@@ -15709,14 +15731,14 @@ Begitulah peperangan, wahai orang-orang yang beriman.
  lain di hari kiamat berupa siksa neraka.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai orang-orang yang memihak dan tunduk pada kebenaran, apabila kalian
  berhadapan dengan orang-orang kafir di medan perang yang menuju ke arah
  kalian dengan jumlah yang besar, janganlah kalian melarikan diri dan membelakan
 gi senjata mereka.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Barangsiapa yang tidak mempunyai keberanian menghadapi musuh lalu melarikan
  diri dan meninggalkan medan laga, maka Allah akan murka kepadanya.
  Kelak ia akan dijadikan penghuni neraka, seburuk-buruk tempat kembali.
@@ -15725,7 +15747,7 @@ Barangsiapa yang tidak mempunyai keberanian menghadapi musuh lalu melarikan
  sebagai tambahan kekuatan, maka hal itu tidak berdosa.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Apabila kalian telah memenangkan peperangan itu atas mereka dan kalian telah
  berhasil membunuh musuh, maka sesungguhnya hal itu bukan semata-mata karena
  kekuatan kalian.
@@ -15743,12 +15765,12 @@ Apabila kalian telah memenangkan peperangan itu atas mereka dan kalian telah
  beriman dan musuh-musuh mereka.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Itulah kemenangan yang besar dan Allah Maha Melemahkan tipu muslihat orang-orang
  kafir.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai orang-orang yang menyekutukan Allah, jika kalian memohon kepada Allah
  dengan cara bergelantungan pada kain penutup Ka'bah, agar Dia memutuskan
  perkara antara kalian dengan orang-orang beriman, maka telah datang kepada
@@ -15761,7 +15783,7 @@ Wahai orang-orang yang menyekutukan Allah, jika kalian memohon kepada Allah
  Sesungguhnya Allah bersama orang-orang yang percaya dan tunduk pada kebenaran.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai orang-orang yang berpihak dan tunduk pada kebenaran, sesungguhnya
  kalian telah benar-benar mengetahui bahwa kemenangan itu datang atas bantuan
  Allah dan oleh sikap patuh pada Allah dan Rasul- Nya.
@@ -15770,14 +15792,14 @@ Wahai orang-orang yang berpihak dan tunduk pada kebenaran, sesungguhnya
  kalian mendengar dan memahami apa yang dikatakannya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Janganlah kalian berperangai seperti orang-orang munafik yang berkata, "Kami
  telah mengetahui dan mengerti kebenaran," akan tetapi sebenarnya mereka
  tidak mempercayai dan tidak tunduk kepada kebenaran, seakan-akan mereka
  tidak mengetahui kebenaran itu.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Sesungguhnya orang-orang musyrik, termasuk di dalamnya orang-orang munafik,
  bagaikan binatang yang paling buruk.
  Pendengaran mereka tuli dan tidak dapat mendengar, mulut mereka bisu dan
@@ -15785,7 +15807,7 @@ Sesungguhnya orang-orang musyrik, termasuk di dalamnya orang-orang munafik,
  Mereka memang tidak mau mendengar, mengatakan dan memikirkan yang benar.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Kalau saja Allah berkehendak mengetahui, dengan ilmu-Nya yang azali, bahwa
  ihwal mereka nantinya tidak akan mendatangkan kebaikan bagi diri mereka
  sendiri, bagi orang lain dan bagi kebenaran, niscaya Allah akan membuat
@@ -15796,7 +15818,7 @@ Kalau saja Allah berkehendak mengetahui, dengan ilmu-Nya yang azali, bahwa
  karena mereka telah dikuasai hawa nafsu.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai orang-orang yang berpihak dan tunduk pada kebenaran, sambutlah Allah
  dengan sepenuh hati jika Dia memerintahkan kalian untuk mengerjakan sesuatu.
  Sambutlah Rasul-Nya--sebagai penyampai pesan-pesan Allah--apabila dia menyeru
@@ -15810,7 +15832,7 @@ Wahai orang-orang yang berpihak dan tunduk pada kebenaran, sambutlah Allah
  kalian, dan kelak kalian akan dikumpulkan Allah di hari kiamat, hari pembalasan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Lindungilah diri kalian dari dosa-dosa besar yang merusak tatanan masyarakat.
  Jauhilah sikap enggan berjihad di jalan Allah, perpecahan, dan rasa malas
  melaksanakan kewajiban melakukan amar makruf nahi munkar.
@@ -15819,7 +15841,7 @@ Lindungilah diri kalian dari dosa-dosa besar yang merusak tatanan masyarakat.
  Yakinlah bahwa siksa Allah di dunia dan akhirat itu amat keras.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Ingatlah kembali wahai orang-orang yang beriman--meskpiun saat ini kalian
  telah menjadi bangsa yang kuat--masa-masa ketika masih menjadi kaum minoritas,
  kaum tertindas, di mana semua musuh mengeksploitasi kelemahan kalian dan
@@ -15833,7 +15855,7 @@ Ingatlah kembali wahai orang-orang yang beriman--meskpiun saat ini kalian
  tinggi kalimat yang benar.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai orang-orang yang beriman, percaya dan tunduklah kepada kebenaran.
  Allah tidak membenarkan ada orang dari kalangan kalian yang berkhianat
  kepada-Nya dan rasul-Nya dengan berpihak kepada penentang-penentang kebenaran
@@ -15844,7 +15866,7 @@ Wahai orang-orang yang beriman, percaya dan tunduklah kepada kebenaran.
  memahami perintah dan larangan-Nya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Ketahuilah pula wahai orang-orang yang benar-benar beriman, bahwa cobaan
  hidup itu di antaranya disebabkan oleh cinta yang berlebihan pada anak-anak
  kalian.
@@ -15854,7 +15876,7 @@ Ketahuilah pula wahai orang-orang yang benar-benar beriman, bahwa cobaan
  dan anak keturunan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai orang-orang yang percaya dan tunduk kepada kebenaran, apabila kalian
  patuh pada perintah Allah dalam kesendirian atau di tengah keramaian, maka
  Allah akan memberikan karunia pada kalian berupa kekuatan yang dapat membedakan
@@ -15865,7 +15887,7 @@ Wahai orang-orang yang percaya dan tunduk kepada kebenaran, apabila kalian
  Dialah Allah yang senantiasa memiliki karunia yang besar.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai Nabi, ingatlah apa yang diberikan Allah padamu, manakala orang-orang
  musyrik merencanakan makar untuk mencelakakan dirimu, dengan menahan, membunuh
  atau mengusirmu.
@@ -15874,7 +15896,7 @@ Wahai Nabi, ingatlah apa yang diberikan Allah padamu, manakala orang-orang
  Dan rencana Allah itu lebih baik, lebih kuat dan lebih unggul.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai Muhammad, perhatikanlah sikap permusuhan yang diperlihatkan oleh orang-ora
 ng kafir pada saat dirimu memperdengarkan ayat-ayat suci al-Qur'ân, ayat-ayat
  Kami.
@@ -15884,14 +15906,14 @@ ng kafir pada saat dirimu memperdengarkan ayat-ayat suci al-Qur'ân, ayat-ayat
  Ia tidak lebih dari mitos-mitos yang dikarang oleh orang-orang terdahulu."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Ingatlah, wahai Nabi, bagaimana mereka menentangmu dan menentang Allah seraya
  mengatakan dengan nada menantang, "Kalau apa yang engkau bawa itu adalah
  benar, turunkanlah hujan batu dari langit, atau turunkan siksa yang amat
  keras dan pedih."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dengan hikmah-Nya, Allah tidak akan menurunkan siksa duniawi yang berat
  pada mereka, sementara engkau berada di tengah-tengah mereka, dengan harapan
  mereka menyambut seruanmu itu.
@@ -15899,7 +15921,7 @@ Dengan hikmah-Nya, Allah tidak akan menurunkan siksa duniawi yang berat
  mereka meminta ampunan, menyadari dan meninggalkan kekeliruan mereka.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dan sungguh keadaan mereka seperti sekarang ini layak ditimpakan azab, sebab
  mereka telah berani merintangi manusia yang hendak mendatangi Masjid al-Harâm,
  sebagai tempat yang tidak boleh dijadikan ajang peperangan.
@@ -15914,7 +15936,7 @@ Dan sungguh keadaan mereka seperti sekarang ini layak ditimpakan azab, sebab
  agama dan mengerti kedudukan masjid itu di sisi Allah.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Doa dan permohonan mereka di depan masjid yang agung itu tidak lebih dari
  sekadar siulan dan tepukan tangan.
  Maka jika demikian halnya, terimalah kematian kamu sekalian di medan perang,
@@ -15922,7 +15944,7 @@ Doa dan permohonan mereka di depan masjid yang agung itu tidak lebih dari
  Dan kematian itu tidak lain akibat kekufuran kalian.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Sesungguhya orang-orang yang mengingkari ayat-ayat dan menyekutukan Allah
  itu membelanjakan harta dan kekayaan mereka untuk merintangi manusia agar
  tidak percaya pada kebenaran dan mereka bersikeras melakukan hal itu.
@@ -15932,7 +15954,7 @@ Sesungguhya orang-orang yang mengingkari ayat-ayat dan menyekutukan Allah
  di neraka jahanam, selama mereka masih mempertahankan kekufuran.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Kekalahan di dunia dan siksa yang telah menunggu mereka di akhirat, oleh
  Allah akan dijadikan sebagai batas pemisah antara manusia yang jiwa, tingkah
  laku dan ucapannya kotor, dari mereka yang hati dan budinya luhur dan ucapan
@@ -15944,7 +15966,7 @@ Kekalahan di dunia dan siksa yang telah menunggu mereka di akhirat, oleh
  dunia dan akhirat.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Meskipun ucapan Tuhan itu bernada keras dan berisi ancaman, akan tetapi
  pintu tobat masih tetap terbuka lebar.
  Maka katakanlah, wahai Nabi pembawa kasih sayang dan rahmat, kepada para
@@ -15958,7 +15980,7 @@ Meskipun ucapan Tuhan itu bernada keras dan berisi ancaman, akan tetapi
 entuan untuk menang.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Teruskanlah memerangi orang-orang musyrik sampai mereka menghentikan tindakan
  yang merusak kepercayaan orang-orang beriman melalui penindasan dan penyiksaan.
  Apabila mereka benar-benar meninggalkan kekufuran dan tidak lagi mnenyakiti
@@ -15968,7 +15990,7 @@ Teruskanlah memerangi orang-orang musyrik sampai mereka menghentikan tindakan
  dengan perang.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Jika mereka terus berpaling dan menyakiti orang-orang Mukmin, maka ketahuilah,
  hai orang-orang yang beriman, bahwa kalian berada dalam perlindungan Allah,
  suatu perlindungan yang paling disukai dan paling kuat.
@@ -15976,7 +15998,7 @@ Jika mereka terus berpaling dan menyakiti orang-orang Mukmin, maka ketahuilah,
  Pertolongannya adalah yang paling kuat dan paling agung.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai orang-orang yang beriman, ketahuilah bahwa perolehan kalian dari harta
  orang-orang kafir dalam peperangan, itu aturan hukumnya dibagi menjadi
  lima bagian.
@@ -16001,7 +16023,7 @@ Wahai orang-orang yang beriman, ketahuilah bahwa perolehan kalian dari harta
  mereka atas orang-orang kafir yang jauh lebih besar jumlahnya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Ingatlah ketika kalian berada di suatu lembah yang lebih dekat dengan perkampung
 an Madinah, sedangkan pasukan musuh berada jauh dari kawasan itu.
  Sementara itu, kafilah-kafilah dagang yang kalian tunggu kedatangannya
@@ -16020,7 +16042,7 @@ an Madinah, sedangkan pasukan musuh berada jauh dari kawasan itu.
  atau kata hati kedua belah pihak yang luput dari pengetahuan Allah.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dan ingatlah, wahai Rasul, ketika Allah berkenan memberikan karunia kepadamu.
  Allah melukiskan dalam mimpimu pasukan-pasukan musuh itu dalam jumlah sedikit,
  guna membesarkan hatimu dan menjanjikan kepadamu kemenangan dan mengokohkan
@@ -16032,7 +16054,7 @@ Dan ingatlah, wahai Rasul, ketika Allah berkenan memberikan karunia kepadamu.
  Sesungguhnya Allah Maha Mengetahui isi hati yang ada di dalam dada.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Perhatikanlah, wahai Rasul, ketika Allah memperlihatkan musuh-musuhmu kepadamu
  dalam jumlah yang kecil, sebagaimana Allah menampakkan kalian dalam pandangan
  mereka, juga dalam pasukan yang kecil.
@@ -16045,7 +16067,7 @@ Perhatikanlah, wahai Rasul, ketika Allah memperlihatkan musuh-musuhmu kepadamu
  sebab musababnya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai orang-orang yang beriman, apabila kalian bertemu dengan musuh yang
  bersenjata, maka hadapilah mereka.
  Janganlah kalian merasa gentar, apalagi mundur.
@@ -16065,7 +16087,7 @@ Wahai orang-orang yang beriman, apabila kalian bertemu dengan musuh yang
  sebagai upaya menghindari kegagalan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Taatilah Allah dengan menepati segala perintah dan larangan-Nya.
  Tinggalkanlah perselisihan dan pertikaian yang membuat kalian tercerai
  berai dan lemah.
@@ -16074,7 +16096,7 @@ Taatilah Allah dengan menepati segala perintah dan larangan-Nya.
  peneguhan dan belaan yang baik.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Janganlah kalian bersikap seperti orang yang meninggalkan tempat tinggalnya
  dengan membangga- banggakan kekayaan, kekuatan dan kesenangan hidup, lalu
  memamerkannya pada khalayak ramai, agar mendapatkan sanjungan mereka.
@@ -16084,7 +16106,7 @@ Janganlah kalian bersikap seperti orang yang meninggalkan tempat tinggalnya
  Dia akan memberikan balasan kepada mereka di dunia dan akhirat.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai orang-orang yang beriman, ingatlah ketika setan menjadikan perbuatan
  orang-orang musyrik itu indah dalam pendangan mereka, melalui bisikan dan
  rayuannya.
@@ -16097,7 +16119,7 @@ Wahai orang-orang yang beriman, ingatlah ketika setan menjadikan perbuatan
  Sesungguhnya, siksan Allah amat keras.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai Rasul, dengarkanlah kata-kata orang munafik dan lemah iman saat mereka
  menyaksikan keberanian dan kegigihan orang-orang beriman, "Orang-orang
  Muslim itu tertipu oleh agama mereka sendiri." Akan tetapi, sesungguhnya
@@ -16109,14 +16131,14 @@ Wahai Rasul, dengarkanlah kata-kata orang munafik dan lemah iman saat mereka
 Nya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Andaikata dirimu, wahai Muhammad, menyaksikan pemandangan mengerikan pada
  saat malaikat mencabut nyawa orang-orang kafir, kalian akan mendapatkan
  malaikat itu memukuli tubuh orang-orang kafir itu dari depan dan belakang,
  seraya berkata, "Rasakan siksa api neraka, akibat perbuatan kalian."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Sesungguhnya Allah tidak menganiaya hamba-hamba-Nya disebabkan siksaan-Nya
  atas perbuatan jahat yang mereka lakukan.
  Itulah keadilan, karena selamanya tidak akan sama antara yang berbuat baik
@@ -16124,7 +16146,7 @@ Sesungguhnya Allah tidak menganiaya hamba-hamba-Nya disebabkan siksaan-Nya
  Maka siksa Allah itu sebagai balasan atas kejahatan mereka.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Tradisi dan ihwal orang-orang yang menyekutukan Allah itu tidak ada bedanya
  dengan Fir'aun dan orang-orang sombong pada zaman dahulu.
  Sebagian dari mereka mengingkari ayat-ayat Allah.
@@ -16134,7 +16156,7 @@ Tradisi dan ihwal orang-orang yang menyekutukan Allah itu tidak ada bedanya
  mereka yang berhak menerima hukuman.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Inilah keputusan yang adil dalam memberi hukuman.
  Sebab Allah tidak akan mengubah nikmat yang telah dikaruniakan pada suatu
  kaum berupa perdamaian, kesejahteraan hidup dan kesehatan selama mereka
@@ -16143,7 +16165,7 @@ Inilah keputusan yang adil dalam memberi hukuman.
  Allah Maha Mendengar dan Maha Mengetahui perbuatan mereka.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Tradisi orang-orang yang mengingkari ayat-ayat Allah dan nikmat-Nya sama
  seperti kebiasaan pengikut-pengikut Fir'aun dan orang-orang sebelum mereka.
  Demikian pula kelakuan mereka dalam mendustakan para rasul dan tanda-tanda
@@ -16155,19 +16177,19 @@ Tradisi orang-orang yang mengingkari ayat-ayat Allah dan nikmat-Nya sama
  Dan mereka pantas menerima hukuman itu karena telah menganiaya diri sendiri.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Seburuk-buruk makhluk yang berjalan di muka bumi ini, dalam pandangan Allah
  dan sesuai dengan hukum dan keadilan-Nya, adalah orang-orang kafir yang
  bersikukuh mempertahankan kekafiran mereka.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Yaitu golongan yang telah mengadakan perjanjian dan senantiasa melanggarnya.
  Mereka adalah orang-orang Yahudi yang tidak mau melihat keagungan Tuhan
  dan tidak takut pada bencana dan siksa-Nya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai Rasul, jika engkau bertemu orang-orang yang melanggar perjanjian itu
  di medan perang, hukumlah mereka dengan hukuman yang membuat mereka dan
  orang-orang yang di belakang mereka menjadi jera dan bercerai-berai.
@@ -16186,7 +16208,7 @@ an barisan belakang musuh yang belakangan ini dianggap cukup jitu oleh taktik
  berbagai perlengkapan perang, cukup untuk menghancurkan seluruh barisan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Apabila engkau merasakan tanda-tanda pengkhianatan suatu kaum terhadap perjanjia
 n yang engkau buat antara engkau dengan mereka, maka putuskanlah usaha-usaha
  pengkhianatan itu dengan memberikan ultimatum baru bahwa engkau telah membatalk
@@ -16196,7 +16218,7 @@ timu.
  ada pengkhianat di antara kalian.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Janganlah orang-orang kafir itu menyangka bahwa diri mereka akan dapat lolos,
  selamat dan tidak akan menanggung risiko pengkhianatan itu.
  Mereka tidak akan mungkin melemahkan kemahatelitian Allah.
@@ -16204,7 +16226,7 @@ Janganlah orang-orang kafir itu menyangka bahwa diri mereka akan dapat lolos,
  dan keadilan-Nya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai orang-orang Muslim, persiapkanlah segala kemampuan perang yang kalian
  miliki, yang meliputi segala perlengkapan perang, untuk menghadapi musuh-musuh
  kalian.
@@ -16230,7 +16252,7 @@ Wahai orang-orang Muslim, persiapkanlah segala kemampuan perang yang kalian
 an pertempuran.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Apabila musuh-musuh kalian itu cenderung untuk berdamai dan ingin mengakhiri
  perang, maka sambutlah kemauan mereka itu, wahai Rasul.
  Karena perang bukan semata-mata sebagai tujuan bagimu, tapi engkau berperang
@@ -16248,7 +16270,7 @@ Apabila musuh-musuh kalian itu cenderung untuk berdamai dan ingin mengakhiri
 nisasi dunia semacam PBB.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Apabila usulan damai mereka itu ternyata hanya siasat, tipu daya dan makar,
  niscaya Allah akan melindungi dirimu dari perbuatan mereka dengan berbagai
  bentuk.
@@ -16257,7 +16279,7 @@ Apabila usulan damai mereka itu ternyata hanya siasat, tipu daya dan makar,
  hati orang-orang yang beriman dari kalangan Muhâjirîn dan Anshâr.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Allah telah menyatukan kedua kelompok itu dalam satu ikatan saling mencinta
  dan menyayangi, setelah sebelumnya mereka saling bermusuhan dan terpecah
  belah.
@@ -16272,12 +16294,12 @@ Allah telah menyatukan kedua kelompok itu dalam satu ikatan saling mencinta
  Dialah yang memelihara segala urusan manusia untuk kemaslahatan mereka.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai Nabi, cukuplah Allah sebagai Penolong dan Pelindung bagi dirimumu,
  dan bagi pengikut- pengikutmu yang beriman.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai Muhammad, perintahkanlah orang-orang yang beriman untuk berperang
  demi menjunjung tinggi kalimat Allah.
  Gembirakanlah hati mereka dengan kebaikan-kebaikan dunia dan akhirat di
@@ -16291,7 +16313,7 @@ Wahai Muhammad, perintahkanlah orang-orang yang beriman untuk berperang
  pahala.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai orang-orang yang beriman, merupakan suatu kewajiban bagi kalian untuk
  menghadapi musuh yang kekuatannya seimbang dengan kalian.
  Tetapi pada saat kalian lemah seperti ini, Allah memberikan keringanan
@@ -16318,7 +16340,7 @@ Wahai orang-orang yang beriman, merupakan suatu kewajiban bagi kalian untuk
  pasukan, menjelaskan taktik perang dan lain sebagainya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Tidak seorang pun dari para nabi diperbolehkan untuk memiliki dan menahan
  para tawanan atau mengambil harta tebusan dari mereka.
  Tidak pula mereka diperbolehkan mengampuni para tawanan itu sehingga kalian
@@ -16333,12 +16355,12 @@ Tidak seorang pun dari para nabi diperbolehkan untuk memiliki dan menahan
 n kebaikan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Kalau bukan karena ketetapan azali Allah untuk memaafkan mujtahid yang salah,
  niscaya kalian akan mendapatkan azab oleh tindakan kalian yang ceroboh.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Makanlah dari apa yang kalian dapatkan dari harta rampasan berupa bahan-bahan
  makanan.
  Itu semua halal hukumnya, bukan pekerjaan yang kotor.
@@ -16347,7 +16369,7 @@ Makanlah dari apa yang kalian dapatkan dari harta rampasan berupa bahan-bahan
  sebagaimana Dia kehendaki.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai Nabi, katakanlah kepada para tawanan yang berada di tanganmu, "Apabila
  ada niat baik di hati kalian yang Allah pasti mengetahuinya, kalian akan
  diberi kebaikan yang lebih utama dari yang telah diambil orang-orang Mukmin
@@ -16358,7 +16380,7 @@ Wahai Nabi, katakanlah kepada para tawanan yang berada di tanganmu, "Apabila
  dan dosanya."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Apabila mereka bermaksud mengkhianatimu seperti yang pernah dilakukan sebagian
  dari mereka-- dengan memperlihatkan kecondongan mereka pada Islam, tetapi
  merahasiakan maksud tersembunyi dalam hati mereka untuk mengelabuhi kamu--maka
@@ -16372,7 +16394,7 @@ Apabila mereka bermaksud mengkhianatimu seperti yang pernah dilakukan sebagian
  telah memenangkan hamba-hamba-Nya yang beriman.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Orang-orang yang percaya pada kebenaran dan tunduk kepada hukum Tuhan lalu
  berhijrah dari Makkah, berjihad dengan taruhan jiwa dan harta yang berlindung
  dalam keterasingan, membantu Rasulullah memerangi musuh-musuhnya dan memusuhi
@@ -16392,7 +16414,7 @@ n.
  dalam jurang siksa-Nya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Orang-orang yang kafir, masing-masing menjadi pelindung bagi yang lain.
  Mereka saling menolong dalam kebatilan dan dalam memusuhi kalian.
  Maka janganlah kalian tunduk kepada mereka.
@@ -16400,7 +16422,7 @@ Orang-orang yang kafir, masing-masing menjadi pelindung bagi yang lain.
  fitnah bencana dalam barisan kalian dan kerusakan yang besar di dunia.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Orang-orang yang beriman dan berhijrah di jalan Allah serta memberi tempat
  kepada mereka dan menolong kebenaran dan kalimat Allah, adalah orang-orang
  yang benar-benar beriman.
@@ -16408,7 +16430,7 @@ Orang-orang yang beriman dan berhijrah di jalan Allah serta memberi tempat
  dunia dan akhirat.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Orang-orang yang beriman belakangan, dan akhirnya berhijrah serta berjihad
  bersama dengan orang-orang yang sebelumnya, adalah golongan kalian, wahai
  orang-orang Muhâjirîn dan Anshâr.
@@ -16421,9 +16443,20 @@ Orang-orang yang beriman belakangan, dan akhirnya berhijrah serta berjihad
  atas segala sesuatu.
 \end_layout
 
+\begin_layout Section
+At-tawbah (Pengampunan)
+\end_layout
+
+\begin_layout Subsection
+Pendahuluan
+\end_layout
+
 \begin_layout Standard
-[[9 ~ AT-TAWBAH (PENGAMPUNAN) Pendahuluan: Madaniyyah, 129 ayat ~ Surat
- yang termasuk kelompok Madaniyyah ini berisikan 129 ayat dan diturunkan
+Madaniyyah, 129 ayat.
+\end_layout
+
+\begin_layout Standard
+Surat yang termasuk kelompok Madaniyyah ini berisikan 129 ayat dan diturunkan
  di Madinah pada tahun 9 Hijriyah.
  Surat ini dibacakan oleh 'Aliy ibn Abî Thâlib kepada orang-orang Muslim
  pada musim haji.
@@ -16478,9 +16511,16 @@ an Rasulullah saw.
  untuk membawa pesan-pesan suci-Nya dan tidak menghendaki adanya pembangkangan
  orang terhadap rasul yang diutus kepada mereka.
  Dia Maha Pengasih dan Maha Penyayang terhadap mereka, dan cukuplah Allah
- sebagai penolong bagi Rasul apabila mereka menolak ajakannya.]] Allah dan
- Rasul-Nya tidak bertanggung jawab kepada orang-orang musyrik yang mengadakan
- perjanjian dengan kalian kemudian melanggar perjanjian itu.
+ sebagai penolong bagi Rasul apabila mereka menolak ajakannya.
+\end_layout
+
+\begin_layout Subsection
+Isi
+\end_layout
+
+\begin_layout Standard
+Allah dan Rasul-Nya tidak bertanggung jawab kepada orang-orang musyrik yang
+ mengadakan perjanjian dengan kalian kemudian melanggar perjanjian itu.
 \end_layout
 
 \begin_layout Standard
@@ -61707,38 +61747,55 @@ Dan jika kamu telah diberikan hal tersebut, maka kerjakanlah selalu salat
 Sesungguhnya orang yang membencimu adalah terputus dari segala kebaikan.
 \end_layout
 
+\begin_layout Section
+Al-kafirun (Orang-orang Kafir)
+\end_layout
+
+\begin_layout Subsection
+Pendahuluan
+\end_layout
+
 \begin_layout Standard
-[[109 ~ AL-KAFIRUN (ORANG-ORANG KAFIR) Pendahuluan: Makkiyyah, 6 ayat ~
- Dalam surat ini Allah memerintahkan Rasul-Nya saw.
+Makkiyyah, 6 ayat
+\end_layout
+
+\begin_layout Standard
+Dalam surat ini Allah memerintahkan Rasul-Nya saw.
  agar mematahkan ketamakan orang-orang kafir yang ingin menyamakan diri
  dengan Rasulullah dalam menyerukan kebaikan.
  Rasulullah saw.
  tetap akan menyembah Allah, tiada Tuhan selailn Dia, dan orang-orang kafir
  pun tetap menyembah tuhan-tuhan mereka yang tidak memberi mereka kebenaran.
  Mereka bebas mengikuti agama yang mereka warisi dari nenek moyang mereka,
- dan Rasulullah pun bebas memeluk agama yang diperkenan Allah untuknya.]]
- Katakan, wahai Muhammad, "Hai orang-orang kafir yang bersikeras dalam kekafiran
-,
+ dan Rasulullah pun bebas memeluk agama yang diperkenan Allah untuknya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsection
+Isi
+\end_layout
+
+\begin_layout Enumerate
+Katakan, wahai Muhammad, "Hai orang-orang kafir yang bersikeras dalam kekafiran,
+\end_layout
+
+\begin_layout Enumerate
 aku tidak menyembah apa yang kalian sembah selain Allah.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Kalian pun bukan penyembah apa yang aku sembah, yaitu Allah semata.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Aku bukan penyembah seperti penyembahan kalian, karena kalian adalah orang-orang
  musyrik.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dan kalian juga bukan penyembah seperti penyembahanku yaitu bertauhid.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Bagi kalian agama kalian yang kalian yakini, dan bagiku agamaku yang Allah
  perkenankan untukku.
 \end_layout
