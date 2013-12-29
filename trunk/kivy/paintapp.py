@@ -23,6 +23,8 @@ class MyPaintWidget(Widget):
 
   def on_touch_move(self, touch):
     #print(touch)
+    if 'angle' in touch.profile:
+      print('The touch angle is', touch.a)
     touch.ud['line'].points += [touch.x, touch.y]
 
 

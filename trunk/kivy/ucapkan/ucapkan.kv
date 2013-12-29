@@ -1,0 +1,54 @@
+#:kivy 1.7.2
+<Ucapkan>:
+    orientation: 'vertical'
+    button_font_size: '30sp'
+    padding: root.width * 0.02, root.height * 0.02
+    ucapkan_text: my_text
+    canvas:
+        Rectangle:
+            source: 'images/yoko-tsuno.png'
+            pos: self.pos
+            size: self.size
+    Label:
+        text: 'Ucapkan!'
+        size_hint: 1, None
+        height: self.texture_size[1] + (2 * root.padding[1])
+        font_size: '50sp'
+        font_color: (0.5, 1.0, 0.3, 1)
+    TextInput:
+        id: my_text
+        font_size: str(my_slider.value) + 'sp'
+        text: 'Selamat pagi!'
+    BoxLayout:
+        Scatter:
+            halign: 'center'
+            valign: 'middle'
+            Label:
+                text: my_text.text
+                halign: 'center'
+                valign: 'middle'
+    Slider:
+        id: my_slider
+        orientation: 'horizontal'
+        size_hint: 1, None
+        min: 7
+        max: 100
+        value: 15
+    BoxLayout:
+        orientation: 'horizontal'
+        size_hint: 1, None
+        height: btn_ucapkan.height
+        Button:
+            id: btn_ucapkan
+            text: 'Ucapkan: ' + my_text.text
+            font_size: root.button_font_size
+            size_hint: 1, None
+            height: self.texture_size[1]
+            on_press: root.say_something(my_text.text)
+        Button:
+            text: 'Kosongkan'
+            font_size: root.button_font_size
+            size_hint: 1, None
+            height: self.texture_size[1]
+            on_press: root.clear()
+
