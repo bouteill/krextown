@@ -1,8 +1,9 @@
 from gensim import corpora, models, similarities
 
 
-def main():
-  corpus = [[(0, 1.0), (1, 1.0), (2, 1.0)],
+class Gensim01():
+    def __init__(self):
+        self.corpus = [[(0, 1.0), (1, 1.0), (2, 1.0)],
             [(2, 1.0), (3, 1.0), (4, 1.0), (5, 1.0), (6, 1.0), (8,
               1.0)]
             [(1, 1.0), (3, 1.0), (4, 1.0), (7, 1.0)],
@@ -12,8 +13,11 @@ def main():
             [(9, 1.0), (10, 1.0)],
             [(9, 1.0), (10, 1.0), (11, 1.0)],
             [(8, 1.0), (10, 1.0), (11, 1.0)] ]
+        self.tfidf = models.TfidfModel(self.corpus)
 
-  tfidf = models.TfidfModel(corpus)
+
+def main():
+    gensimlab01 = Gensim01()
 
 
 if __name__ == '__main__':
