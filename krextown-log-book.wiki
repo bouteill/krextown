@@ -57,5 +57,7 @@ Fokus ke InfoMap, SemanticVector, dan NetworkX, Graph Mining. Dengan arah ke bah
 
 
 == Log ==
+* Senin, 10 Februari 2014
+  * Terjemah Muntakhab surat 50
 * Jumat, 2014 02 07
   * Terjemah Muntakhab dilanjutkan.
