@@ -14157,6 +14157,12 @@ Hanya Allahlah yang mengirim angin sebagai pembawa berita datangnya rahmat
 status open
 
 \begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fn:007-057"
+
+\end_inset
+
 Ayat ini membenarkan sebuah penemuan ilmiah yang belum diketahui saat al-Qur'ân
  diturunkan, yaitu angin mengandung uap air.
  Ketika dihembus, angin akan berkumpul di suatu tempat dan menjadi awan.
@@ -21640,6 +21646,12 @@ Tatkala Yûsuf telah cukup dewasa, Kami berikan kepada-Nya pemahaman yang
 \end_layout
 
 \begin_layout Enumerate
+\begin_inset CommandInset label
+LatexCommand label
+name "enu:012-023"
+
+\end_inset
+
 Wanita yang rumahnya ditempati Yûsuf di bawah kekuasaannya ingin merayu
  Yûsuf agar ia mau menggaulinya.
  Wanita itu mendekat ke hadapan Yûsuf dan menampakkan keindahan tubuhnya.
@@ -22821,6 +22833,12 @@ Allahlah yang membentangkan bumi dan menjadikannya takluk, hingga kalian
 status open
 
 \begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fn:013-003"
+
+\end_inset
+
 Segala macam jenis bunga yang menghasilkan buah hanya dapat berproduksi
  bila ada perkawinan antara unsur jantan dan unsur betina, baik yang berasal
  dari bunga itu sendiri maupun dari dua jenis bunga yang berbeda.
@@ -34514,6 +34532,12 @@ Tidakkah kamu lihat, wahai Muhammad, bahwa Allah menggiring awan melalui
 status open
 
 \begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fn:024-043-a"
+
+\end_inset
+
 Kemiripan antara awan dan gunung tidak dapat dilihat kecuali jika seseorang
  berada di atas awan.
  Orang yang mengendarai pesawat yang terbang tinggi di atas awan, dapat
@@ -34540,6 +34564,12 @@ kan penglihatan karena teramat kerasnya.
 status open
 
 \begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fn:024-043-b"
+
+\end_inset
+
 Ayat ini telah mendahalui penemuan ilmiah modern tentang fase-fase pembentukan
  awan kumulus dan ciri-cirinya dan yang berkaitan dengan hal tersebut.
  Disebutkan bahwa awan yang menurunkan hujan dimulai dari atas awan yang
@@ -34547,11 +34577,23 @@ Ayat ini telah mendahalui penemuan ilmiah modern tentang fase-fase pembentukan
  Puncak kumulus bisa mencapai 15 sampai 20 kilometer, hingga tampak seperti
  gunung yang tinggi.
  Dalam penemuan ilmu pengetahuan modern, kumulus yang menghasilkan hujan
- mengalami tiga fase: a.
- Fase kohorensi dan pertumbuhan, b.
- Fase penurunan hujan, dan c.
- Fase penghabisan.
- Di samping itu, awan kumulus inilah satu-satunya awan yang menghasilkan
+ mengalami tiga fase:
+\end_layout
+
+\begin_layout Enumerate
+Fase kohorensi dan pertumbuhan,
+\end_layout
+
+\begin_layout Enumerate
+Fase penurunan hujan, dan
+\end_layout
+
+\begin_layout Enumerate
+Fase penghabisan.
+\end_layout
+
+\begin_layout Plain Layout
+Di samping itu, awan kumulus inilah satu-satunya awan yang menghasilkan
  dingin dan mengandung aliran listrik.
  Kilat kadang-kadang dapat terjadi secara berturut-turut dan hampir berkesinambu
 ngan.
@@ -34775,6 +34817,12 @@ Hai orang-orang beriman, perintahkanlah hamba sahaya dan anak-anak kalian
 status open
 
 \begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fn:024-058"
+
+\end_inset
+
 Ayat ini merupakan salah satu ayat yang mengarahkan manusia pada norma sosial
  dalam lingkungan keluarga.
  Keberadaan hamba sahaya (pembantu) dan anak-anak kecil di rumah, membuat
@@ -36881,9 +36929,19 @@ Aku tidak mengharap imbalan kalian saat menyampaikan dakwahku ini.
 \begin_layout Enumerate
 Lûth melanjutkan, "Apakah kalian lebih menikmati menggauli lelaki ketimbang
  perempuan?" Lûth bermaksud mencela perbuatan keji dan menjijikkan yang
- biasa mereka lakukan.
- (1) (1) Ayat ini mensinyalir tentang bahaya homoseks, suatu tindakan kotor
- yang menjijikkan dan menurunkan martabat kemanusiaan.
+ biasa mereka lakukan
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fn:026-165"
+
+\end_inset
+
+Ayat ini mensinyalir tentang bahaya homoseks, suatu tindakan kotor yang
+ menjijikkan dan menurunkan martabat kemanusiaan.
  Kebiasaan kotor ini, jika meluas, akan memporak-porandakan ikatan perkawinan
  konvensional yang merupakan sunnatullah untuk memelihara dan mengembangkan
  keturunan serta memakmurkan bumi.
@@ -36909,6 +36967,11 @@ n dirinya.
  lelaki di antara manusia dan kalian meninggalkan istri-istri yang diciptakan
  Tuhan untuk kalian? Kalian adalah kaum yang melampaui batas" (al-Qur'ân
  surat Al Syuara: 165-166).
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -37436,14 +37499,23 @@ Demi kelangsungan misi dakwahmu, lemparlah tongkatmu!" Ketika Mûsâ melemparkan
  ke belakang.
  Allah menenangkan hati Mûsâ dan berfirman kepadanya, "Kamu tak perlu merasa
  takut, karena rasul-rasul Kami tidak memiliki rasa takut saat Kami berbicara
- dengan mereka(1).
- (1) Lebih dari satu kali al-Qur'ân menuturkan kisah Mûsâ.
+ dengan mereka
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Lebih dari satu kali al-Qur'ân menuturkan kisah Mûsâ.
  Di satu bagian kisah itu tidak diuraikan secara rinci, ada bagian yang
  dipotong, yang kemudian disebutkan pada bagian lain.
  Semua itu ada kaitannya dengan proses pewahyuannya kepada Muhammad, Rasulullah
  saw.
  Pada bagian ini kisah itu dituturkan untuk menhilangkan rasa heran Nabi
  Muhammad saat menerima wahyu dari Allah.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -37454,12 +37526,20 @@ Tetapi, barangsiapa melakukan perbuatan terlarang lalu mengubah kesalahannya
 
 \begin_layout Enumerate
 Masukkan tanganmu ke dalam saku bajumu, maka tanganmu itu akan memancarkan
- cahaya putih kemilau tanpa cacat." Itulah salah satu dari sembilan mukjizat(1)
+ cahaya putih kemilau tanpa cacat." Itulah salah satu dari sembilan mukjizat
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Kesembilan mukjizat itu adalah: terbelahnya lautan yang diikuti oleh badai,
+ belalang, serangga, katak, darah, kekeringan, tongkat dan tangan yang memancark
+an cahaya putih.
+\end_layout
+
+\end_inset
+
  yang diberikan pada Mûsâ yang diutus oleh Allah kepada Fir'aun dan kaumnya,
  suatu kaum yang telah melanggar perintah dan mendurhakai Allah.
- (1) Kesembilan mukjizat itu adalah: terbelahnya lautan yang diikuti oleh
- badai, belalang, serangga, katak, darah, kekeringan, tongkat dan tangan
- yang memancarkan cahaya putih.
 \end_layout
 
 \begin_layout Enumerate
@@ -37494,16 +37574,24 @@ Alkisah, tampuk kerajaan dan kekuasaan berpindah dari Nabi Dâwûd a.
  Sulaymân berkata, "Wahai manusia, kami diajari bahasa burung, kami mendapatkan
  banyak karunia yang akan kita butuhkan dalam menjalankan pemerintahan.
  Sungguh nikmat-nikmat itu adalah karunia yang khusus diberikan oleh Allah
- kepada kami.
- "(1).
- (1) Sulaymân adalah putra Dâwûd, raja dan nabi seperti ayahandanya, hidup
- sekitar tahun 974–937 S.
+ kepada kami."
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Sulaymân adalah putra Dâwûd, raja dan nabi seperti ayahandanya, hidup sekitar
+ tahun 974–937 S.
  M.
  Ia memperoleh mukjizat yang sangat unik seperti, antara lain, memahami
  bahasa burung.
  Hal itu lebih dapat dimengerti melalui penelitian belakangan ini bahwa
  masing-masing jenis burung memiliki bahasa khusus untuk saling berkomunikasi,
  baik melalui gerakan, suara atau isyarat.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Enumerate
@@ -37516,9 +37604,13 @@ Sulaymân menghimpun balatentara yang terdiri atas jin, manusia dan burung,
 Hingga, katika Sulaymân dan balatentaranya tiba di lembah semut, salah seekor
  semut itu berkata, "Wahai semut-semut sekalian, masuklah ke tempat persembunyia
 n kalian, agar tidak binasa oleh Sulaymân dan balatentaranya karena mereka
- tidak merasakan keberadaan kalian!"(1).
- (1) Dari ayat ini dapat dipahami bahwa semut adalah jenis hewan yang hidup
- bermasyarakat dan berkelompok.
+ tidak merasakan keberadaan kalian!"
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Dari ayat ini dapat dipahami bahwa semut adalah jenis hewan yang hidup bermasyar
+akat dan berkelompok.
  Di antara hal-hal unik yang merupakan keistimewaan hewan jenis ini, antara
  lain, adalah ketajaman indera dan sikapnya yang sangat berhati-hati.
  Pada masyarakat semut dikenal etos kerja dan disiplin hidup berkelompok
@@ -37557,6 +37649,11 @@ n kalian, agar tidak binasa oleh Sulaymân dan balatentaranya karena mereka
  keluar agar mengering.
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
 \begin_layout Enumerate
 Sulaymân tersenyum lepas mendengar perkataan semut yang sangat memperhatikan
  kemaslahatan dirinya.
@@ -37588,13 +37685,16 @@ Demi Allah, aku akan memberikan hukuman berat agar dia jera.
 Saat itu Hudhud berada di suatu tempat yang tidak terlalu jauh.
  Beberapa saat kemudian burung itu mendatangi Sulaymân dan berkata, "Aku
  datang dari negeri Saba' membawa berita yang belum kau ketahui dan tidak
- perlu kau sangsikan kebenarannya.
- "(1).
- (1) Ayat ini dan dua ayat berikutnya adalah ayat-ayat yang secara khusus
- mengisahkan kerajaan Saba', salah satu kerajaan di kawasan Yaman di Arab
- Selatan, yang semenjak dahulu kala dikenal dengan sebutan "Negeri Arab
- Bahagia" (Al-'Arabiyyah al-Sa'îdah), sebuah sebutan yang menunjukkan betapa
- negeri itu merupakan negeri yang maju dan kaya.
+ perlu kau sangsikan kebenarannya."
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Ayat ini dan dua ayat berikutnya adalah ayat-ayat yang secara khusus mengisahkan
+ kerajaan Saba', salah satu kerajaan di kawasan Yaman di Arab Selatan, yang
+ semenjak dahulu kala dikenal dengan sebutan "Negeri Arab Bahagia" (Al-'Arabiyya
+h al-Sa'îdah), sebuah sebutan yang menunjukkan betapa negeri itu merupakan
+ negeri yang maju dan kaya.
  Yaman, seperti diketahui, telah memiliki peradaban sangat tinggi sejak
  tahun 2000 S.
  M.
@@ -37634,6 +37734,11 @@ Saat itu Hudhud berada di suatu tempat yang tidak terlalu jauh.
  ayat ke-24 dari surat ini.
  Matahari dan bintang merupakan tuhan utama mereka, dan mereka mempersembahkan
  sajian dan dupa untuk tuhan-tuhan itu.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Enumerate
@@ -38114,9 +38219,12 @@ g kafir itu hampir ditimpa azab, Allah akan mendatangkan binatang melata
  seluruh mukjizat dan tidak mau beriman pada hari kiamat.
  Saat ini terbukti apa yang sebelumnya mereka ingkari.
  Inilah dahsyatnya hari kiamat dan peristiwa-peristiwa yang bakal terjadi
- sesudah itu.
- "(1).
- (1) Demikianlah penafsiran ayat ini bedasarkan makna tekstualnya.
+ sesudah itu."
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Demikianlah penafsiran ayat ini bedasarkan makna tekstualnya.
  Ada dua pendapat lain mengenai penafsiran makna ayat ini.
  Pertama, yang dimaksud dengan kata "dâbbah" dalam ayat ini adalah apa saja
  yang berjalan (melata) di atas bumi, termasuk binatang dan manusia.
@@ -38136,6 +38244,11 @@ g kafir itu hampir ditimpa azab, Allah akan mendatangkan binatang melata
  Peristiwa dan kenyataan itulah, bukan sekadar ungkapan, yang dimaksud dengan
  kata "qawl" dalam ayat ini.
  Dalam hal ini, kedua pendapat tadi tidak jauh berbeda.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Enumerate
@@ -38186,11 +38299,15 @@ Wahai Muhammad, kamu pasti menyangka bahwa gunung-gunung itu diam tak bergerak.
  Allah Swt.
  mengetahui secara terperinci apa yang diperbuat oleh manusia berupa ketaatan
  dan kemaksiatan.
- Dan Allah akan memberikan balasan pada amal perbuatan itu(1).
- (1) Ayat ini memberikan penjelasan bahwa segala benda yang tunduk pada
- hukum gravitasi bumi, termasuk lautan, daratan, gunung- gunung, atmosfer
- dan benda-benda lainnya, berotasi bersama-sama bumi dan berputar pula mengelili
-ngi matahari.
+ Dan Allah akan memberikan balasan pada amal perbuatan itu
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Ayat ini memberikan penjelasan bahwa segala benda yang tunduk pada hukum
+ gravitasi bumi, termasuk lautan, daratan, gunung- gunung, atmosfer dan
+ benda-benda lainnya, berotasi bersama-sama bumi dan berputar pula mengelilingi
+ matahari.
  Proses pergerakan itu akan mengakibatkan separo belahan bumi akan mengalami
  kegelapan selama enam bulan, sedang paroan lain akan mengalami siang yang
  terang benderang selama masa yang sama.
@@ -38219,6 +38336,11 @@ ngi matahari.
  Penyampaian fakta ilmiah ini melalui Muhammad saw.
  sebelum ia sendiri tahu tentang hal itu, adalah bukti bahwa al-Qur'ân benar-ben
 ar wahyu yang difirmankan oleh Allah Swt.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -38981,8 +39103,12 @@ Di antara wujud kasih sayang Allah kepada makhluk-Nya, adalah dengan menciptakan
  siang dan malam untuk mereka, serta menjadikannya silih berganti.
  Demikian itu agar mereka dapat beristirahat pada malam hari dan mencari
  rezeki dan manfaat di siang hari, dan agar mereka mengetahui karunia Allah
- kepada mereka sehingga mereka mensyukuri karunia-Nya(1).
- (1) Tiga ayat di atas menunjukkan bahwa penciptaan bumi dengan bentuk seperti
+ kepada mereka sehingga mereka mensyukuri karunia-Nya
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Tiga ayat di atas menunjukkan bahwa penciptaan bumi dengan bentuk seperti
  ini dengan posisinya terhadap matahari yang berotasi sekali dalam sehari
  dan berevolusi sekali dalam satu tahun, tidak diragukan lagi, adalah gambaran
  dari kekuasaan, kebijaksanaan dan kemahaesaan Allah.
@@ -39007,6 +39133,11 @@ Di antara wujud kasih sayang Allah kepada makhluk-Nya, adalah dengan menciptakan
  Cuacanya pun menjadi cocok untuk kehidupan manusia, hewan dan tumbuhan.
  Semua ini adalah karunia Allah kepada hamba-hamba-Nya yang menuntut pengakuan
  terhadap kekuasaan-Nya dan rasa syukur yang terus menerus kepada-Nya.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -39412,14 +39543,23 @@ Katakanlah, wahai Rasul, kepada orang-orang yang mendustaakan itu, "Berjalanlah
  Ketahuilah bahwa Allah akan mengembalikan itu semua dengan kekuasaan-Nya
  di akhirat nanti dengan kebangkitan, yaitu penciptaan kembali.
  Begitu pula keadaan kalian.
- Sesungguhnya Allah sangat sempurna kekuasaan-Nya atas segala sesuatu.
- "(1) (1) Ayat suci ini memerintahkan para ilmuwan untuk berjalan di muka
- bumi guna menyingkap proses awal penciptaan segala sesuatu, seperti hewan,
- tumbuhan dan benda-benda mati.
+ Sesungguhnya Allah sangat sempurna kekuasaan-Nya atas segala sesuatu."
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Ayat suci ini memerintahkan para ilmuwan untuk berjalan di muka bumi guna
+ menyingkap proses awal penciptaan segala sesuatu, seperti hewan, tumbuhan
+ dan benda-benda mati.
  Sesungguhnya bekas-bekas penciptaan pertama terlihat di antara lapisan-lapisan
  bumi dan permukaannya.
  Maka dari itu, bumi merupakan catatan yang penuh dengan sejarah penciptaan,
  mulai dari permulaannya sampai sekarang.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Enumerate
@@ -39611,12 +39751,21 @@ Keadaan orang-orang yang mendustakan dan tunduk kepada selain Allah--dalam
  Rumahnya adalah rumah yang paling lemah dan sama sekali tidak layak untuk
  dijadikan sebagai tempat berlindung.
  Kalau seandainya orang-orang yang mendustakan adalah orang-orang yang berilmu,
- niscaya mereka tidak akan melakukannya(1).
- (1) Sarang laba-laba yang dijadikan sebagai tempat tinggal dan perangkap
- untuk menangkap mangsanya, memang pembuatannya sangat rumit, karena terbuat
- dari benang-benang yang sangat halus yang melebihi halusnya sutera.
+ niscaya mereka tidak akan melakukannya
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Sarang laba-laba yang dijadikan sebagai tempat tinggal dan perangkap untuk
+ menangkap mangsanya, memang pembuatannya sangat rumit, karena terbuat dari
+ benang-benang yang sangat halus yang melebihi halusnya sutera.
  Kehalusan sarang laba-laba inilah yang membuat susunannya menjadi rumah
  paling lemah yang dijadikan tempat berlindung oleh hewan apa pun.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -39741,10 +39890,19 @@ Mereka meminta kepadamu untuk menyegerakan siksaan, padahal siksaan itu
 
 \begin_layout Enumerate
 Yaitu ketika mereka dikelilingi oleh siksaan, baik dari atas maupun dari
- bawah mereka.
- (1) Malaikat yang ditugaskan menyiksa mereka berkata, "Rasakanlah balasan
- keburukan yang dahulu kalian lakukan." (1) Pada edisi bahasa Arab terdapat
- kesalahan.
+ bawah mereka
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Pada edisi bahasa Arab terdapat kesalahan.
+\end_layout
+
+\end_inset
+
+.
+ Malaikat yang ditugaskan menyiksa mereka berkata, "Rasakanlah balasan keburukan
+ yang dahulu kalian lakukan."
 \end_layout
 
 \begin_layout Enumerate
@@ -39926,8 +40084,12 @@ Alif, Lâm, Mîm.
  Meskipun demikian, orang-orang yang mengingkarinya tidak mampu mendatangkan
  sesuatu yang semisalnya.
  Di samping itu, huruf-huruf ini juga menggugah manusia untuk mendengarkan
- dan membawa mereka untuk mempercayai ajaran-ajaran Nabi Muhammad saw (1).
- (1) Ayat-ayat 1 sampai 4 surat ini mengisyaratkan dua peristiwa, yang pertama
+ dan membawa mereka untuk mempercayai ajaran-ajaran Nabi Muhammad saw
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Ayat-ayat 1 sampai 4 surat ini mengisyaratkan dua peristiwa, yang pertama
  benar-benar telah terjadi dan kedua belum terjadi.
  Yang kedua ini berupa kabar tentang hal-hal gaib (dan telah ditentukan
  terjadinya di antara tiga sampai tujuh tahun).
@@ -39967,6 +40129,11 @@ h kabar gembira yang dibawa al-Qur'ân.
  ini yang menjadi pembangkit rasa gembira orang-orang muslim, yaitu kemenangan
  mereka atas orang-orang musyrik Quraisy pada Perang Badar yang terjadi
  pada hari Jumat, 17 Ramadan tahun 2 Hijriah atau tahun 624 Masehi.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -40362,8 +40529,37 @@ a yang Dia kehendaki.
  Dia juga menjadikannya bergumpal-gumpal sehingga kamu dapat melihat hujan
  keluar dari celah-celahnya.
  Apabila Allah menurunkan hujan kepada hamba-hamba yang dikehendaki-Nya,
- mereka pun segera bergembira ria(1).
- (1) Lihat catatan kaki pada surat al-Nûr ayat 43.
+ mereka pun segera bergembira ria
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fn:030-048"
+
+\end_inset
+
+Lihat catatan kaki pada surat al-Nûr ayat 43, di halaman 
+\begin_inset CommandInset ref
+LatexCommand pageref
+reference "fn:024-043-a"
+
+\end_inset
+
+ dan 
+\begin_inset CommandInset ref
+LatexCommand pageref
+reference "fn:024-043-b"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -40603,8 +40799,30 @@ Allah menciptakan langit tanpa tiang-tiang yang dapat kalian lihat.
  Dan menjadikan gunung-gunung yang kokoh di bumi agar tidak menggoyangkan
  kalian dan mengembangbiakkan segala macam hewan yang melata dan bergerak.
  Dan Kami turunkan hujan dari langit, lalu Kami tumbuhkan dengannya di bumi
- segala macam yang baik dan bermanfaat(1).
- (1) Lihat catatan kaki pada surat al-Ra'd ayat 2.
+ segala macam yang baik dan bermanfaat
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fn:031-010"
+
+\end_inset
+
+Lihat catatan kaki pada surat al-Ra'd ayat 2 [atau 3], di halaman 
+\begin_inset CommandInset ref
+LatexCommand pageref
+reference "fn:013-003"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -40632,9 +40850,12 @@ Dan ingatlah ketika ia berkata kepada anaknya untuk menasihatinya, "Wahai
  anakku, janganlah kamu menyekutukan Allah dengan yang lain, karena sesungguhnya
  menyekutukan Allah adalah suatu kezaliman yang besar.
  Sebab, dalam hal ini terdapat penyamaan antara yang berhak dan yang tidak
- berhak untuk disembah.
- "(1).
- (1) Orang Arab mengenal dua tokoh yang bernama Luqmân.
+ berhak untuk disembah."
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Orang Arab mengenal dua tokoh yang bernama Luqmân.
  Pertama, Luqmân bin 'Ad.
  Tokoh ini begitu diagungkan karena wibawa, kepemimpinan, ilmu, kefasihan
  dan kepandaiannya.
@@ -40679,6 +40900,11 @@ a.
  Ia adalah seorang yang bijak, bukan seorang nabi.
  Dan ia telah memasukkan banyak kata bijak baru ke dalam literatur Arab
  yang kemudian mereka pakai, sebagaimana dapat ditemukan dalam banyak buku.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Enumerate
@@ -40985,9 +41211,13 @@ Yang menciptakan segala sesuatu dengan sebaik-baiknya, sesuai dengan hikmah-Nya,
 
 \begin_layout Enumerate
 Kemudian setelah itu menjadikan anak cucunya tercipta dari air yang sedikit
- dan lemah serta--biasanya--sangat diremehkan(1).
- (1) Kata "al-mahîn" sebagai adjektiva atau kata sifat, jika disandangkan
- kepada orang, berarti 'lemah'.
+ dan lemah serta--biasanya--sangat diremehkan
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Kata "al-mahîn" sebagai adjektiva atau kata sifat, jika disandangkan kepada
+ orang, berarti 'lemah'.
  "Al-rajul al-mahîn" berarti "al-rajul al-dla'îf" ('orang yang lemah').
  Kata itu juga dapat berarti 'sedikit'.
  Dengan demikian, frase "min mâ'in mahîn" pada ayat ini berarti 'air yang
@@ -40998,6 +41228,11 @@ Kemudian setelah itu menjadikan anak cucunya tercipta dari air yang sedikit
  Dengan demikian, kiranya tidak terlalu keliru kalau kita menafsirkan kata
  "mahîn" dalam ayat ini sebagai 'air yang memancar' atau 'air yang sedikit',
  karena susu yang keluar dari perahan biasanya memancar dan sedikit.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -41336,15 +41571,23 @@ Musuh-musuh itu datang menyerbu dari atas dan dari bawah lembah.
  Pada saat itu pandangan mata manusia telah condong dari titik normal, hati
  mereka melonjak ke pangkal tenggorokan oleh rasa panik dan goncang.
  Di saat-saat kritis itu kalian terbuai oleh berbagai prasangka buruk akan
- janji Allah.
- (1).
- (1) Ungkapan ini tidak harus dipahami bahwa pasukan musuh-musuh itu datang
- dari semua arah.
+ janji Allah
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Ungkapan ini tidak harus dipahami bahwa pasukan musuh-musuh itu datang dari
+ semua arah.
  Kalau kita kembali kepada rincian peristiwa, dapat kita mengerti bahwa
  musuh yang datang dari atas itu adalah kabilah Ghatafan dan penduduk Nejed,
  karena mereka memasuki kota Madinah dari atas semenanjung bagian timur.
  Sementara nusuh yang datang dari bawah adalah suku Quraisy karena mereka
  tiba melalui bawah semenanjung arah barat.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -41426,9 +41669,13 @@ Pada lahirnya, orang-orang munafik sangat memperhatikan keselamatan diri
  Meskipun mereka telah menyatakan berislam, namun Allah Swt.
  akan menyia-nyiakan perbuatan mereka, lantaran orang-orang munafik itu
  memendam kekufuran dalam hati.
- Sungguh pekerjaan yang demikian itu bukan hal yang sukar bagi Allah(1).
- (1) Ayat ini menunjukkan satu fakta ilmiah yang belum ditemukan pada saat
- diturunkannya al-Qur'ân.
+ Sungguh pekerjaan yang demikian itu bukan hal yang sukar bagi Allah
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Ayat ini menunjukkan satu fakta ilmiah yang belum ditemukan pada saat diturunkan
+nya al-Qur'ân.
  Yaitu bahwa bola mata orang yang sedang dalam keadaan sekaratul maut atau
  dalam ketakutan akan berputar-putar.
  Kalau ditinjau secara lebih cermat, akan didapati bahwa perasaan takut
@@ -41437,6 +41684,11 @@ Pada lahirnya, orang-orang munafik sangat memperhatikan keselamatan diri
  Oleh karena itu, kondisi orang yang ketakutan mirip dengan orang yang sedang
  menghadapi sekaratul maut: matanya melotot dengan bola mata yang berputar-putar
  sampai mati.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -41767,10 +42019,31 @@ Wahai orang-orang beriman, janganlah kalian memasuki rumah nabi kecuali
 an kepada nabi dan istri-istrinya--kalian tidak diperbolehkan mengawini
  istri- istrinya sesudah ia wafat.
  Sesungguhnya dalam pandangan Allah tindakan demikian itu merupakan dosa
- yang besar.
- (1).
- (1) Lihat catatan kaki dan komentar pada ayat 58 dan 59 surat al-Nûr berkaitan
- dengan etika berkunjung dan soal keutamaam masjid.
+ yang besar
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fn:033-053"
+
+\end_inset
+
+Lihat catatan kaki dan komentar pada ayat 58 dan 59 surat al-Nûr berkaitan
+ dengan etika berkunjung dan soal keutamaam masjid, di halaman 
+\begin_inset CommandInset ref
+LatexCommand pageref
+reference "fn:024-058"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -42039,15 +42312,23 @@ Orang-orang kafir berkata, "Hari kiamat yang dijanjikan sebagai hari kebangkitan
  Tidak satu pun persoalan gaib yang terdapat di langit maupun di bumi yang
  luput dari pengetahuan Allah, meskipun hanya sekecil atom.
  Segala yang ada di alam ini, baik yang lebih kecil atau lebih besar dari
- atom, semuanya tertulis dalam sebuah buku yang menjelaskannya secara sempurna(1
-).
- (1) Kata "dzarrah" dalam bahasa Arab menunjuk pada suatu benda amat kecil,
- seukuran anak semut atau debu halus.
+ atom, semuanya tertulis dalam sebuah buku yang menjelaskannya secara sempurna
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Kata "dzarrah" dalam bahasa Arab menunjuk pada suatu benda amat kecil, seukuran
+ anak semut atau debu halus.
  Frase "mitsqâlu dzarrah" pada ayat ini berarti 'seberat atom'.
  Ini mengisyaratkan adanya suatu senyawa yang berat jenisnya lebih ringan
  dari atom.
  Sains modern membuktikan bahwa atom memiliki dua unsur: proton dan netron.
  Isyarat ilmiah al-Qur'ân ini baru dapat diketahui pada abad 20.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -42106,12 +42387,21 @@ Demi Allah, Kami telah memberikan karunia kepada Dâwûd berupa hikmah dan
  Kami berkata, "Wahai gunung, bertasbihlah bersama Dâwûd!" Kami menundukkan
  bangsa burung yang selalu bertasbih KEpada Allah demi kepentingannya.
  Kami melunakkan besi baginya sehingga dengan mudah dapat dibentuk sesuai
- keinginannya(1).
- (1) Dâwûd a.
+ keinginannya
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Dâwûd a.
  s.
  adalah salah seorang nabi dan raja Banû Isrâ'îl yang hidup antara tahun
  1010-970 S.
  M.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -42170,9 +42460,13 @@ Akan tetapi mereka memalingkan diri dan enggan bersyukur.
  Dihancurkannya sendiri kehidupan mereka, sehingga Kami mendatangkan banjir
  melanda yang merobohkan bendungan dan memusnahkan perkebunan mereka.
  Kami gantikan kebun itu dengan tanaman yang berbuah pahit serta pepohonan
- lain yang tidak berbuah dan sedikit tumbuhan seroja yang tidak berguna(1).
- (1) Sayl al-'Arim juga dikenal dengan nama bendungan Ma'rib, salah satu
- dari bendungan terbesar di Yaman saat itu.
+ lain yang tidak berbuah dan sedikit tumbuhan seroja yang tidak berguna
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Sayl al-'Arim juga dikenal dengan nama bendungan Ma'rib, salah satu dari
+ bendungan terbesar di Yaman saat itu.
  Berkat bendungan ini kawasan seluas 300 mil persegi yang kering dan tandus
  dapat diubah menjadi lahan subur dan produktif.
  Kemakmuran dan kesuburana negeri Yaman waktu itu diilustrasikan dalam dua
@@ -42180,6 +42474,11 @@ Akan tetapi mereka memalingkan diri dan enggan bersyukur.
  Tetapi, sangat disayangkan, bahwa para ahli sejarah tidak memiliki pendapat
  yang sama menyangkut siapa yang membangun bendungan Ma'rib dan faktor apa
  yang menjadi penyebab kehancurannya.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -42691,9 +42990,31 @@ Hanya Allahlah yang dapat mengirimkan angin untuk menggerakkan awan yang
  tanahnya yang mati Kami hidupkan dengan tumbuh-tumbuhan.
  Adanya tumbuh-tumbuhan yang Kami keluarkan dari tanah itu merupakan tamsil
  bagaimana Kami akan membangkitkan kembali, di hari kiamat nanti, sesuatu
- yang telah mati dari alam kuburnya(1).
- (1) Untuk komentar atas ayat ini, lihat catatan kaki tafsir surat al-A'râf
- ayat 57.
+ yang telah mati dari alam kuburnya
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fn:035-009"
+
+\end_inset
+
+Untuk komentar atas ayat ini, lihat catatan kaki tafsir surat al-A'râf ayat
+ 57, di halaman 
+\begin_inset CommandInset ref
+LatexCommand pageref
+reference "fn:007-057"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -42735,11 +43056,21 @@ Dalam ilmu dan ketetapan Kami, dua jenis lautan--kendati mengandung beberapa
  itu berlayar membelah lautan dengan sangat cepat untuk berniaga mencari
  karunia Allah.
  Dengan adanya pelbagai nikmat itu, seharusnyalah kalian bersyukur kepada
- Tuhan(1).
- (1) Di antara bukti kekuasaan Allah yang dapat dilihat manusia adalah berlayarn
-ya bahtera membelah lautan sesuai hukum yang Allah tetapkan di alam raya
- ini, yang kemudian dijelaskan oleh suatu teori yang disebut dengan hukum
- benda terapung (Qânûn al-ajsâm al-thâfiyah).
+ Tuhan
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fn:035-012"
+
+\end_inset
+
+Di antara bukti kekuasaan Allah yang dapat dilihat manusia adalah berlayarnya
+ bahtera membelah lautan sesuai hukum yang Allah tetapkan di alam raya ini,
+ yang kemudian dijelaskan oleh suatu teori yang disebut dengan hukum benda
+ terapung (Qânûn al-ajsâm al-thâfiyah).
  Selain itu, merupakan sesuatu yang lazim kita dengar bahwa beberapa jenis
  perhiasan diperoleh dari laut yang asin.
  Karenanya, sebagian orang masih menganggap suatu hal yang mustahil jika
@@ -42764,6 +43095,11 @@ ya bahtera membelah lautan sesuai hukum yang Allah tetapkan di alam raya
  sebagai perhiasan adalah topaz.
 \end_layout
 
+\end_inset
+
+.
+\end_layout
+
 \begin_layout Enumerate
 Dia memasukkan malam ke dalam siang dan siang ke dalam malam dengan memperpanjan
 g waktu salah satunya dan memperpendek yang lainnya.
@@ -42775,12 +43111,20 @@ g waktu salah satunya dan memperpendek yang lainnya.
  maha hebat ini.
  Sementara itu, sembahan-sembahan selain Allah yang kalian seru itu tidak
  memiliki daya apa-apa, sekali pun setipis kulit ari.
- Maka, pantaskah mereka kalian jadikan sembahan?(1).
- (1) Ayat suci ini menyitir tentang keberadaan matahari yang memiliki masa
- akhirnya.
+ Maka, pantaskah mereka kalian jadikan sembahan?
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Ayat suci ini menyitir tentang keberadaan matahari yang memiliki masa akhirnya.
  Oleh para astronom, hal itu dijelaskan bahwa matahari pada akhirnya akan
  membakar bahan bakar atomnya (hidrogen) dan berubah menjadi helium.
  Pada saat itulah, diprediksikan, terjadi bencana besar di alam raya ini.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Enumerate
@@ -42825,9 +43169,31 @@ Seseorang yang berdosa tidak bertanggung jawab terhadap dosa lainnya.
  Barangsiapa yang menyucikan diri dari kotoran dan dosa-dosa, berarti ia
  telah membersihkan diri.
  Pada akhirnya, hanya kepada Allahlah tempat kembali, dan Dia akan memperlakukan
- sesuatu secara hak(1).
- (1) Lihat catatan kaki tafsir Q., s.
- al-Zumar ayat 7.
+ sesuatu secara hak
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fn:035-018"
+
+\end_inset
+
+Lihat catatan kaki tafsir Q., s.
+ al-Zumar ayat 7, di halaman 
+\begin_inset CommandInset ref
+LatexCommand pageref
+reference "fn:039-007"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -42901,9 +43267,12 @@ Wahai orang yang berpikir, bukankah kamu telah melihat bahwa Allahlah yang
  dan buruk.
  Dan di antara gunung-gunung ada yang memiliki jalur-jalur dan garis-garis
  berwarna putih dan merah yang kejelasan dan keburamannya berbeda satu sama
- lain Dan gunung-gunung….
- (1).
- (1) (Terdapat kesalahan cetak di bagian akhir tafsir ayat ini).
+ lain Dan gunung-gunung...
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+(Terdapat kesalahan cetak di bagian akhir tafsir ayat ini).
  Kemukjizatan ayat ini dari segi ilmu pengetahuan sebenarnya bukan saja
  tampak ketika ia menyebutkan bahwa warna gunung yang bermacam-macam itu
  disebabkan adanya perbedaan materi-materi yang dikandung oleh bebatuan
@@ -42928,6 +43297,11 @@ Wahai orang yang berpikir, bukankah kamu telah melihat bahwa Allahlah yang
  Semua itu adalah untuk kemudahan dan kemanfaatan umat manusia.
 \end_layout
 
+\end_inset
+
+.
+\end_layout
+
 \begin_layout Enumerate
 Demikian pula di antara manusia, binatang melata, unta, sapi dan domba terdapat
  bermacam-macam bentuk, ukuran dan warnanya pula.
@@ -42935,9 +43309,12 @@ Demikian pula di antara manusia, binatang melata, unta, sapi dan domba terdapat
  hasil ciptaan yang mengagumkan ini dan membuat mereka tunduk kepada Sang
  Pencipta.
  Sesungguhnya Allah Mahaperkasa yang ditakuti orang-orang Mukmin, Maha Pengampun
- segala dosa siapa pun yang berserah diri kepada-Nya.
- (1).
- (1) Setelah memaparkan bahwa berbagai jenis buah-buahan dan perbedaan warna
+ segala dosa siapa pun yang berserah diri kepada-Nya
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Setelah memaparkan bahwa berbagai jenis buah-buahan dan perbedaan warna
  pegunungan itu berasal dari suatu unsur yang sama--yakni, buah-buahan berasal
  dari air dan gunung-gunung berasal dari magma, ayat ini pun menyitir bahwa
  perbedaan bentuk dan warna yang ada pada manusia, binatang-binatang melata
@@ -42952,6 +43329,11 @@ uhan, hewan dan manusia tetap memiliki ciri khasnya dan tidak berubah hanya
  Maka sungguh benar jika ayat ini menyatakan bahwa para ilmuwan yang menetahui
  rahasia-rahasia penciptaan sebagai sekelompok manusia yang paling takut
  kepada Allah.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -43071,9 +43453,12 @@ Sesungguhnya Allahlah yang memelihara sistem langit dan bumi dari kerusakan.
  dapat menjaganya selain Allah.
  Sesungguhnya Allah Maha Pemurah sehingga Dia tidak mempercepat siksa bagi
  mereka yang melampaui batas.
- Dia pun Maha Pengampun segala dosa mereka yang berserah diri kepada-Nya.
- (1).
- (1) Ayat suci ini, di samping menyatakan bahwa Allahlah satu-satunya Pencipta
+ Dia pun Maha Pengampun segala dosa mereka yang berserah diri kepada-Nya
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Ayat suci ini, di samping menyatakan bahwa Allahlah satu-satunya Pencipta
  langit dan bumi, juga menegaskan bahwa Dialah yang memelihara keduanya
  dari kehancuran.
  Dengan pemeliharaan-Nya, benda-benda langit berjalan dalam sebuah sistem
@@ -43083,6 +43468,11 @@ Sesungguhnya Allahlah yang memelihara sistem langit dan bumi dari kerusakan.
  Dengan demikian, benda-benda langit itu tidak mengalami kerusakan dalam
  sistem keseimbangannya.
  Hanya Allahlah yang dapat menciptakan sistem yang mahahebat itu.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -43282,11 +43672,19 @@ nggalan mereka setelah kematian.
 \end_layout
 
 \begin_layout Enumerate
-Dan ingatkanlah kaummu, wahai Muhammad, tentang kisah penduduk suatu kota(1)
+Dan ingatkanlah kaummu, wahai Muhammad, tentang kisah penduduk suatu kota
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Beberapa pakar tafsir menyebutkan bahwa kota yang disebut dalam ayat ini
+ adalah kota Antokiah.
+\end_layout
+
+\end_inset
+
  yang memiliki kesamaan dengan kisah kehidupan mereka, tatkala para utusan
  Allah datang untuk menyampaikan petunjuk kebenaran.
- (1) Beberapa pakar tafsir menyebutkan bahwa kota yang disebut dalam ayat
- ini adalah kota Antokiah.
 \end_layout
 
 \begin_layout Enumerate
@@ -43441,11 +43839,20 @@ Di atas tanah itu Kami jadikan kebun-kebun serta taman-taman dari pohon
 \begin_layout Enumerate
 Mahasuci Allah yang telah menciptakan segala sesuatu secara berpasangan--jantan
  dan betina--baik dalam dunia tumbuh-tumbuhan, diri mereka sendiri dan hal-hal
- yang tidak diketahui oleh manusia(1).
- (1) Kata "min" dalam ayat ini berfungsi sebagai penjelas.
+ yang tidak diketahui oleh manusia
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Kata "min" dalam ayat ini berfungsi sebagai penjelas.
  Yakni, bahwa Allah telah menciptakan pejantan dan betina pada semua makhluk
  ciptaan-Nya, baik berupa tumbuh-tumuhan, hewan, manusia dan makhluk hidup
  lainnya yang tak kasat mata dan belum diketahui manusia.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -43477,8 +43884,12 @@ Matahari tidak akan melenceng dari tata aturannya sehingga mendahului bulan
  Demikian pula malam, tidak akan mendahului siang dan menghalangi kemunculannya.
  Akan tetapi siang dan malam itu selalu silih berganti.
  Baik matahari, bulan dan lainnya senantiasa beredar dalam garis edarnya
- dan tidak pernah melenceng(1).
- (1) Ayat-ayat suci ini mengisyaratkan suatu fakta ilmiah yang baru ditemukan
+ dan tidak pernah melenceng
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Ayat-ayat suci ini mengisyaratkan suatu fakta ilmiah yang baru ditemukan
  oleh para astronom di awal abad ke-17 M.
  Sebagai salah satu bintang, matahari--sebagaimana halnya bintang-bintang
  lainnya--memiliki gerak edarnya sendiri.
@@ -43511,6 +43922,11 @@ Matahari tidak akan melenceng dari tata aturannya sehingga mendahului bulan
  (manâzil) bulan.
  Maka kita saksikan pada seperempat pertama dan kedua, bulan terlihat seperti
  tandan yang tua.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -43690,9 +44106,13 @@ Barangsiapa yang Kami panjangkan usianya, Kami akan mengembalikannya dari
  kuat menjadi lemah.
  Tidakkah mereka berpikir akan kekuasaan Kami melakukan hal itu sehingga
  mereka menyadari bahwa dunia ini hanyalah ediaman yang fana dan akhirat
- merupakan tempat yang abadi?(1).
- (1) Hal itu terjadi karena kehidupan manusia mengalami tiga fase, yaitu
- fase pertumbuhan, fase kematangan dan fase atrofi atau penyusutan.
+ merupakan tempat yang abadi?
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Hal itu terjadi karena kehidupan manusia mengalami tiga fase, yaitu fase
+ pertumbuhan, fase kematangan dan fase atrofi atau penyusutan.
  Seseorang akan memasuki masa tua ketika pada dirinya mulai terjadi penyusutan
  parenkim di ginjal, jantung, kelenjar gondok dan pankreas.
  Itu semua mempunyai peranan dalam membuat seluruh tubuh menjadi lemah.
@@ -43720,6 +44140,11 @@ Barangsiapa yang Kami panjangkan usianya, Kami akan mengembalikannya dari
  Dan itu merupakan penyebab langsung terjadinya ketuaan.
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
 \begin_layout Enumerate
 Kami tidak pernah mengajarkan kepada rasul Kami suatu syair.
  Seorang rasul, karena kedudukan dan kehormatannya, tidak pantas menjadi
@@ -43737,8 +44162,17 @@ Untuk memberi peringatan kepada orang yang hatinya dan akalnya terbuka.
 
 \begin_layout Enumerate
 Apakah orang-orang kafir itu buta sehingga tidak melihat hasil ciptaan kemahakua
-saan Kami berupa hewan-hewan ternak(1) yang kemudian mereka miliki dan mereka
- perlakukan semau mereka? (1) Yaitu unta, domba dan sapi.
+saan Kami berupa hewan-hewan ternak
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Yaitu unta, domba dan sapi.
+\end_layout
+
+\end_inset
+
+ yang kemudian mereka miliki dan mereka perlakukan semau mereka?
 \end_layout
 
 \begin_layout Enumerate
@@ -43800,10 +44234,13 @@ Katakanlah, wahai Muhammad, "Tulang-tulang itu akan dihidupkan kembali oleh
 \end_layout
 
 \begin_layout Enumerate
-Yaitu Tuhan yang menciptakan api dari pohon hijau setelah mengalami pengeringan.
- (1).
- (1) Kekuatan surya dapat berpindah ke dalam tumbuh-tumbuhan melalui proses
- asimilasi sinar.
+Yaitu Tuhan yang menciptakan api dari pohon hijau setelah mengalami pengeringan
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Kekuatan surya dapat berpindah ke dalam tumbuh-tumbuhan melalui proses asimilasi
+ sinar.
  Sel tumbuh-tumbuhan yang mengandung zat hijau daun (klorofil) mengisap
  karbondioksida dari udara.
  Sebagai akibat terjadinya interaksi antara gas karbondioksida dan air yang
@@ -43825,6 +44262,11 @@ an dengan cara tertentu sehingga berubah menjadi batu bara setelah berjuta
  Frase "min al-syajar al-akhdlar" yang berarti 'dari pohon yang hijau' itu
  justru menunjuk kepada zat hijau daun yang sangat diperlukan dalam proses
  asimilasi gas karbondioksida.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -43951,10 +44393,13 @@ Sesungguhnya Tuhan yang pantas kalian sembah hanya satu.
 \begin_layout Enumerate
 Hanya Dialah Pencipta langit dan bumi beserta apa yang ada di antara keduanya.
  Dia yang mengatur segala sesuatu.
- Dan Dialah Pemilik tempat-tempat terbitnya matahari.
- (1).
- (1) Allah adalah pencipta langit dan bumi beserta benda-benda langit dan
- planet-planet yang ada di antara keduanya.
+ Dan Dialah Pemilik tempat-tempat terbitnya matahari
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Allah adalah pencipta langit dan bumi beserta benda-benda langit dan planet-plan
+et yang ada di antara keduanya.
  Dialah yang memelihara dan menjaga tempat terbitnya matahari dan bintang-bintan
 g lainnya.
  Dialah yang setiap hari memunculkannya dari ufuk timur pada posisi yang
@@ -43986,6 +44431,11 @@ g lainnya.
  ufuk timur saat perjalanan bumi di busur langit.
  Khususnya bintang-bintang zodiak yang dua belas yang merupakan tempat berpindah
 nya matahari sepanjang tahun.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -44787,8 +45237,12 @@ Kalau sekiranya Yûnus tidak termasuk orang yang menyucikan Allah dengan
 \begin_layout Enumerate
 Kemudian ia Kami campakkan di sebuah daerah luas yang tidak ada pepohonan
  dan bangunan.
- Ia merasa sakit dengan keadaan seperti itu(1).
- (1) Apa yang dialami Nabi Yûnus itu merupakan mukjizat.
+ Ia merasa sakit dengan keadaan seperti itu
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Apa yang dialami Nabi Yûnus itu merupakan mukjizat.
  Secara hukum alam, peristiwa ditelannya seseorang oleh ikan hiu dan kemudian
  tetap hidup di dalam perutnya untuk beberapa lama, adalah sesuatu yang
  mungkin saja terjadi.
@@ -44804,6 +45258,11 @@ Kemudian ia Kami campakkan di sebuah daerah luas yang tidak ada pepohonan
  Jenis hiu ini juga sering dapat dilihat di laut tengah.
  Hiu tersebut biasanya dapat memangsa hewan-hewan besar yang panjangnya
  mencapai tiga meter.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -45569,9 +46028,18 @@ Iblîs berkata, "Aku lebih baik daripada Adam, sebab aku Engkau ciptakan
 
 \begin_layout Enumerate
 Allah berkata kepada Iblîs, sebagai balasan atas kesombongan menghadapi
- perintah-Nya, "Keluarlah kamu dari kelompok al-Mala' al-A'lâ.
- (1) Kamu terusir dari kasih sayang-Ku." (1) Al-mala' al-A'lâ berarti 'alam
- malaikat', 'alam arwah', "alam surga'.
+ perintah-Nya, "Keluarlah kamu dari kelompok al-Mala' al-A'lâ
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Al-mala' al-A'lâ berarti 'alam malaikat', 'alam arwah', "alam surga'.
+\end_layout
+
+\end_inset
+
+.
+ Kamu terusir dari kasih sayang-Ku."
 \end_layout
 
 \begin_layout Enumerate
@@ -45782,12 +46250,21 @@ Dia menciptakan langit dan bumi dengan benar dan dalam bentuk yang tetap.
  telah ditentukan, yaitu hari kiamat.
  Hanya Dialah, bukan yang lain, yang Mahaunggul atas segala sesuatu.
  Tidak ada sesuatu pun yang keluar dari kehendak-Nya.
- Dia Maha Pengampun atas dosa hamba-hamba-Nya(1).
- (1) Ayat ini menunjukkan bahwa bumi berbentuk bulat dan selalu berotasi.
+ Dia Maha Pengampun atas dosa hamba-hamba-Nya
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Ayat ini menunjukkan bahwa bumi berbentuk bulat dan selalu berotasi.
  Dari segi bahasa, kata "yukawwir" yang digunakan dalam ayat ini berarti
  'menutupkan suatu benda ke atas benda lain secara berturut-turut'.
  Kalau saja bumi ini tidak bulat--datar, umpamanya--tentu siang dan malam
  di suatu tempat dapat dimungkinkan tampak pada satu waktu secara bersamaan.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -45802,8 +46279,12 @@ Allah telah menciptakan kalian, wahai umat manusia, dari satu nafs yaitu
  segala urusan kalian.
  Hanya Dialah, bukan yang lain, yang memiliki kekuasaan segala urusan.
  Tak ada yang pantas disembah selain Dia.
- Lalu mengapa kalian tidak menyembah-Nya dan berpaling menyembah yang lain?(1).
- (1) Ovum berada pada salah satu indung telur wanita.
+ Lalu mengapa kalian tidak menyembah-Nya dan berpaling menyembah yang lain?
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Ovum berada pada salah satu indung telur wanita.
  Ketika mencapai puncak kematangannya, ovum akan keluar dari dalam indung
  telur untuk kemudian ditangkap oleh salah satu tabung valub.
  Di dalam saluran valub itu, ovum kemudian berjalan menuju rahim dan baru
@@ -45817,18 +46298,37 @@ Allah telah menciptakan kalian, wahai umat manusia, dari satu nafs yaitu
  Mengenai penafsiran "tiga fase kegelapan" dalam ayat ini, memang terdapat
  perbedaan pendapat di kalangan para ahli.
  Di antaranya, bahwa yang dimaksud dengan tiga fase kegelapan itu, adalah:
- a.
- perut, rahim dan plasenta (atau selaput pembalut janin pada umumnya), b.
- perut, charlon dan awnion, c.
- perut, punggung dan rahim, d.
- indung telur, saluran valub dan rahim.
- Tampaknya, pendapat terakhirlah yang paling kuat karena merupakan tiga
- masa yang terpisah dan berbeda-beda tempatnya.
+\end_layout
+
+\begin_layout Enumerate
+perut, rahim dan plasenta (atau selaput pembalut janin pada umumnya),
+\end_layout
+
+\begin_layout Enumerate
+perut, charlon dan awnion,
+\end_layout
+
+\begin_layout Enumerate
+perut, punggung dan rahim,
+\end_layout
+
+\begin_layout Enumerate
+indung telur, saluran valub dan rahim.
+\end_layout
+
+\begin_layout Plain Layout
+Tampaknya, pendapat terakhirlah yang paling kuat karena merupakan tiga masa
+ yang terpisah dan berbeda-beda tempatnya.
  Sedangkan pendapat yang lain pada kenyataannya hanya menunjukkan satu fase
  gelap pada satu tempat dengan beberapa tingkatan.
  Allah, Sang Pencipta, telah mengisyaratkan fakta ilmiah ini di dalam kitab
  suci-Nya pada saat orang belum menemukan ovum pada binatang mamalia, serta
  perjalanannya di dalam tubuh wanita yang jauh dari penglihatan mata.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Enumerate
@@ -45841,11 +46341,33 @@ Andai kata kalian, wahai manusia, mengingkari nikmat Allah, Dia tetap Mahakaya
  Jiwa yang berdosa tidak akan dibebani dosa jiwa yang lain.
  Kemudian kepada Tuhanlah kalian akan dikembalikan, lalu Dia memberitahukan
  apa yang dahulu kalian lakukan di dunia.
- Sesungguhnya, Dia Maha Mengetahui apa yang tersimpan di dalam kalbu kalian.
- (1) (1) Ayat ini merupakan pernyataan dari al-Qur'ân mengenai prinsip individua
-litas hukuman seperti yang terdapat pula pada ayat 23 surat Yûsuf.
+ Sesungguhnya, Dia Maha Mengetahui apa yang tersimpan di dalam kalbu kalian
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fn:039-007"
+
+\end_inset
+
+Ayat ini merupakan pernyataan dari al-Qur'ân mengenai prinsip individualitas
+ hukuman seperti yang terdapat pula pada ayat 23 surat Yûsuf (halaman 
+\begin_inset CommandInset ref
+LatexCommand pageref
+reference "enu:012-023"
+
+\end_inset
+
+).
  Sebuah prinsip yang baru dikenal dalam ilmu hukum dan perundang-undangan
  belakangan ini.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -46341,15 +46863,24 @@ a mestinya, karena mereka menyekutukan-Nya dengan yang lain.
 \end_layout
 
 \begin_layout Enumerate
-Pada saat itu, dengan pasti, akan ditiup sangkakala (shûr).
- (1) Maka seketika matilah semua yang ada di langit dan bumi, kecuali makhluk
+Pada saat itu, dengan pasti, akan ditiup sangkakala (shûr)
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Kata "shûr" berarti "bûq": ('terompet').
+ Terompet yang dimaksud dalam ayat ini adalah terompet dari alam gaib yang
+ tidak dapat kita ketahui bentuk dan hakekatnya.
+\end_layout
+
+\end_inset
+
+.
+ Maka seketika matilah semua yang ada di langit dan bumi, kecuali makhluk
  yang dikehendaki Allah untuk mati pada waktu lain kelak.
  Kemudian, sangkakala itu ditiup kembali.
  Serta merta semua akan bangkit kembali dari kuburnya menanti apa yang akan
  dilakukan Allah pada diri mereka.
- (1) Kata "shûr" berarti "bûq": ('terompet').
- Terompet yang dimaksud dalam ayat ini adalah terompet dari alam gaib yang
- tidak dapat kita ketahui bentuk dan hakekatnya.
 \end_layout
 
 \begin_layout Enumerate
@@ -46572,12 +47103,14 @@ Orang-orang kafir akan diseru, "Sesungguhnya kebencian dan kemurkaan Allah
 \begin_layout Enumerate
 Orang-orang kafir itu berkata, "Ya Tuhan kami, Engkau telah mematikan kami
  dua kali: mati dari kehidupan dunia dan mati dari kehidupan kami di alam
- Barzah.
- (1) Engkau juga telah menghidupkan kami dua kali: hidup di dunia dan hidup
- setelah kami dibangkitkan dari kubur.
- Lalu apakah ada jalan bagi kami untuk keluar dari siksaan ini?" (1) Pengertian
- tentang kehidupan di alam barzah--sebuah kehidupan yang tidak kita ketahui
- hakikat sebenarnya--dapat dipahami melalui dua firman Allah Swt.
+ Barzah
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Pengertian tentang kehidupan di alam barzah--sebuah kehidupan yang tidak
+ kita ketahui hakikat sebenarnya--dapat dipahami melalui dua firman Allah
+ Swt.
  berikut.
  Pertama, mengenai keluarga Fir'aun yang terdapat dalam ayat 46 surat ini
  yang artinya berbunyi: "Kepada mereka ditampakkan neraka pada pagi dan
@@ -46587,6 +47120,14 @@ Orang-orang kafir itu berkata, "Ya Tuhan kami, Engkau telah mematikan kami
  berbunyi: "Janganlah kamu mengira bahwa orang-orang yang gugur di jalan
  Allah itu mati.
  Mereka bahkan hidup di sisi Tuhannya dengan mendapat rezeki."
+\end_layout
+
+\end_inset
+
+.
+ Engkau juga telah menghidupkan kami dua kali: hidup di dunia dan hidup
+ setelah kami dibangkitkan dari kubur.
+ Lalu apakah ada jalan bagi kami untuk keluar dari siksaan ini?"
 \end_layout
 
 \begin_layout Enumerate
@@ -47061,10 +47602,14 @@ aan fisik dan daya pikir, atau memanjangkannya lagi hingga mencapai usia
  Allah menciptakan kalian dengan cara seperti itu agar kalian sampai pada
  suatu waktu tertentu, yaitu hari kebangkitan, dan agar kalian memikirkan
  hikmah dan pelajaran yang dapat dipetik dari penciptaan kalian melalui
- fase-fase seperti itu(1).
- (1) Pengertian nuthfah, 'alaqah dan mudlghah yang terdapat dalam surat
- al-Sajdah: 7, 8 dan 9; al-Mu'minûn: 12, 13 dan 14; Ghâfir: 67; dan al-Hajj:
- 5, adalah sebagai berikut.
+ fase-fase seperti itu
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Pengertian nuthfah, 'alaqah dan mudlghah yang terdapat dalam surat al-Sajdah:
+ 7, 8 dan 9; al-Mu'minûn: 12, 13 dan 14; Ghâfir: 67; dan al-Hajj: 5, adalah
+ sebagai berikut.
  Kata nuthfah mengandung beberapa arti, di antaranya adalah 'sperma'.
  Bahkan, dalam ayat 37 surat al-Qiyâmah, pengertian kata nuthfah lebih sempit
  lagi: 'bagian dari sperma'.
@@ -47094,6 +47639,11 @@ aan fisik dan daya pikir, atau memanjangkannya lagi hingga mencapai usia
  terdapat di lapisan tengah sel mudlghah, yaitu fase sebelum 'izhâm.
  Dengan demikian, sel tulang mempunyai pusat pembentukan tersendiri yang
  terpisah dari sel-sel pembentukan otot.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -47412,10 +47962,19 @@ Katakan, wahai Rasulullah, kepada orang-orang musyrik, "Mengherankan sekali
  Bersamaan dengan itu, kalian juga menyekutukan-Nya dengan hal-hal yang
  kalian anggap menyamai-Nya.
  Pencipta bumi itu adalah Penguasa dan Pemelihara alam semesta.
- "(1).
- (1) Satuan hari dalam al-Qur'ân yang kadang-kadang disebut dalam bentuk
- tunggal (yawm), dual (yawmayn) dan jamak (ayyâm), seperti dapat kita lihat
- pada Q., s.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fn:041-009"
+
+\end_inset
+
+Satuan hari dalam al-Qur'ân yang kadang-kadang disebut dalam bentuk tunggal
+ (yawm), dual (yawmayn) dan jamak (ayyâm), seperti dapat kita lihat pada
+ Q., s.
  al-Hajj: 47, al-Sajdah: 5 dan al-Ma'ârij: 4, mengisyaratkan bahwa dimensi
  waktu bersifat nisbi.
  Satuan-satuan waktu yang digunakan oleh manusia bertalian dengan rotasi
@@ -47432,6 +47991,11 @@ Katakan, wahai Rasulullah, kepada orang-orang musyrik, "Mengherankan sekali
  putaran di sekeliling matahari hanya memakan waktu 88 hari saja.
  Sebaliknya Pluto, planet yang paling jauh dan paling lambat, menempuh putaranny
 a dalam 250 tahun bumi.
+\end_layout
+
+\end_inset
+
+"
 \end_layout
 
 \begin_layout Enumerate
@@ -47674,15 +48238,23 @@ Di antara bukti-bukti kekuasaan-Nya yang lain adalah bahwa bumi yang kamu
  dengan tetumbuhannya, mengembang dan bertambah subur.
  Yang menghidupkan bumi dari kematiannya itu, benar-benar pantas untuk menghidup
 kan makhluk hidup yang telah mati.
- Dia benar-benar Mahakuasa atas segala sesuatu.
- (1).
- (1) Ayat ini menerangkan bahwa unsur-unsur kosmos dan lapisan tanah yang
- mati, apabila disiram oleh air hujan akan larut bersama air hujan.
+ Dia benar-benar Mahakuasa atas segala sesuatu
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Ayat ini menerangkan bahwa unsur-unsur kosmos dan lapisan tanah yang mati,
+ apabila disiram oleh air hujan akan larut bersama air hujan.
  Dengan demikian, tanah itu akan mudah bergerak hingga mencapai benih dan
  akar berbagai macam tumbuhan yang kemudian berubah menjadi sel-sel, jaringan-ja
 ringan, dan akhirnya organisme yang hidup.
  Dan dengan meresapnya air dan tumbuhnya berbagai tumbuhan, bumi menjadi
  tampak hidup dan bertambah besar.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -50079,9 +50651,12 @@ Kami memerintahkan kepada manusia untuk berbuat baik kepada kedua orangtuanya.
  Jadikanlah anak keturunanku sebagai orang yang saleh.
  Sesungguhnya aku bertobat kepada-Mu dari segala dosa, dan aku termasuk
  orang yang berserah diri kepada-Mu.
- "(1).
- (1) Berdasarkan ayat ini, dapat diketahui bahwa masa mengandung setidaknya
- berlangsung selama enam bulan.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Berdasarkan ayat ini, dapat diketahui bahwa masa mengandung setidaknya berlangsu
+ng selama enam bulan.
  Disebutkan bahwa masa mengandung dan masa menyusui (sampai dengan masa
  sapih) berlangsung selama 30 bulan.
  Sementara, dalam surat Luqmân ayat 14, disebutkan bahwa masa menyusui berlangsu
@@ -50092,6 +50667,11 @@ ng selama dua tahun (24 bulan) Dalam dalam surat al-Baqarah ayat 233 disebutkan
  adalah enam bulan.
  Dan hal ini sesuai dengan penemuan ilmiah bahwa seorang bayi yang lahir
  pada usia kehamilan enam bulan dapat hidup.
+\end_layout
+
+\end_inset
+
+"
 \end_layout
 
 \begin_layout Enumerate
@@ -50146,8 +50726,11 @@ n serupa.
  Hûd berkata kepada mereka, "Janganlah kalian menyembah selain Allah.
  Sesungguhnya aku khawatir kalian akan ditimpa azab pada hari yang sangat
  menakutkan.
- "(1).
- (1) Kabilah ini bertempat tinggal di bukit-bukit pasir yang disebut Ahqâf.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Kabilah ini bertempat tinggal di bukit-bukit pasir yang disebut Ahqâf.
  .
  Namun letak bukit pasir itu sendiri masih diperselisihkan.
  Di antara ahli sejarah ada yang mengatakan bahwa bukit itu terletak di
@@ -50163,6 +50746,11 @@ n serupa.
  Namun semua itu telah musnah sebelum Islam.
  Dan ketika Islam datang, yang tersisa di sana hanya sember mata air sebagai
  tempat persinggahan kafilah yang pergi ke Syam (Suriah).
+\end_layout
+
+\end_inset
+
+"
 \end_layout
 
 \begin_layout Enumerate
@@ -50377,12 +50965,14 @@ Apabila kalian bertemu dengan orang-orang kafir di medan perang, pancunglah
  Tetapi, karena Allah ingin menguji orang-orang Mukmin melalui orang-orang
  kafir, Dia menetapkan jihad.
  Orang-orang yang terbunuh di jalan Allah, amal perbuatannya tidak akan
- disia-siakan oleh Allah.
- (1) Mereka akan diberi petunjuk, keadaan mereka akan diperbaiki, dan mereka
- akan dimasukkan ke dalam surga yang telah diperkenalkan kepada mereka.
- (1) Dalam ayat yang berbicara mengenai perintah membunuh ini digunakan
- kata riqâb yang berarti 'batang leher', karena cara membunuh yang paling
- cepat dan tidak menyakitkan adalah dengan memenggal leher.
+ disia-siakan oleh Allah
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Dalam ayat yang berbicara mengenai perintah membunuh ini digunakan kata
+ riqâb yang berarti 'batang leher', karena cara membunuh yang paling cepat
+ dan tidak menyakitkan adalah dengan memenggal leher.
  Secara ilmiah telah terbukti bahwa leher merupakan jaringan penghubung
  antara kepala dan seluruh organ tubuh.
  Maka, apabila jaringan urat saraf manusia terputus, semua fungsi utama
@@ -50392,6 +50982,13 @@ Apabila kalian bertemu dengan orang-orang kafir di medan perang, pancunglah
  Begitu pula, apabila saluran pernapasan telah putus, maka manusia tidak
  lagi dapat bernapas.
  Dalam kondisi seperti ini manusia akan cepat mati.
+\end_layout
+
+\end_inset
+
+.
+ Mereka akan diberi petunjuk, keadaan mereka akan diperbaiki, dan mereka
+ akan dimasukkan ke dalam surga yang telah diperkenalkan kepada mereka.
 \end_layout
 
 \begin_layout Enumerate
@@ -50409,12 +51006,14 @@ Apabila kalian bertemu dengan orang-orang kafir di medan perang, pancunglah
  Tetapi, karena Allah ingin menguji orang-orang Mukmin melalui orang-orang
  kafir, Dia menetapkan jihad.
  Orang-orang yang terbunuh di jalan Allah, amal perbuatannya tidak akan
- disia-siakan oleh Allah.
- (1) Mereka akan diberi petunjuk, keadaan mereka akan diperbaiki, dan mereka
- akan dimasukkan ke dalam surga yang telah diperkenalkan kepada mereka.
- (1) Dalam ayat yang berbicara mengenai perintah membunuh ini digunakan
- kata riqâb yang berarti 'batang leher', karena cara membunuh yang paling
- cepat dan tidak menyakitkan adalah dengan memenggal leher.
+ disia-siakan oleh Allah
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Dalam ayat yang berbicara mengenai perintah membunuh ini digunakan kata
+ riqâb yang berarti 'batang leher', karena cara membunuh yang paling cepat
+ dan tidak menyakitkan adalah dengan memenggal leher.
  Secara ilmiah telah terbukti bahwa leher merupakan jaringan penghubung
  antara kepala dan seluruh organ tubuh.
  Maka, apabila jaringan urat saraf manusia terputus, semua fungsi utama
@@ -50424,6 +51023,13 @@ Apabila kalian bertemu dengan orang-orang kafir di medan perang, pancunglah
  Begitu pula, apabila saluran pernapasan telah putus, maka manusia tidak
  lagi dapat bernapas.
  Dalam kondisi seperti ini manusia akan cepat mati.
+\end_layout
+
+\end_inset
+
+.
+ Mereka akan diberi petunjuk, keadaan mereka akan diperbaiki, dan mereka
+ akan dimasukkan ke dalam surga yang telah diperkenalkan kepada mereka.
 \end_layout
 
 \begin_layout Enumerate
@@ -50441,12 +51047,14 @@ Apabila kalian bertemu dengan orang-orang kafir di medan perang, pancunglah
  Tetapi, karena Allah ingin menguji orang-orang Mukmin melalui orang-orang
  kafir, Dia menetapkan jihad.
  Orang-orang yang terbunuh di jalan Allah, amal perbuatannya tidak akan
- disia-siakan oleh Allah.
- (1) Mereka akan diberi petunjuk, keadaan mereka akan diperbaiki, dan mereka
- akan dimasukkan ke dalam surga yang telah diperkenalkan kepada mereka.
- (1) Dalam ayat yang berbicara mengenai perintah membunuh ini digunakan
- kata riqâb yang berarti 'batang leher', karena cara membunuh yang paling
- cepat dan tidak menyakitkan adalah dengan memenggal leher.
+ disia-siakan oleh Allah
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Dalam ayat yang berbicara mengenai perintah membunuh ini digunakan kata
+ riqâb yang berarti 'batang leher', karena cara membunuh yang paling cepat
+ dan tidak menyakitkan adalah dengan memenggal leher.
  Secara ilmiah telah terbukti bahwa leher merupakan jaringan penghubung
  antara kepala dan seluruh organ tubuh.
  Maka, apabila jaringan urat saraf manusia terputus, semua fungsi utama
@@ -50456,6 +51064,13 @@ Apabila kalian bertemu dengan orang-orang kafir di medan perang, pancunglah
  Begitu pula, apabila saluran pernapasan telah putus, maka manusia tidak
  lagi dapat bernapas.
  Dalam kondisi seperti ini manusia akan cepat mati.
+\end_layout
+
+\end_inset
+
+.
+ Mereka akan diberi petunjuk, keadaan mereka akan diperbaiki, dan mereka
+ akan dimasukkan ke dalam surga yang telah diperkenalkan kepada mereka.
 \end_layout
 
 \begin_layout Enumerate
@@ -50524,14 +51139,23 @@ Surga yang telah dijanjikan kepada orang-orang yang bertakwa memiliki sungai
  disaring.
  Mereka akan memperoleh berbagai macam buah-buahan dan ampunan dari Tuhan.
  Apakah surga mereka itu sama dengan balasan orang yang kekal di dalam neraka
- dan diberi minum dengan air yang mendidih sehingga memotong-motong ususnya?(1).
- (1) Ayat di atas menjelaskan bahwa air yang tidak mengalir dan berubah
- adalah air yang membahayakan kesehatan.
+ dan diberi minum dengan air yang mendidih sehingga memotong-motong ususnya?
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Ayat di atas menjelaskan bahwa air yang tidak mengalir dan berubah adalah
+ air yang membahayakan kesehatan.
  Dengan demikian, ayat ini telah menjelaskan hal itu jauh beberapa abad
  sebelum ditemukannya mikroskop.
  Kini, setelah ditemukan mikroskop, orang dapat mengetahui bahwa pada air
  yang tidak mengalir dan berubah terdapat jutaan bakteri yang dan virus
  yang membahayakan kesehatan manusia dan hewan melalui berbagai macam penyakit.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Enumerate
@@ -51524,8 +52148,12 @@ Mereka tidak memikirkan apa yang dibawa oleh Rasulullah saw., bahkan mereka
 Apakah mereka lalai sehingga tidak melihat langit yang ditinggikan tanpa
  tiang di atas mereka, bagaimana Kami meninggikan dan menghiasinya dengan
  bintang-bintang, dan dalam langit itu tidak ada retak-retak yang membuatnya
- cacat.
- (1) (1) Langit adalah semua yang berada di atas kita.
+ cacat
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Langit adalah semua yang berada di atas kita.
  Di dalamnya terdapat benda-benda langit yang beterbangan seperti bintang-bintan
 g dan planet-planet.
  Semua itu berjalan dengan sistem yang sangat teliti dan keseimbangan yang
@@ -51534,19 +52162,55 @@ g dan planet-planet.
  hukum gravitasi, sehingga tidak akan terjadi kekacauan.
 \end_layout
 
+\end_inset
+
+.
+\end_layout
+
 \begin_layout Enumerate
+\begin_inset CommandInset label
+LatexCommand label
+name "enu:050-007"
+
+\end_inset
+
 Kami menghamparkan bumi, lalu Kami menancapkan gunung-gunung di atasnya
  dengan kokoh, dan Kami menumbuhkan segala macam tumbuhan yang indah dipandang
- mata.
- (1) (1) Kulit bumi terlihat tinggi pada tempat-tempat tertentu, seperti
- gunung-gunung, dan juga terlihat rendah pada tempat-tempat lain seperti
- dasar samudera.
+ mata
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fn:050-007"
+
+\end_inset
+
+Kulit bumi terlihat tinggi pada tempat-tempat tertentu, seperti gunung-gunung,
+ dan juga terlihat rendah pada tempat-tempat lain seperti dasar samudera.
  Berat bagian-bagian bumi ini sangat seimbang antara satu dengan yang lainnya.
  Salah satu tanda kekuasaan dan kebijakan Allah adalah dengan menciptakan
  keseimbangan ini dan menjadikannya tetap dengan jalan mengalirkan materi-materi
  bumi yang membentuk kerak bumi yang tipis yang terdapat di bawah lapisan
  luar bumi, maka dengan begitu terjadi aliran dari bagian bumi yang berat
  ke bagian yang lebih ringan.
+\end_layout
+
+\begin_layout Plain Layout
+Lihat juga catatan kaki surat 78 ayat 7, di halaman 
+\begin_inset CommandInset ref
+LatexCommand pageref
+reference "fn:078-007"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -51752,8 +52416,30 @@ Sesungguhnya di dalam siksa yang ditimpakan kepada umat-umat terdahulu itu
 Aku bersumpah, "Sesungguhnya Kami telah menciptakan langit dan bumi serta
  apa yang ada di antara keduanya dalam enam hari, dan Kami tidak ditimpa
  keletihan sedikit pun.
- "(1) (1) Untuk penjelasan tentang "hari" pada ayat ini, lihat catatan kaki
- ayat 9-12 dari surat Fushshilat.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fn:050-038"
+
+\end_inset
+
+Untuk penjelasan tentang "hari" pada ayat ini, lihat catatan kaki ayat 9-12
+ dari surat Fushshilat, di halaman 
+\begin_inset CommandInset ref
+LatexCommand pageref
+reference "fn:041-009"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+"
 \end_layout
 
 \begin_layout Enumerate
@@ -52210,10 +52896,12 @@ Sebelum mereka, kaum Nabi Nûh juga telah Kami binasakan.
 
 \begin_layout Enumerate
 Langit itu Kami kokohkan dengan kekuatan Kami.
- Sesungguhnya Kami mampu menjadikannya lebih dari itu.
- (1) Dan bumi itu Kami bentangkan.
- Maka sebaik-baik yang mempersiapkannya untuk tempat tinggal adalah Kami.
- (1) Ayat ini mengisyaratkan beberapa rahasia ilmiah.
+ Sesungguhnya Kami mampu menjadikannya lebih dari itu
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Ayat ini mengisyaratkan beberapa rahasia ilmiah.
  Di antaranya, bahwa Allah Swt.
  menciptakan alam yang luas ini dengan kekuasaan-Nya.
  Dia Mahakuasa atas segala sesuatu.
@@ -52224,8 +52912,7 @@ Langit itu Kami kokohkan dengan kekuatan Kami.
  Bagian alam raya yang terlihat ini amatlah luas, tak terbayangkan dan tak
  terbatas, sebab jaraknya bisa mencapai jutaan tahun cahaya.
  Menurut ilmu pengetahuan modern, satu tahun cahaya berarti jarak yang dilalui
- cahaya dengan kecepatan 300.
- 000 km per detik.
+ cahaya dengan kecepatan 300.000 km per detik.
  Frase "Wa Innâ Lamûsi'ûn" ('dan Kami meluaskannya') menunjukkan hal itu.
  Artinya, Kami meluaskan alam tersebut dengan sebegitu luasnya sejak diciptakan.
  Ayat tersebut juga menunjukkan bahwa meluasnya alam terus berlangsung sepanjang
@@ -52236,6 +52923,13 @@ Langit itu Kami kokohkan dengan kekuatan Kami.
  dari kita dengan kecepatan yang berbeda-beda.
  Bahkan benda-benda langit dalam satu galaksi pun saling menjauh satu sama
  lainnya.
+\end_layout
+
+\end_inset
+
+.
+ Dan bumi itu Kami bentangkan.
+ Maka sebaik-baik yang mempersiapkannya untuk tempat tinggal adalah Kami.
 \end_layout
 
 \begin_layout Enumerate
@@ -52254,8 +52948,7 @@ Langit itu Kami kokohkan dengan kekuatan Kami.
  Bagian alam raya yang terlihat ini amatlah luas, tak terbayangkan dan tak
  terbatas, sebab jaraknya bisa mencapai jutaan tahun cahaya.
  Menurut ilmu pengetahuan modern, satu tahun cahaya berarti jarak yang dilalui
- cahaya dengan kecepatan 300.
- 000 km per detik.
+ cahaya dengan kecepatan 300.000 km per detik.
  Frase "Wa Innâ Lamûsi'ûn" ('dan Kami meluaskannya') menunjukkan hal itu.
  Artinya, Kami meluaskan alam tersebut dengan sebegitu luasnya sejak diciptakan.
  Ayat tersebut juga menunjukkan bahwa meluasnya alam terus berlangsung sepanjang
@@ -53745,15 +54438,24 @@ Dia menciptakan dan mengajarkan manusia kemampuan menjelaskan apa yang ada
 
 \begin_layout Enumerate
 Matahari dan bulan beredar pada porosnya menurut perhitungan dan ketetapan
- yang tanpa cacat.
- (1) (1) Ayat ini menunjukkan bahwa matahari dan bulan beredar sesuai dengan
- suatu sistem yang sangat akurat sejak awal penciptaannya.
+ yang tanpa cacat
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Ayat ini menunjukkan bahwa matahari dan bulan beredar sesuai dengan suatu
+ sistem yang sangat akurat sejak awal penciptaannya.
  Hal ini baru ditemukan manusia secara pasti belakangan ini, yaitu sekitar
  300 tahun yang lalu.
  Penemuan itu menyatakan bahwa matahari yang, kelihatannya, mengelilingi
  bumi dan bulan yang juga mengelilingi bumi itu berada pada garis edarnya
  masing-masing mengikuti hukum gravitasi.
  Perhitungan peredaran itu, terutama pada bulan, terjadi demikian telitinya.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -53815,9 +54517,13 @@ Nikmat Tuhan yang manakah yang kalian ingkari?
 \begin_layout Enumerate
 Tuhan yang memelihara dua tempat terbitnya matahari, pada musim panas dan
  musim dingin, dan Tuhan yang memelihara dua tempat terbenamnya matahari
- pada kedua musim tersebut.
- (1) (1) Yang dimaksud ayat ini, bisa jadi, adalah dua tempat terbit dan
- terbenamnya matahari dan bulan.
+ pada kedua musim tersebut
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Yang dimaksud ayat ini, bisa jadi, adalah dua tempat terbit dan terbenamnya
+ matahari dan bulan.
  Dengan demikian, ayat ini menunjuk kepada adanya gejala siang dan malam
  yang juga terdapat pada surat al-Qashash ayat 71, 72 dan 73.
  Tetapi, bisa jadi juga, yang dimaksudkan dalam ayat ini hanya matahari
@@ -53849,6 +54555,11 @@ Tuhan yang memelihara dua tempat terbitnya matahari, pada musim panas dan
  kemudahan kepada manusia, hewan dan tumbuh- tumbuhan dalam beraktifitas.
 \end_layout
 
+\end_inset
+
+.
+\end_layout
+
 \begin_layout Enumerate
 Lalu, nikmat Tuhan yang manakah yang kalian ingkari?
 \end_layout
@@ -53873,8 +54584,30 @@ Lalu, nikmat Tuhan yang manakah yang kalian ingkari?
 
 \begin_layout Enumerate
 Dari kedua lautan itu keluar mutiara dan merjan yang dapat kalian jadikan
- perhiasan.
- (1) (1) Lihat catatan kaki ayat 12 surat Fâthir.
+ perhiasan
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fn:055-022"
+
+\end_inset
+
+Lihat catatan kaki ayat 12 surat Fâthir, di halaman 
+\begin_inset CommandInset ref
+LatexCommand pageref
+reference "fn:035-012"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -53927,9 +54660,13 @@ Maka, nikmat Tuhan yang manakah yang kalian ingkari?
 Wahai jin-jin dan manusia semua, jika kalian mampu menembus penjuru langit
  dan bumi, tembuslah! Kalian tidak dapat menembusnya kecuali dengan kekuatan
  dan kekuasaan.
- Dan sekali-kali kalian tidak akan dapat melakukan hal itu.
- (1) (1) Sampai saat ini terbukti betapa besarnya upaya dan tenaga yang
- dibutuhkan untuk dapat menembus lingkup gravitasi bumi.
+ Dan sekali-kali kalian tidak akan dapat melakukan hal itu
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Sampai saat ini terbukti betapa besarnya upaya dan tenaga yang dibutuhkan
+ untuk dapat menembus lingkup gravitasi bumi.
  Kesuksesan eksperimen perjalanan luar angkasa selama waktu yang sangat
  sedikit dan terbatas jika dibandingkan dengan besarnya alam raya itu saja
  memerlukan upaya yang luar biasa di bidang sains dengan segala cabangnya:
@@ -53938,6 +54675,11 @@ Wahai jin-jin dan manusia semua, jika kalian mampu menembus penjuru langit
  Hal ini membuktikan dengan jelas bahwa upaya menembus langit dan bumi yang
  berjarak jutaan tahun cahaya itu mustahil dapat dilakukan oleh jin dan
  manusia.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -54100,10 +54842,14 @@ Maka, nikmat Tuhan yang manakah yang kalian ingkari?
 
 \begin_layout Enumerate
 Di dalam kedua surga itu terdapat pula aneka ragam buah-buahan, kurma dan
- delima.
- (1) (1) Ayat ini secara khusus menyebut dua nama buah, yaitu kurma dan
- delima, karena kedua buah itu memang mempunyai beberapa keistimewaan seperti
- yang kelak dibuktkan oleh ilmu pengetahuan modern.
+ delima
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Ayat ini secara khusus menyebut dua nama buah, yaitu kurma dan delima, karena
+ kedua buah itu memang mempunyai beberapa keistimewaan seperti yang kelak
+ dibuktkan oleh ilmu pengetahuan modern.
  Secara kimiawi buah kurma mempunyai kandungan gula yang tinggi, sekitar
  75%.
  Kandungan gula terbesar terdapat pada tebu dan cairan yang dihasilkan dari
@@ -54131,6 +54877,11 @@ Di dalam kedua surga itu terdapat pula aneka ragam buah-buahan, kurma dan
  Selain itu, kulit buah delima juga mempunyai kegunaan karena mengandung
  astringen yang dapat melindungi perut dari mencret, di samping dapat dimanfaatk
 an untuk membasmi cacing pita.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -54916,8 +55667,12 @@ Jika Kami berkehendak, Kami akan menjadikan tanaman itu kering dan rusak
 \begin_layout Enumerate
 Tidakkah kalian melihat air tawar yang kalian minum? Kaliankah yang menurunkanny
 a dari awan atau Kamikah yang menurunkannya, sebagai perwujudan kasih sayang
- Kami kepada kalian?(1) (1) Kata al-muzn dalam bahasa Arab berarti 'awan
- yang menurunkan hujan'.
+ Kami kepada kalian?
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Kata al-muzn dalam bahasa Arab berarti 'awan yang menurunkan hujan'.
  Untuk terjadinya hujan diperlukan keadaan cuaca tertentu yang berada di
  luar kemampuan manusia, seperti adanya angin dingin yang berhembus di atas
  angin panas, atau keadaan cuaca yang tidak stabil.
@@ -54926,17 +55681,31 @@ a dari awan atau Kamikah yang menurunkannya, sebagai perwujudan kasih sayang
  masih memerlukan beberapa kondisi alam tertentu juga.
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
 \begin_layout Enumerate
 Tidakkah kalian melihat air tawar yang kalian minum? Kaliankah yang menurunkanny
 a dari awan atau Kamikah yang menurunkannya, sebagai perwujudan kasih sayang
- Kami kepada kalian?(1) (1) Kata al-muzn dalam bahasa Arab berarti 'awan
- yang menurunkan hujan'.
+ Kami kepada kalian?
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Kata al-muzn dalam bahasa Arab berarti 'awan yang menurunkan hujan'.
  Untuk terjadinya hujan diperlukan keadaan cuaca tertentu yang berada di
  luar kemampuan manusia, seperti adanya angin dingin yang berhembus di atas
  angin panas, atau keadaan cuaca yang tidak stabil.
  Adapun hujan buatan yang kita kenal itu sampai saat ini masih merupakan
  percobaan yang persentase keberhasilannya masih sangat kecil, di samping
  masih memerlukan beberapa kondisi alam tertentu juga.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Enumerate
@@ -54973,8 +55742,11 @@ Aku benar-benar bersumpah demi tempat-tempat tenggelamnya bintang-bintang
  di penghujung malam, yaitu waktu-waktu untuk salat tahajud dan istigfar.
  Sumpah itu--bila kalian pikirkan kandungannya--sangat penting dan mempunyai
  pengaruh yang amat dalam.
- (1) (1) Dua ayat ini menjelaskan betapa pentingnya sumpah yang diucapkan
- itu.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Dua ayat ini menjelaskan betapa pentingnya sumpah yang diucapkan itu.
  Bintang merupakan benda langit yang bersinar sendiri.
  Di antara bintang-bintang itu, yang paling dekat dengan planet kita adalah
  matahari dengan jarak ± 500 tahun cahaya.
@@ -54997,13 +55769,21 @@ Aku benar-benar bersumpah demi tempat-tempat tenggelamnya bintang-bintang
  pada alam semesta yang Dia ciptakan dan Dia atur.
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
 \begin_layout Enumerate
 Aku benar-benar bersumpah demi tempat-tempat tenggelamnya bintang-bintang
  di penghujung malam, yaitu waktu-waktu untuk salat tahajud dan istigfar.
  Sumpah itu--bila kalian pikirkan kandungannya--sangat penting dan mempunyai
  pengaruh yang amat dalam.
- (1) (1) Dua ayat ini menjelaskan betapa pentingnya sumpah yang diucapkan
- itu.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Dua ayat ini menjelaskan betapa pentingnya sumpah yang diucapkan itu.
  Bintang merupakan benda langit yang bersinar sendiri.
  Di antara bintang-bintang itu, yang paling dekat dengan planet kita adalah
  matahari dengan jarak ± 500 tahun cahaya.
@@ -55024,6 +55804,11 @@ Aku benar-benar bersumpah demi tempat-tempat tenggelamnya bintang-bintang
  maka akan merusak keseimbangan dan akhirnya membawa kepada kehancuran juga.
  Dari itu, tanda-tanda kebesaran Allah yang dapat dijadikan pelajaran tampak
  pada alam semesta yang Dia ciptakan dan Dia atur.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Enumerate
@@ -55146,12 +55931,20 @@ Maka bertasbihlah selalu dengan menyebut nama Tuhanmu Yang Mahaagung untuk
 Al-hadid (Besi)
 \end_layout
 
+\begin_layout Subsection
+Pendahuluan
+\end_layout
+
 \begin_layout Standard
-[[57 ~ AL-HADID (BESI) Pendahuluan: Madaniyyah, 29 ayat ~ Surat ini dimulai
- dengan berita bahwa Allah disucikan oleh semua yang ada di langit dan di
- bumi, lalu dilanjutkan dengan keterangan tentang sebab-sebab penyucian
- itu, yaitu bahwa Allah adalah Pemilik kerajaan langit dan bumi, Maha Mengetahui
- dan bebas melakukan apa saja terhadap segala makhluk yang ada pada keduanya.
+Madaniyyah, 29 ayat
+\end_layout
+
+\begin_layout Standard
+Surat ini dimulai dengan berita bahwa Allah disucikan oleh semua yang ada
+ di langit dan di bumi, lalu dilanjutkan dengan keterangan tentang sebab-sebab
+ penyucian itu, yaitu bahwa Allah adalah Pemilik kerajaan langit dan bumi,
+ Maha Mengetahui dan bebas melakukan apa saja terhadap segala makhluk yang
+ ada pada keduanya.
  Selanjutnya, disebutkan pula perintah untuk beriman kepada Allah dan membelanja
 kan harta di jalan-Nya.
  Membelanjakan harta, menurut bagian surat selanjutnya terbagi menjadi beberapa
@@ -55185,26 +55978,33 @@ n bahwa tempat kembali orang-orang kafir dan pendusta adalah neraka Jahîm.
  mendapatkan karunia yang tidak dapat diwujudkan oleh selain Allah.
  Hal itu disebabkan karena karunia itu berada di tangan Allah.
  Dia bebas untuk memberikannya kepada siapa saja.
- Allah memiliki karunia yang besar.]] Semua makhluk yang ada di langit dan
- di bumi--manusia, hewan dan benda mati--menyucikan Allah Yang Mahaperkasa,
- mengatur semua urusan dengan bijaksana.
+ Allah memiliki karunia yang besar.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsection
+Isi
+\end_layout
+
+\begin_layout Enumerate
+Semua makhluk yang ada di langit dan di bumi--manusia, hewan dan benda mati--men
+yucikan Allah Yang Mahaperkasa, mengatur semua urusan dengan bijaksana.
+\end_layout
+
+\begin_layout Enumerate
 Hanya milik Allahlah, bukan milik yang lain, kerajaan langit dan bumi.
  Dia bebas melakukan apa saja terhadap segala sesuatu yang ada di kedua
  tempat itu, menghidupkan dan mematikan.
  Dan Dia Mahakuasa atas segala sesuatu.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dia telah ada sebelum segala sesuatu ada; hidup kekal setelah segala sesuatu
  musnah; tampak pada segala sesuatu, karena segala sesuatu merupakan tanda
  adanya Tuhan; tidak tampak sehingga tak dapat dilihat oleh mata.
  Dia mengetahui segala sesuatu, baik yang tampak maupun yang tidak.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dialah yang menciptakan langit dan bumi beserta segala yang ada di antara
  keduanya dalam enam hari.
  Kemudian Dia bersemayam di singgasana dengan mengatur kerajaan-Nya.
@@ -55215,19 +56015,19 @@ i segala yang turun dari dan yang naik ke langit.
  Tidak ada sesuatu pun dari hal itu yang tersembunyi.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Hanya Allahlah yang memiliki kerajaan langit dan bumi, dan hanya kepada-Nyalah
  urusan semua makhluk akan dikembalikan dan nasib mereka berakhir.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dia memasukkan sebagian waktu malam ke dalam waktu siang, dan memasukkan
  sebagian waktu siang ke dalam waktu malam, hingga panjangnya menjadi berbeda-be
 da.
  Dia Maha Mengetahui segala sesuatu yang tersimpan dalam dada dan hati.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Percayalah kalian kepada Allah dan Rasul-Nya.
  Belanjakanlah sebagian harta yang hak penggunaannya telah Dia titipkan
  kepadamu.
@@ -55236,20 +56036,20 @@ Percayalah kalian kepada Allah dan Rasul-Nya.
  yang besar di sisi Allah.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Mengapa kalian tidak beriman kepada Allah sedangkan Rasul mengajak dan menganjur
 kan kalian untuk beriman kepada Tuhan, padahal sebelumnya Allah benar-benar
  telah mengambil janji dari kalian untuk beriman? Jika kalian mau beriman,
  sebenarnya buktinya sudah jelas.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dia yang menurunkan ayat-ayat al-Qur'ân yang jelas kepada Rasul-Nya untuk
  mengeluarkan kalian menuju petunjuk.
  Allah sungguh Maha Pengasih dan Maha Penyayang kepada kalian.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Apa yang terjadi pada diri kalian hingga tidak menafkahkan sebagian harta
  di jalan Allah, padahal hanya Dialah yang memiliki langit dan bumi, hingga
  tidak ada sesuatu pun yang berhak memiliki apa-apa yang ada pada keduanya?
@@ -55266,13 +56066,13 @@ Apa yang terjadi pada diri kalian hingga tidak menafkahkan sebagian harta
  dengan balasan yang setimpal.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Orang Mukmin manakah yang dengan ikhlas menafkahkan sebagian hartanya di
  jalan Allah, hingga diberi pahala yang berlipat ganda, dan bahkan akan
  mendapatkan pahala yang mulia di hari kiamat?
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Yaitu hari ketika kamu melihat orang-orang Mukmin, laki-laki dan perempuan,
  didahului oleh cahaya keimanan dan amal baik mereka yang memancar dari
  arah depan dan samping kanan.
@@ -55283,7 +56083,7 @@ Yaitu hari ketika kamu melihat orang-orang Mukmin, laki-laki dan perempuan,
  Balasan itu adalah keberhasilan yang besar untuk amalan-amalan kalian.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Juga hari ketika orang-orang munafik, laki-laki dan perempuan, berkata kepada
  orang-orang Mukmin laki-laki dan perempuan, "Tunggulah kami, untuk mengambil
  sedikit cahaya kalian!" Mereka diejek dengan dikatakan, "Kembali dan carilah
@@ -55295,7 +56095,7 @@ Juga hari ketika orang-orang munafik, laki-laki dan perempuan, berkata kepada
  dan siksaan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Orang-orang munafik itu menyeru orang-orang Mukmin, "Bukankah di dunia dulu
  kami adalah teman kalian?" Orang-orang Mukmin menjawab, "Ya, benar apa
  yang kalian katakan itu.
@@ -55306,7 +56106,7 @@ Orang-orang munafik itu menyeru orang-orang Mukmin, "Bukankah di dunia dulu
  ditipu oleh setan bahwa kalian akan mendapatkan ampunan dari Allah.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Pada hari ini tebusan untuk membebaskan diri dari siksaan tidak akan diterima,
  berapa pun besarnya.
  Sama halnya dengan tebusan orang-orang yang dengan terang-terangan menyatakan
@@ -55315,7 +56115,7 @@ Pada hari ini tebusan untuk membebaskan diri dari siksaan tidak akan diterima,
  buat kalian dan merupakan seburuk-buruk tempat kembali."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Belum tibakah saatnya, bagi orang-orang yang beriman, untuk mengkhusyukkan
  hati menyebut nama Allah dan membaca al-Qur'ân, sehingga tidak menjadi
  seperti penerima kitab suci sebelum mereka--yaitu penganut Yahudi dan Nasrani?
@@ -55324,7 +56124,7 @@ Belum tibakah saatnya, bagi orang-orang yang beriman, untuk mengkhusyukkan
  Kebanyakan mereka keluar dari ketentuan-ketentuan agama.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Ketahuilah, wahai orang-orang Mukmin, bahwa Allah akan selalu menyuburkan
  dan menyiapkan tanah untuk ditumbuhi tanaman dengan menurunkan hujan di
  bagian yang kering.
@@ -55333,13 +56133,13 @@ Ketahuilah, wahai orang-orang Mukmin, bahwa Allah akan selalu menyuburkan
  nama Allah.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Orang-orang yang bersedekah dan berinfak di jalan Allah, baik laki-laki
  maupun perempuan, secara sukarela, pahala mereka akan dilipatgandakan.
  Lebih dari itu, di hari kiamat mereka akan mendapatkan upah yang mulia.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Orang-orang yang beriman kepada Allah dan rasul-Nya dan tidak membeda-bedakan
  antara mereka, derajat mereka sama dengan derajat Shiddîqîn (orang-orang
  yang sangat percaya) dan Syuhadâ' (orang-orang yang mati di jalan Allah).
@@ -55349,7 +56149,7 @@ Orang-orang yang beriman kepada Allah dan rasul-Nya dan tidak membeda-bedakan
  adalah penghuni-penghuni neraka yang tidak akan pernah meninggalkannya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Ketahuilah, wahai orang-orang yang tertipu oleh kehidupan dunia, bahwa kehidupan
  dunia ini hanya merupakan sebuah permainan yang tidak membawa hasil; sebuah
  permainan yang melalaikan orang untuk melakukan hal-hal yang bermanfaat;
@@ -55369,7 +56169,7 @@ Ketahuilah, wahai orang-orang yang tertipu oleh kehidupan dunia, bahwa kehidupan
  utama dan bukan sekadar sarana untuk memperoleh keuntungan akhirat.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Bergegas dan berlombalah untuk mendapatkan ampunan Tuhan dan mendapatkan
  surga yang luasnya sama dengan luas langit dan bumi, yang disediakan untuk
  orang-orang yang mempercayai Allah dan rasul- Nya.
@@ -55379,7 +56179,7 @@ Bergegas dan berlombalah untuk mendapatkan ampunan Tuhan dan mendapatkan
  oleh akal.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Semua musibah yang terjadi di bumi seperti kekeringan, kurangnya buah-buahan
  dan lain-lain, atau yang terjadi pada diri kalian seperti sakit, miskin,
  mati dan lain-lain, telah tercatat dalam al-Lawh al-Mahfûzh dan telah ada
@@ -55387,7 +56187,7 @@ Semua musibah yang terjadi di bumi seperti kekeringan, kurangnya buah-buahan
  Hal itu sangat mudah bagi Allah, karena ilmu-Nya meliputi segala sesuatu.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Kami memberitahukan itu semua agar kalian tidak terlalu kecewa atas apa
  yang tidak kalian peroleh, dan tidak terlalu senang dengan apa yang Allah
  berikan kepada kalian.
@@ -55395,7 +56195,7 @@ Kami memberitahukan itu semua agar kalian tidak terlalu kecewa atas apa
  kepada orang lain.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Yaitu orang-orang yang enggan menafkahkan hartanya di jalan Allah dan menganjurk
 an orang lain untuk berbuat seperti itu--dengan cara memberikan gambaran
  kepada mereka bahwa hal itu adalah baik.
@@ -55404,7 +56204,7 @@ an orang lain untuk berbuat seperti itu--dengan cara memberikan gambaran
  Allah berhak mendapatkan pujian dan sanjungan karena diri-Nya sendiri.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Kami benar-benar telah mengutus para rasul yang Kami pilih dengan membawa
  beberapa mukjizat yang kuat.
  Bersama mereka juga Kami turunkan kitab suci-kitab suci yang mengandung
@@ -55417,11 +56217,15 @@ Kami benar-benar telah mengutus para rasul yang Kami pilih dengan membawa
  dan agar Allah, dari alam gaib, mengetahui siapa saja yang membela agama
  dan rasul-rasul-Nya.
  Allah benar-benar Mahakuasa karena diri-Nya sendiri, dan tidak memerlukan
- bantuan siapa pun.
- (1) (1) Besi merupakan salah satu dari tujuh unsur kimia yang telah dikenal
- oleh ilmuwan-ilmuwan zaman dahulu yaitu emas, perak, air raksa, loyang,
- timah hitam (plumbum), besi, dan timah, serta logam yang paling banyak
- tersebar di bumi.
+ bantuan siapa pun
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Besi merupakan salah satu dari tujuh unsur kimia yang telah dikenal oleh
+ ilmuwan-ilmuwan zaman dahulu yaitu emas, perak, air raksa, loyang, timah
+ hitam (plumbum), besi, dan timah, serta logam yang paling banyak tersebar
+ di bumi.
  Besi itu biasanya terdapat dalam komponen unsur kimia lain seperti dalam
  oksida, sulfida (sulfat), zat arang dan silikon.
  Sejumlah kecil besi murni juga terdapat dalam batu meteor besi.
@@ -55454,14 +56258,19 @@ s (proses pemanfaatan energi cahaya matahari) yang membuat tumbuh-tumbuhan
  hemoglobin).
 \end_layout
 
-\begin_layout Standard
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
 Kami benar-benar telah mengutus Nûh dan Ibrâhîm dan memberikan kenabian
  dan kitab suci kepada anak keturunan mereka berdua.
  Sebagian anak turun mereka itu, kemudian, ada yang meniti jalan petunjuk
  dan banyak juga yang keluar dari jalan yang lurus.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Segera setelah Nûh dan Ibrâhîm--dan rasul-rasul yang sezaman atau yang hidup
  sebelum mereka--Kami mengutus rasul-rasul Kami secara berturut-turut hingga
  sampai kepada 'Isâ putra Maryam.
@@ -55477,7 +56286,7 @@ Segera setelah Nûh dan Ibrâhîm--dan rasul-rasul yang sezaman atau yang hidup
  dan jalan yang lurus.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Hai orang-orang yang beriman, takutlah kepada siksa Allah dan teguhlah dalam
  beriman kepada Rasul- Nya niscaya Dia akan memberi dua bagian dari kasih
  sayang-Nya, memberi kalian cahaya sebagai pelita, dan mengampuni dosa-dosa
@@ -55485,7 +56294,7 @@ Hai orang-orang yang beriman, takutlah kepada siksa Allah dan teguhlah dalam
  Ampunan Allah amat luas dan kasih sayang-Nya begitu banyak.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Allah memberikan semua itu kepada kalian, agar kaum Ahl al-Kitâb yang tidak
  beriman kepada Muhammad itu tahu bahwa mereka tidak akan mampu memberikan
  kesenangan seperti yang diberikan oleh Allah, baik kepada diri mereka sendiri
@@ -55495,10 +56304,21 @@ Allah memberikan semua itu kepada kalian, agar kaum Ahl al-Kitâb yang tidak
  Dia adalah Pemilik karunia yang besar.
 \end_layout
 
+\begin_layout Section
+Al-mujadilah (Wanita yang Menggugat)
+\end_layout
+
+\begin_layout Subsection
+Pendahuluan
+\end_layout
+
 \begin_layout Standard
-[[58 ~ AL-MUJADILAH (WANITA YANG MENGGUGAT) Pendahuluan: Madaniyyah, 22
- ayat ~ Surat ini diawali dengan pembicaraan tentang wanita yang dijatuhi
- sumpah zihar oleh suaminya berikut keterangan mengenai hukumnya.
+Madaniyyah, 22 ayat
+\end_layout
+
+\begin_layout Standard
+Surat ini diawali dengan pembicaraan tentang wanita yang dijatuhi sumpah
+ zihar oleh suaminya berikut keterangan mengenai hukumnya.
  Pada ayat-ayat berikutnya, Allah kemudian menyalahkan orang-orang yang
  memusuhi agama-Nya lalu memperingatkan mereka untuk tidak mengadakan pembicaraa
 n rahasia dalam masalah dosa dan permusuhan.
@@ -55514,14 +56334,26 @@ n rahasia dalam masalah dosa dan permusuhan.
  restu Allah dan rasul-Nya daripada restu orang lain meskipun mereka adalah
  bapak, anak, saudara, atau kerabat dekat mereka.
  Allah menggambarkan bahwa mereka adalah anggota golongan Allah (hizb Allâh)
- yang pasti menang.]] Allah benar-benar telah mendengar wanita yang mendebatmu
- tentang hal ihwal suaminya yang menjatuhkan sumpah zihar kepadanya dan
- mengeluhkannya kepada Allah.
+ yang pasti menang.
+\end_layout
+
+\begin_layout Subsection
+Isi
+\end_layout
+
+\begin_layout Enumerate
+Allah benar-benar telah mendengar wanita yang mendebatmu tentang hal ihwal
+ suaminya yang menjatuhkan sumpah zihar kepadanya dan mengeluhkannya kepada
+ Allah.
  Allah mendengar perkataan yang kalian berdua perdebatkan.
  Pendengaran-Nya benar-benar meliputi segala sesuatu yang mungkin didengar
- dan penglihatan-Nya meliputi segala sesuatu yang mungkin terlihat.
- (1) (1) Latar belakang turunnya ayat ini adalah sebuah kasus yang mengisahkan
- bahwa Aws ibn al-Shâmit suatu ketika memarahi istrinya, Khawlah bint Tsa'labah.
+ dan penglihatan-Nya meliputi segala sesuatu yang mungkin terlihat
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Latar belakang turunnya ayat ini adalah sebuah kasus yang mengisahkan bahwa
+ Aws ibn al-Shâmit suatu ketika memarahi istrinya, Khawlah bint Tsa'labah.
  Kepada sang istri, Aws berkata, "Bagiku, punggungmu seperti punggung ibuku."
  Pada zaman jahiliah, ungkapan seperti itu mengandung makna majas (metaforis)
  yang berarti bahwa istri tidak lagi halal untuk digauli.
@@ -55534,7 +56366,12 @@ n rahasia dalam masalah dosa dan permusuhan.
  Kemudian turunlah ayat ini bersama tiga ayat berikutnya.
 \end_layout
 
-\begin_layout Standard
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
 Orang-orang yang, di antara kalian, menjatuhkan sumpah zihar kepada istrinya
  dengan menganggapnya haram digauli--seperti halnya ibu mereka yang juga
  haram mereka gauli--telah berbuat salah.
@@ -55547,7 +56384,7 @@ Orang-orang yang, di antara kalian, menjatuhkan sumpah zihar kepada istrinya
  lakukan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Adapun mereka yang pada mulanya menjatuhkan sumpah zihar tetapi kemudian
  menengok kembali ucapannya itu, menyadari kesalahannya dan menginginkan
  agar hubungan suami istri tetap berlanjut, mereka harus memerdekakan seorang
@@ -55557,7 +56394,7 @@ Adapun mereka yang pada mulanya menjatuhkan sumpah zihar tetapi kemudian
  Allah mengetahui semua yang kalian perbuat.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Sedangkan bagi orang yang tidak menemukan seorang hamba sahaya, maka ia
  harus melakukan puasa dua bulan berturut-turut sebelum melakukan hubungan
  suami istri.
@@ -55568,7 +56405,7 @@ Sedangkan bagi orang yang tidak menemukan seorang hamba sahaya, maka ia
  kafir akan mendapatkan siksa yang sangat menyakitkan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Orang-orang yang menentang Allah dan rasul-Nya benar-benar telah terhinakan
  seperti halnya orang-orang sebelum mereka.
  Kami telah menurunkan bukti-bukti kebenaran yang jelas.
@@ -55576,7 +56413,7 @@ Orang-orang yang menentang Allah dan rasul-Nya benar-benar telah terhinakan
  sangat menghinakan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Yaitu di hari ketika Allah menghidupkan mereka setelah mati, lalu diberi
  tahu tentang amalan-amalan yang telah mereka perbuat.
  Amalan-amalan itu telah Allah hitung dengan tepat, sedang mereka sendiri
@@ -55584,7 +56421,7 @@ Yaitu di hari ketika Allah menghidupkan mereka setelah mati, lalu diberi
  Allah benar-benar melihat dan menyaksikan segala sesuatu.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Apakah kamu tidak mengetahui bahwa Allah mengetahui segala sesuatu yang
  ada di langit dan di bumi? Bila saja ada tiga orang yang mengadakan pembicaraan
  rahasia, maka--karena Dia selalu mengetahuinya--Dia adalah yang keempatnya.
@@ -55598,7 +56435,7 @@ Apakah kamu tidak mengetahui bahwa Allah mengetahui segala sesuatu yang
  Allah benar-benar mengetahui segala sesuatu.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Apakah kamu, wahai Rasulullah, tidak mengetahui orang-orang yang dilarang
  mengadakan pembicaraan rahasia di antara mereka mengenai hal-hal yang menimbulk
 an keragu-raguan di dalam hati orang-orang Mukmin, lalu kembali melakukan
@@ -55610,9 +56447,13 @@ an keragu-raguan di dalam hati orang-orang Mukmin, lalu kembali melakukan
  ia benar-benar seorang rasul?" Cukuplah bagi mereka neraka jahanam yang
  akan mereka masuki.
  Mereka akan terbakar.
- Tempat kembali yang paling buruk adalah tempat kembali mereka.
- (1) (1) Suatu ketika, antara kaum Muslimin dan kaum Yahudi di Madinah terjadi
- perjanjian damai.
+ Tempat kembali yang paling buruk adalah tempat kembali mereka
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Suatu ketika, antara kaum Muslimin dan kaum Yahudi di Madinah terjadi perjanjian
+ damai.
  Salah satu kebiasaan orang-orang Yahudi adalah bahwa jika ada seorang Muslim
  yang akan lewat di hadapan mereka, mereka saling berbisik satu sama lain
  sehingga orang Muslim itu menyangka bahwa mereka berencana hendak membunuh
@@ -55626,7 +56467,12 @@ an keragu-raguan di dalam hati orang-orang Mukmin, lalu kembali melakukan
  Dengan latar belakang itu turunlah ayat ini.
 \end_layout
 
-\begin_layout Standard
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
 Wahai orang-orang yang mempercayai Allah dan Rasul-Nya, apabila kalian mengadaka
 n pembicaraan rahasia, janganlah kalian lakukan itu demi berbuat dosa, menyakiti
  orang lain atau melanggar perintah Rasul! Sebaliknya, lakukanlah pembicaraan
@@ -55635,7 +56481,7 @@ n pembicaraan rahasia, janganlah kalian lakukan itu demi berbuat dosa, menyakiti
  akan digiring setelah dibangkitkan dari kematian!
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Sesungguhnya melakukan pembicaraan rahasia yang dapat menimbulkan keraguan
  adalah salah satu godaan setan untuk memasukkan kesedihan ke dalam hati
  orang-orang Mukmin.
@@ -55643,7 +56489,7 @@ Sesungguhnya melakukan pembicaraan rahasia yang dapat menimbulkan keraguan
  Dari itu, hanya kepada-Nyalah orang-orang Mukmin harus bersandar.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai orang-orang yang mempercayai Allah dan rasul-Nya, apabila kalian diminta
  untuk melapangkan tempat duduk bagi orang lain agar ia dapat duduk bersama
  kalian maka lakukanlah, Allah pasti akan melapangkan segala sesuatu untuk
@@ -55653,7 +56499,7 @@ Wahai orang-orang yang mempercayai Allah dan rasul-Nya, apabila kalian diminta
  Allah Maha Mengetahui segala sesuatu yang kalian perbuat.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai orang-orang yang mempercayai Allah dan Rasul-Nya, apabila kalian hendak
  melakukan pembicaraan khusus dengan Rasulullah, maka bersedekahlah lebih
  dahulu karena hal itu lebih baik bagi kalian dan lebih dapat membersihkan
@@ -55662,7 +56508,7 @@ Wahai orang-orang yang mempercayai Allah dan Rasul-Nya, apabila kalian hendak
  Pengampun dan Maha Penyayang.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Apakah kalian takut untuk selalu memberikan sedekah sebelum melakukan pembicaraa
 n dengan Rasulullah? Apabila kalian tidak melakukannya padahal Allah mengampuni
  kalian, maka lakukanlah terus salat dan membayar zakat, serta taatlah kepada
@@ -55670,7 +56516,7 @@ n dengan Rasulullah? Apabila kalian tidak melakukannya padahal Allah mengampuni
  memberi balasan sesuai dengan hal itu.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai Rasulullah, apakah kamu tidak melihat kepada orang-orang munafik yang
  menjadikan bangsa yang dimurkai Allah sebagai teman? Mereka yang menjadikan
  teman itu bukan bagian dari kalian dan bukan pula bagian dari mereka yang
@@ -55679,27 +56525,27 @@ Wahai Rasulullah, apakah kamu tidak melihat kepada orang-orang munafik yang
  tahu bahwa mereka adalah pembohong.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Allah menyediakan untuk orang-orang munafik itu suatu siksa yang sangat
  keras.
  Kemunafikan dan sumpah bohong yang pernah mereka lakukan itu benar-benar
  sangat buruk.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Mereka menjadikan sumpah-sumpah mereka sebagai perisai untuk menghindari
  pembunuhan, penawanan anak dan perampasan harta mereka.
  Dengan begitu mereka telah menghalangi jalan Allah.
  Karenanya mereka akan mendapatkan siksa yang sangat menghinakan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Harta dan anak mereka tidak akan dapat menghalangi mereka dari siksa Allah
  sedikit pun.
  Mereka adalah penghuni neraka yang kekal di dalamnya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Pada hari ketika Allah membangkitkan mereka semua dari kubur, dan mereka
  bersumpah bahwa dulu mereka beriman sebagaimana sekarang ini bersumpah
  di depan kalian.
@@ -55709,24 +56555,24 @@ Pada hari ketika Allah membangkitkan mereka semua dari kubur, dan mereka
  kebohongan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Mereka dikuasai oleh setan hingga lupa berzikir kepada Allah dan merenungi
  keagungan-Nya.
  Mereka adalah kelompok setan.
  Dan kelompok setan adalah orang-orang yang mencapai puncak kerugian.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Orang-orang yang menentang Allah dan Rasul-Nya adalah bagian dari golongan
  yang mencapai puncak kehinaan itu.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Allah telah menentukan bahwa Dia dan rasul-rasul-Nya benar-benar akan menang.
  Allah benar-benar sempurna kekuatan-Nya dan tidak akan terkalahkan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Kamu tidak akan mendapatkan suatu kaum yang percaya kepada Allah dan hari
  kiamat saling mencinta dengan orang-orang yang memusuhi Allah dan para
  utusan-Nya, kendati mereka itu adalah bapak, anak, saudara, atau kerabat
@@ -55741,10 +56587,21 @@ usnya.
  Mereka itulah kelompok Allah, dan hanya kelompok Allah yang akan menang.
 \end_layout
 
+\begin_layout Section
+Al-hasyr (Pengusiran)
+\end_layout
+
+\begin_layout Subsection
+Pendahuluan
+\end_layout
+
 \begin_layout Standard
-[[59 ~ AL-HASYR (PENGUSIRAN) Pendahuluan: Madaniyyah, 24 ayat ~ Surat ini
- diawali dengan keterangan bahwa Allah disucikan dari semua sifat yang tidak
- pantas oleh segala sesuatu yang ada di langit dan bumi.
+Madaniyyah, 24 ayat
+\end_layout
+
+\begin_layout Standard
+Surat ini diawali dengan keterangan bahwa Allah disucikan dari semua sifat
+ yang tidak pantas oleh segala sesuatu yang ada di langit dan bumi.
  Dia Mahaperkasa dan tidak terkalahkan, serta Mahabijaksana dalam setiap
  tindakan.
  Sebagian tanda keperkasaan dan kebijaksanaan-Nya itu adalah bencana yang
@@ -55779,13 +56636,21 @@ usnya.
  dan pengaruh al-Qur'ân.
  Kedudukan yang tinggi itu disebabkan karena yang menurunkannya adalah Allah,
  Tuhan yang tiada tuhan lain selain diri-Nya dan yang mempunyai al-asmâ'
- al-husnâ (nama-nama yang terbaik).]] Allah disucikan dari segala sesuatu
- yang tidak pantas bagi-Nya oleh semua yang ada di langit dan di bumi.
+ al-husnâ (nama-nama yang terbaik).
+\end_layout
+
+\begin_layout Subsection
+Isi
+\end_layout
+
+\begin_layout Enumerate
+Allah disucikan dari segala sesuatu yang tidak pantas bagi-Nya oleh semua
+ yang ada di langit dan di bumi.
  Dia Mahaperkasa, tidak terkalahkan, lagi Mahabijaksana dalam mengatur dan
  berbuat.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dia yang mengusir kaum Ahl al-Kitâb yang kafir (bangsa Yahudi suku Banû
  Nadlîr) dari kampung halaman mereka, pada saat pengusiran bangsa Yahudi
  dari Jazirah Arab kali yang pertama.
@@ -55802,21 +56667,21 @@ gan mereka.
  itu, wahai orang-orang yang mempunyai akal pikiran.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Seandainya saja Allah belum menetapkan ketenentuan untuk mengusir mereka
  dengan cara yang tidak menyenangkan itu, niscaya Dia menyiksa mereka di
  dunia ini dengan cara yang lebih kejam daripada pengusiran itu.
  Di akhirat kelak mereka akan mendapatkan siksa neraka.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Yang menimpa mereka di dunia dan yang akan menimpa mereka di akhirat itu
  adalah disebabkan oleh karena mereka sangat memusuhi Allah dan Rasul-Nya.
  Barangsiapa yang memusuhi Allah, maka ia tidak akan terhindar dari siksa-Nya.
  Sesungguhnya siksa Allah benar-benar sangat kejam.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai kaum Muslimin, semua pohon kurma yang kalian tebang atau kalian biarkan
  seperti semula adalah dengan izin Allah.
  Tidak apa-apa kalian melakukan hal itu.
@@ -55824,7 +56689,7 @@ Wahai kaum Muslimin, semua pohon kurma yang kalian tebang atau kalian biarkan
  orang-orang yang keluar dari aturan agama dan membelok dari syariat Allah.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Kalian juga tidak berdosa atas semua harta Banû Nadlîr yang Allah serahkan
  kepada Rasul-Nya sebagai fay', sehingga kalian tidak perlu susah-susah
  mempercepat larinya kuda atau unta untuk berjalan menuju ke arah itu.
@@ -55833,7 +56698,7 @@ Kalian juga tidak berdosa atas semua harta Banû Nadlîr yang Allah serahkan
  Allah Mahakuasa atas segala sesuatu.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Harta penduduk kampung yang Allah serahkan kepada Rasul-Nya tanpa mencepatkan
  kuda atau unta adalah milik Allah, Rasul-Nya, kerabat Nabi, anak yatim,
  orang miskin, dan ibn sabîl (musafir di jalan Allah).
@@ -55845,14 +56710,14 @@ Harta penduduk kampung yang Allah serahkan kepada Rasul-Nya tanpa mencepatkan
  Sesungguhnya Allah benar-benar kejam siksa-Nya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Harta fay' itu juga diberikan kepada kaum Muhâjirîn papa yang diusir dari
  kampung halaman dan harta benda mereka, yang mengharapkan tambahan harta
  dan perkenan Allah, dan yang menolong Allah dengan jiwa dan harta mereka.
  Mereka itu adalah orang-orang Mukmin sejati.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Sedangkan kaum Anshâr, penduduk asli Madinah yang telah dengan tulus beriman
  sejak sebelum datangnya kaum Muhâjirîn, mencintai saudara-saudara mereka
  yang datang itu, tidak merasa iri dengan jatah fay' yang diperoleh Muhâjirîn,
@@ -55862,7 +56727,7 @@ Sedangkan kaum Anshâr, penduduk asli Madinah yang telah dengan tulus beriman
  sangat, maka telah berhasil mendapatkan semua yang ia senangi.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Kaum mukminin yang datang setelah kaum Muhâjirîn dan Anshâr mengatakan,
  "Ya Tuhan kami, ampunilah dosa-dosa kami dan dosa-dosa saudara-saudara
  kami yang telah lebih dahulu beriman! Janganlah Engkau ciptakan rasa iri
@@ -55870,7 +56735,7 @@ Kaum mukminin yang datang setelah kaum Muhâjirîn dan Anshâr mengatakan,
  benar-benar Mahalembut dan Maha Penyayang."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Apakah kamu tidak melihat dengan heran kepada orang-orang munafik yang berkali-k
 ali berkata kepada kaum Ahl al-Kitâb yang kafir (yaitu Banû Nadlîr), "Demi
  Allah, jika kalian dipaksa untuk meninggalkan Madinah kami pasti akan pergi
@@ -55881,20 +56746,20 @@ ali berkata kepada kaum Ahl al-Kitâb yang kafir (yaitu Banû Nadlîr), "Demi
  itu adalah kebohongan belaka.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Jika orang-orang Yahudi diusir dari Madinah, orang-orang munafik itu tidak
  akan pergi bersama mereka.
  Dan jika diperangi, mereka juga tidak akan membela.
  Jika pun menolong, mereka pasti akan lari mundur dan tidak akan menang.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Kalian, wahai kaum Muslimin, lebih menakutkan bagi kaum munafik dan Yahudi
  daripada Allah, karena mereka adalah kelompok bangsa yang tidak mengetahui
  hakikat keimanan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Orang-orang Yahudi tidak akan bersatu memerangi kalian kecuali apabila mereka
  berada di desa-desa yang berbenteng atau berada di balik dinding-dinding
  yang mereka gunakan sebagai tempat persembunyian.
@@ -55905,14 +56770,14 @@ Orang-orang Yahudi tidak akan bersatu memerangi kalian kecuali apabila mereka
  yang tidak mencermati akibat dari segala sesuatu.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Perumpamaan Banû Nadlîr adalah seperti orang-orang kafir yang hidup tidak
  lama sebelum mereka.
  Di dunia, mereka telah merasakan akibat kekafiran dan pelanggaran janji,
  dan di akhirat kelak mereka akan mendapatkan siksa yang pedih.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Permisalan orang-orang munafik dalam merayu Banû Nadlîr untuk membangkang
  kepada Rasulullah adalah seperti setan yang merayu manusia untuk tidak
  beriman dengan mengatakan, "Kafirlah!" Tetapi, setelah manusia itu kafir,
@@ -55920,14 +56785,14 @@ Permisalan orang-orang munafik dalam merayu Banû Nadlîr untuk membangkang
  Aku takut kepada Allah, Tuhan seluruh alam."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Tempat kembali setan dan orang yang digoda adalah neraka.
  Mereka berdua akan kekal di dalamnya.
  Hidup kekal di dalam neraka itu adalah balasan orang-orang yang melanggar
  jalan kebenaran.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai orang-orang yang beriman, berlindunglah kalian dari azab Allah dengan
  selalu mematuhi-Nya.
  Hendaknya setiap orang memikirkan apa saja amalan yang dipersiapkan untuk
@@ -55937,7 +56802,7 @@ Wahai orang-orang yang beriman, berlindunglah kalian dari azab Allah dengan
  kerjakan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Janganlah kalian menjadi seperti orang-orang yang melupakan hak-hak Allah,
  hingga dilupakan oleh diri mereka sendiri--disebabkan oleh bencana yang
  menimpa mereka--hingga tidak mengetahui mana yang menguntungkan dan mana
@@ -55945,26 +56810,26 @@ Janganlah kalian menjadi seperti orang-orang yang melupakan hak-hak Allah,
  Mereka itulah orang-orang yang keluar dari ketaatan kepada Allah.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Tidak sama antara penghuni neraka yang tersiksa dan penghuni surga yang
  bersenang-senang.
  Hanya penghuni surgalah yang berhasil mendapatkan semua yang disenangi.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Jika Kami menurunkan al-Qur'ân ini kepada gunung yang kokoh, niscaya kamu
  akan melihat gunung itu tunduk terpecah belah karena takut kepada Allah.
  Permisalan-permisalan itu Kami paparkan kepada manusia agar mereka mau
  memikirkan akibat hal ihwal urusan mereka.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dia adalah Allah, tidak ada sembahan yang sebenarnya kecuali Dia semata.
  Dia Maha Mengetahui segala yang tampak dan yang tak tampak, serta Maha
  Pengasih dan Maha Penyayang.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dia adalah Allah yang tiada Tuhan kecuali Dia, Pemilik segala sesuatu yang
  sebenarnya.
  Dia Mahasuci dari segala kekurangan dan terbebaskan dari segala sesuatu
@@ -55976,7 +56841,7 @@ n-Nya dengan suatu mukjizat, Yang mengawasi segala sesuatu, Mahaperkasa
  Allah Mahasuci dan Mahatinggi dari segala sesuatu yang mereka sekutukan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dialah Allah yang menciptakan segala sesuatu tanpa contoh sebelumnya, yang
  mewujudkannya dalam keadaan terbebas dari ketidak-beraturan dan memberinya
  bentuk sesuai dengan kehendak-Nya.
@@ -55986,9 +56851,20 @@ Dialah Allah yang menciptakan segala sesuatu tanpa contoh sebelumnya, yang
  oleh apa pun, dan Mahabijaksana dalam mengatur dan membuat syariat.
 \end_layout
 
+\begin_layout Section
+Al-mumtahanah (Wanita yang Diuji)
+\end_layout
+
+\begin_layout Subsection
+Pendahuluan
+\end_layout
+
 \begin_layout Standard
-[[60 ~ AL-MUMTAHANAH (WANITA YANG DIUJI) Pendahuluan: Madaniyyah, 13 ayat
- ~ Surat ini diawali dengan larangan kepada orang-orang Mukmin untuk menjadikan
+Madaniyyah, 13 ayat
+\end_layout
+
+\begin_layout Standard
+Surat ini diawali dengan larangan kepada orang-orang Mukmin untuk menjadikan
  orang-orang musyrik--yang merupakan musuh Allah dan musuh mereka--sebagai
  teman, karena mereka tetap tidak mau meninggalkan sikap kafir dan karena
  mereka mengusir Rasulullah dan orang-orang Mukmin dari kampung halamannya,
@@ -56020,21 +56896,29 @@ Dialah Allah yang menciptakan segala sesuatu tanpa contoh sebelumnya, yang
  Berikutnya, keterangan tentang wanita yang membaiat Rasulullah saw.
  Akhirnya, surat ini ditutup dengan penekanan kembali larangan menjadikan
  musuh-musuh yang dimurkai Allah sebagai teman, seperti yang disebutkan
- dalam permulaan surat.]] Wahai orang-orang yang percaya kepada Allah dan
- rasul-Nya, Janganlah kalian menjadikan musuh- musuh-Ku dan musuh-musuh
- kalian sebagai penolong tempat kalian mencurahkan rasa cinta yang murni,
- sedangkan mereka mengingkari ajaran yang datang kepada kalian tentang keimanan
- kepada Allah, Rasul, dan kitab suci-Nya, serta mengusir Rasulullah bersama
- kalian dari kampung halaman, karena kalian beriman kepada Allah, Tuhan
- kalian! Jangan lakukan hal itu pada saat kalian pergi untuk berjuang di
- jalan-Ku dan mencari kerelaan-Ku! Kalian mempersembahkan rasa cinta secara
- diam-diam kepada mereka, padahal Aku mengetahui segala sesuatu yang kalian
- sembunyikan dan yang kalian perlihatkan.
+ dalam permulaan surat.
+\end_layout
+
+\begin_layout Subsection
+Isi
+\end_layout
+
+\begin_layout Enumerate
+Wahai orang-orang yang percaya kepada Allah dan rasul-Nya, Janganlah kalian
+ menjadikan musuh- musuh-Ku dan musuh-musuh kalian sebagai penolong tempat
+ kalian mencurahkan rasa cinta yang murni, sedangkan mereka mengingkari
+ ajaran yang datang kepada kalian tentang keimanan kepada Allah, Rasul,
+ dan kitab suci-Nya, serta mengusir Rasulullah bersama kalian dari kampung
+ halaman, karena kalian beriman kepada Allah, Tuhan kalian! Jangan lakukan
+ hal itu pada saat kalian pergi untuk berjuang di jalan-Ku dan mencari kerelaan-
+Ku! Kalian mempersembahkan rasa cinta secara diam-diam kepada mereka, padahal
+ Aku mengetahui segala sesuatu yang kalian sembunyikan dan yang kalian perlihatk
+an.
  Barangsiapa menjadikan musuh Allah sebagai teman, ia benar-benar telah
  tersesat dari jalan yang lurus."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Jika berhasil menemui kalian, rasa permusuhan mereka kepada kalian menjadi
  tampak.
  Melalui perbuatan dan ucapan, mereka berbuat sesuatu yang berakibat buruk
@@ -56042,7 +56926,7 @@ Jika berhasil menemui kalian, rasa permusuhan mereka kepada kalian menjadi
  Mereka mengharapkan kalian menjadi kafir seperti mereka.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Kerabat dan anak-anak kalian yang kalian jadikan penolong tidak akan berguna
  jika mereka menjadi musuh Allah dan musuh kalian.
  Di hari kiamat, Allah akan memutuskan perkara di antara kalian semua, lalu
@@ -56051,7 +56935,7 @@ Kerabat dan anak-anak kalian yang kalian jadikan penolong tidak akan berguna
  Allah melihat segala sesuatu yang kalian kerjakan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Kalian benar-benar telah mendapatkan teladan baik pada diri Ibrâhîm dan
  orang-orang yang beriman bersamanya, pada saat berkata kepada kaumnya,
  "Kami benar-benar putus hubungan dengan kalian dan tuhan-tuhan selain Allah
@@ -56069,7 +56953,7 @@ Kalian benar-benar telah mendapatkan teladan baik pada diri Ibrâhîm dan
  bersandar, kembali, dan berpulang di akhirat kelak!"
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Katakan juga, "Ya Tuhan kami, jangan tempatkan kami pada suatu keadaan yang
  membuat kami menjadi bahan fitnah bagi orang-orang kafir! Ampuni dosa-dosa
  kami, ya Tuhan.
@@ -56077,7 +56961,7 @@ Katakan juga, "Ya Tuhan kami, jangan tempatkan kami pada suatu keadaan yang
 n dalam segala tindakan."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Sungguh kalian telah mendapatkan teladan yang baik pada Ibrâhîm dan orang-orang
  yang bersamanya dalam memerangi musuh-musuh Allah.
  Teladan itu adalah untuk orang yang mengharapkan pertemuan dengan Allah
@@ -56087,14 +56971,14 @@ Sungguh kalian telah mendapatkan teladan yang baik pada Ibrâhîm dan orang-oran
  dan berhak mendapatkan segala puji dari segala sesuatu selain diri-Nya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Semoga Allah menciptakan kasih sayang antara kalian dan orang-orang kafir
  yang kalian musuhi, dengan memberi mereka pertolongan untuk beriman.
  Allah Mahakuasa, Mahaluas ampunan terhadap orang yang bertobat, dan Maha
  Penyayang terhadap hamba-Nya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Allah tidak melarang kalian untuk berbuat baik dan menjalin hubungan dengan
  orang-orang kafir yang tidak memerangi dan mengusir kalian dari negeri
  kalian.
@@ -56102,7 +56986,7 @@ Allah tidak melarang kalian untuk berbuat baik dan menjalin hubungan dengan
  hubungan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Sesungguhnya Allah hanya melarang kalian menjadikan penolong orang-orang
  yang memerangi kalian karena agama dan memaksa kalian untuk keluar dari
  negeri kalian serta membantu orang lain untuk mengusir kalian.
@@ -56110,7 +56994,7 @@ Sesungguhnya Allah hanya melarang kalian menjadikan penolong orang-orang
  yang menzalimi diri sendiri.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai orang-orang Mukmin, apabila wanita-wanita yang beriman berhijrah mendatang
 i kalian, maka ujilah mereka untuk mengetahui kebenaran iman mereka.
  Allah lebih mengetahui hakikat keimanan mereka.
@@ -56133,14 +57017,14 @@ i kalian, maka ujilah mereka untuk mengetahui kebenaran iman mereka.
  hukum.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dan jika sebagian istri kalian lari kepada orang-orang kafir, lalu kalian
  mengalahkan mereka dalam perang, maka berikanlah kepada orang-orang yang
  istrinya lari sebanyak mahar yang mereka telah bayar.
  Bertakwalah kalian kepada Allah yang kalian yakini.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai Nabi, apabila wanita-wanita Mukmin mendatangimu untuk mengadakan janji
  setia, bahwa mereka tidak akan mempersekutukan sesuatu apa pun dengan Allah,
  tidak akan mencuri, tidak akan berzina, tidak akan membunuh anak-anak mereka,
@@ -56152,7 +57036,7 @@ Wahai Nabi, apabila wanita-wanita Mukmin mendatangimu untuk mengadakan janji
  Sesungguhnya Allah Maha Pengampun lagi Maha Pengasih.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai orang-orang yang beriman kepada Allah dan Rasul-Nya, janganlah kalian
  jadikan kaum yang dimurkai Allah sebagai penolong.
  Sesungguhnya mereka itu telah berputus asa terhadap negeri akhirat dengan
@@ -56160,11 +57044,23 @@ Wahai orang-orang yang beriman kepada Allah dan Rasul-Nya, janganlah kalian
  asa terhadap peristiwa dihidupkannya kembali para penghuni kubur.
 \end_layout
 
+\begin_layout Section
+Ash-shaff (Barisan)
+\end_layout
+
+\begin_layout Subsection
+Pendahuluan
+\end_layout
+
 \begin_layout Standard
-[[61 ~ ASH-SHAFF (BARISAN) Pendahuluan: Madaniyyah, 14 ayat ~ Surat ini
- dibuka dengan pemberitahuan bahwa semua makhluk yang ada di langit dan
- bumi bertasbih kepada Allah, bahwa orang-orang Mukmin tidak pantas mengatakan
- sesuatu yang tidak dikerjakan, dan bahwa Allah menyukai mereka yang bersatu.
+Madaniyyah, 14 ayat
+\end_layout
+
+\begin_layout Standard
+Surat ini dibuka dengan pemberitahuan bahwa semua makhluk yang ada di langit
+ dan bumi bertasbih kepada Allah, bahwa orang-orang Mukmin tidak pantas
+ mengatakan sesuatu yang tidak dikerjakan, dan bahwa Allah menyukai mereka
+ yang bersatu.
  Ayat-ayat selanjutnya dalam surat ini, melalui dua orang nabi yang mulia,
  Mûsâ dan 'Isâ, mencela sikap keras kepala dan sikap kafir Bânû Isrâ'îl.
  Banû Isrâ'îl itu ingin memadamkan cahaya ilahi, padahal Allah telah menyempurna
@@ -56180,27 +57076,35 @@ kan harta dan jiwa, janji kepada orang-orang Mukmin berupa ampunan dan surga
  pembela Allah seperti Hawâriyyûn yang menjadi penolong 'Isâ putra Maryam.
  Allah sungguh akan mendukung dan membela orang-orang Mukmin dengan pertolongan-
 Nya.
- Dia Maha Perkasa atas segala sesuatu lagi Mahabijaksana.]] Segala yang ada
- di langit dan bumi menyucikan Allah dari hal-hal yang tidak pantas bagi-Nya.
+ Dia Maha Perkasa atas segala sesuatu lagi Mahabijaksana.
+\end_layout
+
+\begin_layout Subsection
+Isi
+\end_layout
+
+\begin_layout Enumerate
+Segala yang ada di langit dan bumi menyucikan Allah dari hal-hal yang tidak
+ pantas bagi-Nya.
  Hanya Dia yang Mahaperkasa atas segala sesuatu lagi Mahabijaksana.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai orang-orang yang beriman, untuk apa kalian mengatakan sesuatu yang
  tidak kalian kerjakan?
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Allah sungguh sangat benci kalau kalian mengatakan sesuatu yang tidak kalian
  kerjakan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Sesungguhnya Allah menyukai orang-orang yang berperang untuk menegakkan
  agama Allah dalam keadaan bersatu seperti bangunan yang kokoh.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai Muhammad, ingatlah ketika Nabi Mûsâ berkata kepada kaumnya, "Wahai
  kaum, mengapa kalian meyakitiku padahal kalian tahu bahwa aku adalah utusan
  Allah kepada kalian?" Maka tatkala mereka terus menyeleweng dari kebenaran,
@@ -56209,7 +57113,7 @@ Wahai Muhammad, ingatlah ketika Nabi Mûsâ berkata kepada kaumnya, "Wahai
  tidak taat kepada-Nya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Ingatlah ketika 'Isâ putra Maryam berkata, "Wahai Bânû Isrâ'îl, sesungguhnya
  aku adalah utusan Allah kepada kalian, membenarkan Tawrât yang telah diturunkan
  sebelum aku, memberi kabar gembira berupa kedatangan seorang rasul sesudahku
@@ -56218,14 +57122,14 @@ Ingatlah ketika 'Isâ putra Maryam berkata, "Wahai Bânû Isrâ'îl, sesungguhny
  ini adalah sihir yang nyata."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Adakah orang yang lebih zalim daripada orang yang mengada-adakan dusta tentang
  Allah, padahal ia diajak kepada agama kebenaran dan kebaikan: Islam.
  Allah tidak akan memberi petunjuk orang-orang yang terus menerus berada
  dalam kezaliman.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Bânû Isrâ'îl mengada-adakan dusta terhadap Allah untuk memadamkan cahaya
  agama-Nya dengan mulut mereka, seperti orang yang hendak memadamkan sinar
  matahari dengan sebuah tiupan dari mulutnya.
@@ -56233,32 +57137,32 @@ Bânû Isrâ'îl mengada-adakan dusta terhadap Allah untuk memadamkan cahaya
  orang-orang kafir itu benci.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Allahlah yang telah mengutus Rasul-Nya, Muhammad, dengan membawa al-Qur'ân
  agar menjadi petunjuk bagi manusia.
  Dia juga mengutusnya dengan membawa agama Islam, agama kebenaran, untuk
  dimenangkan atas agama-agama lainnya meskipun orang-orang musyrik itu benci.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai orang-orang beriman, maukah kalian Aku tunjuki suatu perniagaan besar
  yang dapat menyelamatkan kalian dari azab yang sangat menyakitkan?
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Perniagaan itu berupa sikap teguh kalian dalam beriman kepada Allah dan
  Rasul-Nya dan berjuang di jalan Allah dengan harta dan jiwa.
  Apa yang Aku tunjukkan itu adalah baik bagi kalian jika kalian mengetahuinya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Jika kalian beriman dan berjuang di jalan Allah, niscaya Dia akan mengampuni
  dosa-dosa kalian dan memasukkan kalian ke dalam surga yang dialiri sungai-sunga
 i dan tempat tinggal yang baik di surga 'Adn.
  Balasan itu adalah keberuntungan yang besar.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Satu lagi nikmat yang kalian sukai, hai orang-orang Mukmin yang berjuang,
  yaitu pertolongan dan kemenangan dari Allah yang dalam waktu dekat akan
  kalian peroleh kebaikannya.
@@ -56266,7 +57170,7 @@ Satu lagi nikmat yang kalian sukai, hai orang-orang Mukmin yang berjuang,
  Mukmin.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai orang-orang beriman, jadilah kalian pembela Allah jika Rasul-Nya mengajak
  kalian untuk menjadi penolongnya, seperti para sahabat 'Isâ yang menjadi
  penolong Allah.
@@ -56280,10 +57184,21 @@ long agama Allah.
  mereka menjadi menang.
 \end_layout
 
+\begin_layout Section
+Al-jumu'ah (Hari Jumat)
+\end_layout
+
+\begin_layout Subsection
+Pendahuluan
+\end_layout
+
 \begin_layout Standard
-[[62 ~ AL-JUMU'AH (HARI JUMAT) Pendahuluan: Madaniyyah, 11 ayat ~ Surat
- ini diawali dengan berita bahwa semua sesuatu yang ada di langit dan di
- bumi bertasbih kepada Allah Swt.
+Madaniyyah, 11 ayat
+\end_layout
+
+\begin_layout Standard
+Surat ini diawali dengan berita bahwa semua sesuatu yang ada di langit dan
+ di bumi bertasbih kepada Allah Swt.
  Dia telah memberikan nikmat besar kepada bangsa Arab yang tidak tahu baca-
  tulis berupa kedatangan seorang rasul dari kalangan mereka sendiri yang
  menyucikan mereka dan mengajarkan kitab dan hikmah kepada mereka.
@@ -56302,14 +57217,21 @@ long agama Allah.
  Allah menolak sikap mereka yang disibukkan oleh urusan dagang dan permainan
  sehingga tidak mendengar khutbah.
  Pada again akhir dijelaskan bahwa Allah akan menjamin rezeki mereka.
- Sebab, Dialah sebaik-baik pemberi rezeki.]] Segala yang di langit dan di
- bumi selalu bertasbih dan mensucikan Allah dari hal-hal yang tidak pantas
- bagi-Nya, Tuhan pemilik segala sesuatu yang melakukan apa saja tanpa pesaing,
- Yang benar-benar tersucikan dari segala kekurangan, Yang Maha Perkasa atas
- segala sesuatu lagi Mahabijaksana.
+ Sebab, Dialah sebaik-baik pemberi rezeki.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsection
+Isi
+\end_layout
+
+\begin_layout Enumerate
+Segala yang di langit dan di bumi selalu bertasbih dan mensucikan Allah
+ dari hal-hal yang tidak pantas bagi-Nya, Tuhan pemilik segala sesuatu yang
+ melakukan apa saja tanpa pesaing, Yang benar-benar tersucikan dari segala
+ kekurangan, Yang Maha Perkasa atas segala sesuatu lagi Mahabijaksana.
+\end_layout
+
+\begin_layout Enumerate
 Allahlah yang telah mengutus kepada bangsa Arab yang tidak mengenal baca-tulis
  seorang Rasul dari kalangan mereka sendiri.
  Rasul tersebut membacakan ayat-ayat-Nya kepada mereka, mensucikan mereka
@@ -56318,19 +57240,19 @@ Allahlah yang telah mengutus kepada bangsa Arab yang tidak mengenal baca-tulis
  Sebelum kedatangan Rasul, mereka berada dalam kesesatan yang nyata.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dia juga telah mengutusnya kepada selain mereka yang akan datang kemudian.
  Hanya Dialah yang Maha Perkasa atas segala sesuatu lagi Maha Bijaksana
  dalam segala perbuatan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Pengutusan tersebut adalah karunia dari Allah untuk memuliakan para hamba
  yang dipilih-Nya.
  Dan hanya Allahlah pemilik karunia yang agung.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Perumpamaan orang-orang Yahudi yang mengetahui Tawrât dan mendapat beban
  untuk mengamalkannya kemudian tidak melakukannya adalah seperti keledai
  yang membawa banyak buku tetapi tidak mengerti isinya.
@@ -56339,19 +57261,19 @@ Perumpamaan orang-orang Yahudi yang mengetahui Tawrât dan mendapat beban
  zalim.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai Muhammad, katakanlah, "Hai orang-orang Yahudi, jika kalian mendakwakan
  kepalsuan bahwa sesungguhnya hanya kalian sajalah kekasih Allah, bukan
  orang lain, maka mintalah kematian dari Allah jika dakwaan kalian itu benar."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Selamanya tidak ada seorang pun dari mereka yang mengharap kematian oleh
  sebab kekafiran dan perbuatan buruk mereka.
  Pengetahuan Allah mencakup orang-orang yang zalim.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Katakanlah, "Sesungguhnya kematian yang kalian hindari itu tidak akan dapat
  terelakkan.
  Kematian itu pasti akan menemui kalian.
@@ -56360,14 +57282,14 @@ Katakanlah, "Sesungguhnya kematian yang kalian hindari itu tidak akan dapat
  Dia akan memberitahukan kalian segala apa yang telah kalian lakukan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai orang-orang beriman, jika azan untuk salat Jumat telah dikumandangkan
  maka bersegeralah mengingat Allah dan tinggalkanlah jual beli.
  Apa yang diperintahkan itu lebih bermanfaat bagi kalian jika kalian mengetahuin
 ya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Apabila kalian telah melakukan salat, maka bertebaranlah untuk berbagai
  kepentingan.
  Carilah karunia Allah dan berzikirlah kepada-Nya banyak-banyak, dalam hati
@@ -56375,7 +57297,7 @@ Apabila kalian telah melakukan salat, maka bertebaranlah untuk berbagai
  Mudah-mudahan kalian memperoleh keberuntungan dunia dan akhirat.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Apabila mereka melihat perniagaan dan permainan yang menyenangkan, mereka
  menuju ke situ dan meninggalkan kamu berdiri menyampaikan khutbah.
  Katakan kepada mereka, "Karunia dan pahala yang ada pada Allah lebih bermanfaat
@@ -56384,9 +57306,20 @@ Apabila mereka melihat perniagaan dan permainan yang menyenangkan, mereka
  Maka, mintalah rezeki-Nya dengan senantiasa menaati-Nya."
 \end_layout
 
+\begin_layout Section
+Al-munafiqun (Orang-orang Munafik)
+\end_layout
+
+\begin_layout Subsection
+Pendahuluan
+\end_layout
+
 \begin_layout Standard
-[[63 ~ AL-MUNAFIQUN (ORANG-ORANG MUNAFIK) Pendahuluan: Madaniyyah, 11 ayat
- ~ Di dalam surat ini terkandung beberapa sifat orang munafik.
+Madaniyyah, 11 ayat
+\end_layout
+
+\begin_layout Standard
+Di dalam surat ini terkandung beberapa sifat orang munafik.
  Disebutkan bahwa mereka itu selalu menyatakan, secara lisan, bahwa mereka
  itu beriman, padahal tidak demikian halnya.
  Selain itu, mereka selalu menjadikan sumpah palsu atas kebohongan mereka
@@ -56411,15 +57344,23 @@ Apabila mereka melihat perniagaan dan permainan yang menyenangkan, mereka
  Sebab, jika kematian itu telah datang, ia akan menyesal dan berharap agar
  ajalnya ditunda.
  Padahal, Allah tidak akan menunda kematian seseorang jika ajalnya telah
- datang.]] Apabila orang-orang munafik datang kepadamu, hai Muhammad, mereka
- berkata, "Kami bersaksi bahwa kamu benar-benar Rasul Allah." Allah mengetahui
- bahwa kamu benar-benar Rasul-Nya.
+ datang.
+\end_layout
+
+\begin_layout Subsection
+Isi
+\end_layout
+
+\begin_layout Enumerate
+Apabila orang-orang munafik datang kepadamu, hai Muhammad, mereka berkata,
+ "Kami bersaksi bahwa kamu benar-benar Rasul Allah." Allah mengetahui bahwa
+ kamu benar-benar Rasul-Nya.
  Dan Allah juga mengetahui bahwa orang-orang munafik itu bohong dalam pengakuan
  bahwa mereka beriman kepadamu.
  Sebab, ucapan mereka itu tidak sesuai dengan hati mereka.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Mereka menjadikan sumpah palsu mereka sebagai perisai yang menjaga mereka
  dari hukuman.
  Dengan begitu, mereka telah menghalangi diri mereka dari jalan Allah yang
@@ -56428,7 +57369,7 @@ Mereka menjadikan sumpah palsu mereka sebagai perisai yang menjaga mereka
  buruk.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Kemunafikan dan sumpah palsu yang terus mereka lakukan itu disebabkan oleh
  karena mereka hanya menyatakan keimanan melalui lisan, sedang hati mereka
  tetap kafir.
@@ -56436,7 +57377,7 @@ Kemunafikan dan sumpah palsu yang terus mereka lakukan itu disebabkan oleh
  dapat menyelamatkan mereka dari azab Allah.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Jika kalian memandang mereka, kalian akan terpesona oleh keindahan tubuh
  mereka.
  Jika mereka berbicara, kalian akan mendengarkan karena manisnya.
@@ -56449,13 +57390,13 @@ Jika kalian memandang mereka, kalian akan terpesona oleh keindahan tubuh
  Bagaimana mereka sampai dipalingkan dari kebenaran kepada kemunafikan tersebut!
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Apabila dikatakan kepada mereka, "Terimalah seruan Rasul agar ia memintakan
  ampunan untuk kalian," mereka menggerakkan kepala sebagai tanda mengejek.
  Kalian lihat mereka berpaling dengan keengganan untuk taat.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Kamu mintakan ampunan untuk orang-orang munafik itu atau tidak, sama saja
  bagi mereka.
  Sebab, mereka tidak akan meninggalkan kemunafikan.
@@ -56464,7 +57405,7 @@ Kamu mintakan ampunan untuk orang-orang munafik itu atau tidak, sama saja
  yang tidak taat dan beriman kepada- Nya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Mereka adalah orang-orang yang mengatakan kepada penduduk Madinah, "Janganlah
  kalian memberi nafkah kepada orang-orang Mukmin yang menyertai Rasulullah--yait
 u orang-orang Muhâjirîn--sampai mereka meninggalkannya." Padahal, kepunyaan
@@ -56473,7 +57414,7 @@ u orang-orang Muhâjirîn--sampai mereka meninggalkannya." Padahal, kepunyaan
  Akan tetapi, orang-orang munafik tidak memahami itu.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dengan mengancam, orang-orang munafik berkata, "Demi Allah, jika kita telah
  kembali ke Madinah, kelompok terunggul kita akan mengusir kelompok orang-orang
  Mukmin yang hina." Padahal, keunggulan itu hanyalah milik Allah, Rasul-Nya
@@ -56481,7 +57422,7 @@ Dengan mengancam, orang-orang munafik berkata, "Demi Allah, jika kita telah
  Tetapi, orang-orang munafik itu tidak mengetahuinya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai orang-orang yang beriman kepada Allah dan Rasul-Nya, jangan sampai
  perhatian kalian kepada harta dan anak melalaikan kalian dari mengingat
  Allah dan melaksanakan kewajiban-Nya atas kalian.
@@ -56489,7 +57430,7 @@ Wahai orang-orang yang beriman kepada Allah dan Rasul-Nya, jangan sampai
  maka mereka adalah orang-orang yang merugi pada hari kiamat.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai orang-orang Mukmin, infakkanlah dengan segera sebagian harta yang
  telah Kami berikan, sebelum kematian menjemput salah seorang dari kalian.
  Saat itu, ia berkata, "Ya Tuhanku, mengapa Engkau tidak menangguhkan kematianku
@@ -56497,18 +57438,29 @@ Wahai orang-orang Mukmin, infakkanlah dengan segera sebagian harta yang
  orang-orang yang beramal saleh."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Allah tidak akan menangguhkan seseorang jika waktu kematiannya telah tiba.
  Allah Maha Mengetahui perbuatan kalian dan akan membalas kalian atas itu
  semua.
 \end_layout
 
+\begin_layout Section
+At-taghabun (Hari Ditampakkan Segala Kesalahan)
+\end_layout
+
+\begin_layout Subsection
+Pendahuluan
+\end_layout
+
 \begin_layout Standard
-[[64 ~ AT-TAGHABUN (HARI DITAMPAKKAN SEGALA KESALAHAN) Pendahuluan: Madaniyyah,
- 18 ayat ~ Surat ini dibuka dengan pemberitahuan bahwa segala sesuatu yang
- ada di langit dan bumi selalu menyucikan Allah dari segala hal yang tidak
- pantas disandangkan kepada-Nya, bahwa kerajaan dan pujian hanya milik-Nya,
- dan bahwa Dia Mahakuasa atas segala sesuatu.
+Madaniyyah, 18 ayat
+\end_layout
+
+\begin_layout Standard
+Surat ini dibuka dengan pemberitahuan bahwa segala sesuatu yang ada di langit
+ dan bumi selalu menyucikan Allah dari segala hal yang tidak pantas disandangkan
+ kepada-Nya, bahwa kerajaan dan pujian hanya milik-Nya, dan bahwa Dia Mahakuasa
+ atas segala sesuatu.
  Kemudian diikuti dengan menyebutkan beberapa tanda yang menunjukkan kesempurnaa
 n kekuasaan dan pengetahuan Allah.
  Surat ini kemudian beralih kepada pembicaraan mengenai orang-orang yang
@@ -56540,41 +57492,48 @@ an yang besar, sedangkan orang-orang kafir akan menjadi penghuni neraka
  di jalan kebaikan, pernyataan bahwa Allah Maha Berterimakasih, Maha Penyantun,
  Mahatahu semua yang gaib dan yang nyata sehingga akan membalas infak harta
  mereka, dan penjelasan bahwa Allah juga Maha Perkasa sehingga tak terkalahkan,
- Mahabijak yang tidak melakukan sesuatu dengan sia-sia.]] Segala sesuatu
- yang ada di langit dan di bumi selalu menyucikan Allah dari hal-hal yang
- tidak pantas dengan kebesaran-Nya.
+ Mahabijak yang tidak melakukan sesuatu dengan sia-sia.
+\end_layout
+
+\begin_layout Subsection
+Isi
+\end_layout
+
+\begin_layout Enumerate
+Segala sesuatu yang ada di langit dan di bumi selalu menyucikan Allah dari
+ hal-hal yang tidak pantas dengan kebesaran-Nya.
  Kepemilikan yang sempurna hanyalah milik-Nya, begitu pula segala pujian
  baik.
  Dan Dia Mahakuasa atas segala sesuatu.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Hanya Dia yang menciptakan kalian dari ketiadaan.
  Lalu sebagian dari kalian mengingkari ketuhanan-Nya dan sebagian lain meyakinin
 ya.
  Allah Maha Melihat segala perbuatan kalian dan akan membalasnya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Allah menciptakan langit dan bumi dengan penuh kebijaksanaan.
  Dia membentuk rupa dengan bentuk yang sebaik-baiknya.
  Hanya kepada-Nyalah segala sesuatu akan kembali pada hari kiamat.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dia selalu mengetahui apa yang ada di langit dan di bumi dan mengetahui
  apa yang kalian rahasiakan dan kalian nyatakan.
  Dan Allah Maha Mengetahui segala apa yang tersembunyi di dalam dada.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Sungguh telah datang kepada kalian berita tentang orang-orang yang kafir
  sebelum kalian.
  Di dunia, mereka telah merasakan akibat buruk perbuatan mereka.
  Dan di akhirat kelak mereka akan memperoleh siksa yang amat menyakitkan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Musibah yang telah dan akan mereka terima itu adalah disebabkan karena mereka
  telah didatangi para rasul dengan membawa mukjizat yang nyata, tetapi mereka
  mengingkarinya dengan mengatakan, "Apakah manusia biasa yang dapat memberi
@@ -56586,7 +57545,7 @@ Musibah yang telah dan akan mereka terima itu adalah disebabkan karena mereka
  segala pujian karena karunia-Nya yang baik.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Orang-orang kafir mendakwakan kepalsuan dengan menyatakan bahwa mereka tidak
  akan dibangkitkan kembali setelah mati.
  Wahai Muhammad, katakan kepada mereka, "Persoalannya tidak seperti yang
@@ -56597,7 +57556,7 @@ Orang-orang kafir mendakwakan kepalsuan dengan menyatakan bahwa mereka tidak
  Kebangkitan, perhitungan dan pembalasan itu amatlah mudah bagi Allah."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Maka berimanlah kalian kepada Allah dan Rasul-Nya.
  Ambillah petunjuk dari cahaya yang telah diturunkan-Nya.
  Sebab, persoalan kebangkitan yang tidak diragukan lagi terjadinya itu telah
@@ -56605,7 +57564,7 @@ Maka berimanlah kalian kepada Allah dan Rasul-Nya.
  Allah Maha Mengetahui segala perbuatan yang kalian lakukan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Saat Allah mengumpulkan kalian, pada hari dikumpulkannya orang-orang terdahulu
  dan orang-orang yang datang kemudian, Dia akan membalas segala perbuatan
  kalian.
@@ -56618,20 +57577,20 @@ ya akan dihapus dan ia akan dimasukkan ke dalam surga yang dialiri sungai-sungai
  Balasan itu adalah suatu keberuntungan yang besar.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Orang-orang yang tidak beriman dan mendustakan mukjizat para rasul Kami,
  mereka adalah penghuni neraka yang akan kekal di dalamnya.
  Tempat mereka seburuk-buruk tempat.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Segala bencana yang menimpa manusia terjadi karena ketentuan Allah.
  Barangsiapa beriman kepada Allah, maka kalbunya akan diberi petunjuk sehingga
  rela dengan apa yang telah terjadi.
  Allah Maha Mengetahui segala sesuatu.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Taatilah apa yang telah dibebankan oleh Allah kepada kalian.
  Taatilah segala apa yang telah disampaikan oleh Rasul dari Tuhan.
  Jika kalian tidak melakukan itu, ketahuilah bahwa sikap kalian itu tidak
@@ -56640,13 +57599,13 @@ Taatilah apa yang telah dibebankan oleh Allah kepada kalian.
  kalian dengan sejelas-jelasnya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Allah, tidak ada yang pantas disembah kecuali Dia.
  Hanya kepada-Nyalah orang-orang Mukmin hendaknya bertawakal dalam segala
  urusan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai orang-orang yang beriman, sesungguhnya di antara istri-istri dan anak-anak
  kalian ada yang menjadi musuh bagi kalian, yaitu dengan memalingkan kalian
  dari taat kepada Allah untuk memenuhi keinginan mereka.
@@ -56656,13 +57615,13 @@ Wahai orang-orang yang beriman, sesungguhnya di antara istri-istri dan anak-anak
  Allah sungguh Mahaluas ampunan dan Mahaluas rahmat.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Sesungguhnya harta dan anak kalian itu adalah cobaan.
  Allah memiliki balasan amat besar yang diperuntukkan bagi mereka yang lebih
  mengutamakan taat kepada Allah.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Kerahkanlah segala usaha dan kemampuan kalian untuk bertakwa kepada Allah.
  Dengarlah segala nasihat-Nya dan taatilah segala perintah-Nya.
  Infakkanlah rezeki yang telah diberikan kepada kalian di jalan yang telah
@@ -56672,7 +57631,7 @@ Kerahkanlah segala usaha dan kemampuan kalian untuk bertakwa kepada Allah.
  harta, mereka adalah orang-orang yang beruntung mendapatkan segala kebaikan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Jika kalian menginfakkan harta untuk kebajikan dengan ikhlas, maka Allah
  akan melipatgandakan pahala infak tersebut dan akan mengampuni dosa-dosa
  kalian.
@@ -56681,14 +57640,26 @@ Jika kalian menginfakkan harta untuk kebajikan dengan ikhlas, maka Allah
  yang berbuat maksiat.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Dia Maha Mengetahui segala yang gaib dan yang tampak, Mahakuat dan Mahaperkasa,
  Mahabijaksana dalam mengatur semua makhluk-Nya secara proporsional.
 \end_layout
 
+\begin_layout Section
+Ath-thalaq (Talak)
+\end_layout
+
+\begin_layout Subsection
+Pendahuluan
+\end_layout
+
 \begin_layout Standard
-[[65 ~ ATH-THALAQ (TALAK) Pendahuluan: Madaniyyah, 12 ayat ~ Surat ini membicara
-kan beberapa hukum talak dan idah ('iddah) dengan berbagai jenis dan hukumnya.
+Madaniyyah, 12 ayat
+\end_layout
+
+\begin_layout Standard
+Surat ini membicarakan beberapa hukum talak dan idah ('iddah) dengan berbagai
+ jenis dan hukumnya.
  Di antaranya adalah, misalnya, orang yang sedang dalam masa idah harus
  tetap tinggal di rumah tempat ia dijatuhi talak, kewajiban suami memberi
  nafkah dan tempat tinggal kepadanya, dan sebagainya.
@@ -56702,9 +57673,17 @@ kan beberapa hukum talak dan idah ('iddah) dengan berbagai jenis dan hukumnya.
  bertakwa, peringatan kepada mereka akan karunia pengutusan rasul yang membacaka
 n ayat-ayat Allah untuk mengeluarkan mereka dari kegelapan menuju cahaya
  dan penjelasan tentang kekuasaan Allah yang besar dalam menciptakan tujuh
- langit dan, seperti itu pula, bumi.]] Wahai Nabi, jika kamu hendak menjatuhkan
- talak kepada istri-istrimu maka jatuhkanlah talak itu ketika mereka sedang
- dalam keadaan suci yang tidak dicampuri.
+ langit dan, seperti itu pula, bumi.
+\end_layout
+
+\begin_layout Subsection
+Isi
+\end_layout
+
+\begin_layout Enumerate
+Wahai Nabi, jika kamu hendak menjatuhkan talak kepada istri-istrimu maka
+ jatuhkanlah talak itu ketika mereka sedang dalam keadaan suci yang tidak
+ dicampuri.
  Tepatkanlah hitungan masa idah dan bertakwalah kepada Tuhanmu.
  Jangan izinkan istri-istri yang kamu jatuhi talak itu keluar dari tempat
  mereka ditalak.
@@ -56719,7 +57698,7 @@ n ayat-ayat Allah untuk mengeluarkan mereka dari kegelapan menuju cahaya
  kedua pasangan suami-istri itu kembali saling mencintai.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Apabila mereka telah mendekati akhir masa idahnya, rujukilah mereka dengan
  perlakuan yang baik atau lepaskan dengan tidak menyakiti.
  Persaksikanlah rujuk tersebut dengan dua orang saksi yang adil dari kalian.
@@ -56731,7 +57710,7 @@ Apabila mereka telah mendekati akhir masa idahnya, rujukilah mereka dengan
  macam kesulitan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Akan disediakan baginya sebab-sebab memperoleh rezeki yang tidak diperkirakan
  sebelumnya.
  Barangsiapa yang menyerahkan segala urusannya kepada Allah, maka Dia akan
@@ -56741,7 +57720,7 @@ Akan disediakan baginya sebab-sebab memperoleh rezeki yang tidak diperkirakan
  tidak akan dilampaui, oleh Allah.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wanita-wanita usia menopause (tidak haid lagi karena usia lanjut) yang masih
  dalam masa idah, jika kalian ragu-ragu tentang masa idah mereka, maka masa
  idahnya adalah tiga bulan.
@@ -56752,14 +57731,14 @@ Wanita-wanita usia menopause (tidak haid lagi karena usia lanjut) yang masih
  maka Allah akan memudahkan segala urusannya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Masalah pemberlakuan hukum adalah urusan Allah, bukan yang lain, yang diturunkan
  kepada kalian.
  Barangsiapa bertakwa kepada Allah dengan senantiasa melaksanakan hukum-hukum-Ny
 a akan dihapuskan segala kesalahannya dan diberi balasan yang besar.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Tempatkanlah mereka di mana kalian bertempat tinggal menurut kemampuan kalian.
  Janganlah kalian menyusahkan mereka untuk menyempitkan mereka dalam bertempat
  tinggal.
@@ -56774,7 +57753,7 @@ Tempatkanlah mereka di mana kalian bertempat tinggal menurut kemampuan kalian.
 n anak itu untuk sang ayah.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Orang yang memiliki banyak rezeki dari Allah hendaknya memberi nafkah dari
  rezeki yang banyak itu.
  Dan orang yang memiliki sedikit rezeki hendaklah memberi nafkah dari sebagian
@@ -56784,7 +57763,7 @@ Orang yang memiliki banyak rezeki dari Allah hendaknya memberi nafkah dari
  Allah akan memberikan kelapangan sesudah kesempitan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Berapa banyak penduduk negeri yang meninggalkan perintah Allah dan Rasul-Nya
  yang Kami hisab secara kejam dengan merinci semua perbuatan mereka dan
  mempertanyakannya.
@@ -56793,7 +57772,7 @@ Berapa banyak penduduk negeri yang meninggalkan perintah Allah dan Rasul-Nya
  Akibat perbuatan mereka adalah kerugian yang besar.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Berapa banyak penduduk negeri yang meninggalkan perintah Allah dan Rasul-Nya
  yang Kami hisab secara kejam dengan merinci semua perbuatan mereka dan
  mempertanyakannya.
@@ -56802,7 +57781,7 @@ Berapa banyak penduduk negeri yang meninggalkan perintah Allah dan Rasul-Nya
  Akibat perbuatan mereka adalah kerugian yang besar.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Allah menyediakan siksa yang amat keras untuk penduduk banyak negeri yang
  sombong.
  Maka jauhilah murka Allah, hai orang-orang yang berakal cemerlang dan beriman.
@@ -56817,7 +57796,7 @@ Allah menyediakan siksa yang amat keras untuk penduduk banyak negeri yang
  berbuat baik.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Allah menyediakan siksa yang amat keras untuk penduduk banyak negeri yang
  sombong.
  Maka jauhilah murka Allah, hai orang-orang yang berakal cemerlang dan beriman.
@@ -56832,16 +57811,27 @@ Allah menyediakan siksa yang amat keras untuk penduduk banyak negeri yang
  berbuat baik.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Hanya Allahlah yang menciptakan tujuh langit dan seperti itu pula bumi.
  Perintah Allah berlaku di dalamnya.
  Itu semua agar kalian mengetahui bahwa Allah Mahakuasa atas segala sesuatu
  dan ilmu-Nya meliputi segalanya.
 \end_layout
 
+\begin_layout Section
+At-tahrim (Pengharaman)
+\end_layout
+
+\begin_layout Subsection
+Pendahuluan
+\end_layout
+
 \begin_layout Standard
-[[66 ~ AT-TAHRIM (PENGHARAMAN) Pendahuluan: Madaniyyah, 12 ayat ~ Surat
- ini mengisyaratkan sesuatu yang membuat Rasulullah saw.
+Madaniyyah, 12 ayat
+\end_layout
+
+\begin_layout Standard
+Surat ini mengisyaratkan sesuatu yang membuat Rasulullah saw.
  marah kepada sebagian istrinya, lalu mengharamkan sesuatu yang enak dan
  halal bagi dirinya, dan mengingatkan mereka akan akibat buruk dari perbuatannya.
  Pembicaraan kemudian beralih kepada sebuah perintah agar orang-orang Mukmin
@@ -56857,12 +57847,20 @@ Hanya Allahlah yang menciptakan tujuh langit dan seperti itu pula bumi.
  menjelaskan bahwa kesalehan seorang suami tidak akan mampu menolak azab
  yang dijatuhkan kepada istrinya yang sesat dan, sebaliknya, kesesatan seorang
  suami juga tidak akan merugikan istri selama ia saleh dan beristikamah.
- Setiap jiwa bertanggung jawab atas perbuatannya masing-masing.]] Wahai Nabi,
- mengapa kamu mengharamkan bagi dirimu sesuatu yang dihalalkan oleh Allah
- demi menyenangkan istri-istrimu? Allah Maha Pengampun lagi Maha Penyayang.
+ Setiap jiwa bertanggung jawab atas perbuatannya masing-masing.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsection
+Isi
+\end_layout
+
+\begin_layout Enumerate
+Wahai Nabi, mengapa kamu mengharamkan bagi dirimu sesuatu yang dihalalkan
+ oleh Allah demi menyenangkan istri-istrimu? Allah Maha Pengampun lagi Maha
+ Penyayang.
+\end_layout
+
+\begin_layout Enumerate
 Sesungguhnya Allah telah memberikan ketentuan kepada kalian untuk membebaskan
  diri dari sumpah dengan membayar kafarat.
  Allah adalah tuan yang mengendalikan segala urusan kalian.
@@ -56870,7 +57868,7 @@ Sesungguhnya Allah telah memberikan ketentuan kepada kalian untuk membebaskan
  untuk kalian, lagi Mahabijaksana dalam memberi ketentuan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Ingatlah ketika Nabi membicarakan sesuatu secara rahasia kepada sebagian
  istrinya.
  Ketika istrinya itu memberitahukan rahasia tersebut kepada yang lain--dan
@@ -56883,7 +57881,7 @@ Ingatlah ketika Nabi membicarakan sesuatu secara rahasia kepada sebagian
  pun tersembunyi dari pengetahuan-Nya.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Jika kalian berdua bertobat kepada Allah dengan penuh penyesalan, maka kalian
  telah melakukan yang seharusnya dalam bertobat.
  Sebab hati kalian berdua telah berpaling dari sesuatu yang dicintai Rasulullah,
@@ -56894,7 +57892,7 @@ Jika kalian berdua bertobat kepada Allah dengan penuh penyesalan, maka kalian
  baik akan menjadi penolong dan pelindungnya setelah Allah.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai para istri Nabi, jika ia menceraikan kalian, boleh jadi Tuhannya akan
  mengawinkannya, sebagai pengganti kalian, dengan istri-istri yang taat
  kepada Allah, beriman dengan tulus, khusyuk kepada Allah, bertobat kepada-Nya,
@@ -56902,7 +57900,7 @@ Wahai para istri Nabi, jika ia menceraikan kalian, boleh jadi Tuhannya akan
  yang janda maupun yang perawan.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai orang-orang yang beriman, peliharalah diri dan keluarga kalian dari
  api neraka yang bahan bakarnya terdiri atas manusia dan bebatuan.
  Yang menangani neraka itu dan yang menyiksa penghuninya adalah para malaikat
@@ -56911,14 +57909,14 @@ Wahai orang-orang yang beriman, peliharalah diri dan keluarga kalian dari
  lalai sedikit pun.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Pada hari kiamat akan dikatakan kepada orang-orang kafir, "Pada hari ini,
  janganlah kalian mencari-cari alasan.
  Sesungguhnya kalian akan diberi balasan sesuai dengan perbuatan kalian
  di dunia."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai orang-orang yang beriman, bertobatlah dari dosa-dosa kalian dengan
  tulus.
  Mudah-mudahan Tuhan akan menghapus dosa-dosa kalian dan memasukkan kalian
@@ -56931,7 +57929,7 @@ kan segala urusan kami, sempurnakanlah cahaya kami sehingga kami dapat menuju
  Sesungguhnya Engkau Mahakuasa atas segala sesuatu."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Wahai Muhammad, berjuanglah melawan orang-orang kafir yang menyatakan kekafirann
 ya dan orang-orang munafik yang menyembunyikan hakikat mereka dengan segala
  kekuatan dan bukti yang kamu miliki.
@@ -56940,7 +57938,7 @@ ya dan orang-orang munafik yang menyembunyikan hakikat mereka dengan segala
  Seburuk-buruk tempat kembali adalah tempat mereka.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Allah menyebutkan suatu keadaan menakjubkan yang dapat menunjukkan kedaan
  serupa orang-orang kafir, yaitu istri Nabi Nûh dan istri Nabi Lûth.
  Keduanya berada di bawah pengawasan dua orang hamba pilihan Kami yang saleh.
@@ -56952,7 +57950,7 @@ Allah menyebutkan suatu keadaan menakjubkan yang dapat menunjukkan kedaan
  berdua ke dalam neraka bersama yang lain."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Allah memberikan perumpamaan istri Fir'aun kepada orang-orang Mukmin, ketika
  ia berkata, "Ya Tuhanku, bangunlah untukku sebuah rumah yang dekat dengan
  rahmat Engkau di surga.
@@ -56960,7 +57958,7 @@ Allah memberikan perumpamaan istri Fir'aun kepada orang-orang Mukmin, ketika
  dan selamatkanlah aku dari kaum yang melampaui batas."
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Allah juga membuat Maryam putri 'Imrân sebagai perumpamaan bagi orang-orang
  yang beriman.
  Maryam telah menjaga kehormatannya, maka Kami meniupkan ke dalam rahimnya
@@ -57034,9 +58032,13 @@ esungguhnya Kami telah menghiasi langit yang dekat dan dapat dilihat mata
  dengan bntang-bintang yang bersinar.
  Kami juga menjadikan langit itu sebagai sumber percikan api untuk melempar
  setan.
- Dan di akhirat, Kami telah menyediakan untuk setan siksa neraka yang menyala(1).
- (1) Kata samâ' dalam bahasa Arab berarti 'segala sesuatu yang berada di
- atas dan menaungi'.
+ Dan di akhirat, Kami telah menyediakan untuk setan siksa neraka yang menyala
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Kata samâ' dalam bahasa Arab berarti 'segala sesuatu yang berada di atas
+ dan menaungi'.
  Menurut Ibn Sîdih, kata "samâ'" di sini berarti 'angkasa luas yang berisi
  benda-benda langit dan percikan-percikan sinar'.
  Adapun yang terlihat oleh penghuni bumi pada malam yang terang adalah kubah
@@ -57051,6 +58053,11 @@ ang dengan debu-debu halus yang menempel di udara dan proton-proton udara
  seperti mega, fajar, cahaya bintang dan cahaya kutub.
  Semua itu adalah fenomena yang berlainan dan terjadi karena gesekan cahaya
  dengan atmosfer dan medan gayanya.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -57145,9 +58152,13 @@ Apakah mereka buta dan tidak melihat burung-burung di atas mereka mengembangkan
  dan melipat sayap-sayapnya secara silih berganti? Tidak ada yang dapat
  menahannya agar tidak jatuh kecuali Tuhan Yang Maha Pemurah.
  Sesungguhnya Dia Maha Mengetahui segala sesuatu.
- Dia memberikan yang terbaik kepada segala sesuatu(1).
- (1) Al-shaff yang terambil dari kata al-shâffât dalam ayat ini berarti
- burung membentangkan kedua sayapnya dengan tanpa digerakkan.
+ Dia memberikan yang terbaik kepada segala sesuatu
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Al-shaff yang terambil dari kata al-shâffât dalam ayat ini berarti burung
+ membentangkan kedua sayapnya dengan tanpa digerakkan.
  Terbangnya burung adalah suatu mukjizat yang baru diketahui setelah berkembang
  ilmu aeronautika dan teori aerodinamik Tetapi yang mengundang kekaguman
  adalah apabila seekor burung dapat terbang di udara sampai hilang dari
@@ -57172,6 +58183,11 @@ an sayapnya dalam waktu lama.
  telah dihasilkannya.
  Demikianlah konstruksi anatomi berbagai jenis burung yang memungkinkannya
  terbang, menjaga keseimbangan dan mengatur arah tubuhnya ketika terbang.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -58293,11 +59309,15 @@ Aku bersumpah demi Tuhan Pemilik tempat terbit dan terbenamnya hari, bintang
  dan petunjuk.
  Sesungguhnya Kami mampu menghancurkan mereka dan mendatangkan pengganti
  mereka yang lebih taat kepada Allah.
- Dan Kami tidaklah lemah untuk melakukan penggantian itu(1).
- (1) Al-masyâriq (tempat terbit) dan al-maghârib (tempat terbenam) di sini
- dapat dimaksudkan sebagai tempat-tempat kerajaan Allah dengan luasnya yang
- tak terhingga seperti diisyaratkan pada ayat 137 surat al-A'râf untuk menunjukk
-an belahan-belahan bumi yang disebutkan pada ayat itu.
+ Dan Kami tidaklah lemah untuk melakukan penggantian itu
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Al-masyâriq (tempat terbit) dan al-maghârib (tempat terbenam) di sini dapat
+ dimaksudkan sebagai tempat-tempat kerajaan Allah dengan luasnya yang tak
+ terhingga seperti diisyaratkan pada ayat 137 surat al-A'râf untuk menunjukkan
+ belahan-belahan bumi yang disebutkan pada ayat itu.
  Al-masyâriq dan al-maghârib dapat pula diartikan sebagai tempat terbit
  dan terbenamnya matahari, bulan, seluruh bintang dan planet, di samping
  juga untuk menunjukkan semua kerajaan Allah.
@@ -58331,16 +59351,25 @@ an belahan-belahan bumi yang disebutkan pada ayat itu.
  juga catatan kaki ayat 5 surat al-Shâffât dan ayat 17 surat al-Rahmân).
 \end_layout
 
+\end_inset
+
+.
+\end_layout
+
 \begin_layout Enumerate
 Aku bersumpah demi Tuhan Pemilik tempat terbit dan terbenamnya hari, bintang
  dan petunjuk.
  Sesungguhnya Kami mampu menghancurkan mereka dan mendatangkan pengganti
  mereka yang lebih taat kepada Allah.
- Dan Kami tidaklah lemah untuk melakukan penggantian itu(1).
- (1) Al-masyâriq (tempat terbit) dan al-maghârib (tempat terbenam) di sini
- dapat dimaksudkan sebagai tempat-tempat kerajaan Allah dengan luasnya yang
- tak terhingga seperti diisyaratkan pada ayat 137 surat al-A'râf untuk menunjukk
-an belahan-belahan bumi yang disebutkan pada ayat itu.
+ Dan Kami tidaklah lemah untuk melakukan penggantian itu
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Al-masyâriq (tempat terbit) dan al-maghârib (tempat terbenam) di sini dapat
+ dimaksudkan sebagai tempat-tempat kerajaan Allah dengan luasnya yang tak
+ terhingga seperti diisyaratkan pada ayat 137 surat al-A'râf untuk menunjukkan
+ belahan-belahan bumi yang disebutkan pada ayat itu.
  Al-masyâriq dan al-maghârib dapat pula diartikan sebagai tempat terbit
  dan terbenamnya matahari, bulan, seluruh bintang dan planet, di samping
  juga untuk menunjukkan semua kerajaan Allah.
@@ -58372,6 +59401,11 @@ an belahan-belahan bumi yang disebutkan pada ayat itu.
  lain yang berlawanan.
  Ini semua berkat ketelitian aturan Allah dan mukjizat kekuasaan-Nya (Lihat
  juga catatan kaki ayat 5 surat al-Shâffât dan ayat 17 surat al-Rahmân).
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -60597,9 +61631,18 @@ Bukankah mereka telah menyaksikan bukti-bukti kekuasaan Kami? Sesungguhnya
 \end_layout
 
 \begin_layout Enumerate
-Kami menjadikan gunung-gunung sebagai pasak untuk menguatkan bumi.
- (1).
- (1) Lapisan padat kerak bumi dapat mencapai ketebalan sekitar 60 kilometer.
+Kami menjadikan gunung-gunung sebagai pasak untuk menguatkan bumi
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fn:078-007"
+
+\end_inset
+
+Lapisan padat kerak bumi dapat mencapai ketebalan sekitar 60 kilometer.
  Lapisan itu dapat meninggi, sehingga membentuk gunung-gunung, atau menurun
  menjadi dasar lautan dan samudera.
  Keadaan seperti ini menimbulkan keseimbangan akibat tekanan yang dihasilkan
@@ -60607,7 +61650,20 @@ Kami menjadikan gunung-gunung sebagai pasak untuk menguatkan bumi.
  Keseimbangan ini tidak mengalami kerusakan kecuali jika gunung-gunung tersebut
  musnah.
  Lapisan kerak bumi yang basah akan dikuatkan oleh gunung-gunung, persis
- seperti pasak menguatkan kemah (lihat tafsir ayat 7 surat Qâf).
+ seperti pasak menguatkan kemah (lihat tafsir ayat 7 surat Qâf, di halaman
+ 
+\begin_inset CommandInset ref
+LatexCommand pageref
+reference "fn:050-007"
+
+\end_inset
+
+).
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -60615,8 +61671,12 @@ Kami menciptakan kalian berpasang-pasangan, laki-laki dan perempuan.
 \end_layout
 
 \begin_layout Enumerate
-Kami menjadikan tidur kalian untuk beristirahat dari keletihan berusaha(1).
- (1) Tidur adalah berhentinya atau berkurangnya kegiatan saraf otak manusia.
+Kami menjadikan tidur kalian untuk beristirahat dari keletihan berusaha
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Tidur adalah berhentinya atau berkurangnya kegiatan saraf otak manusia.
  Dari itulah, ketika tidur energi dan panas badan menurun.
  Pada waktu tidur, tubuh merasa tenang dan rileks setelah otot atau saraf
  atau dua-duanya letih bekerja.
@@ -60633,6 +61693,11 @@ Kami menjadikan tidur kalian untuk beristirahat dari keletihan berusaha(1).
  bagi manusia, sebagaimana dikatakan ayat ini.
 \end_layout
 
+\end_inset
+
+.
+\end_layout
+
 \begin_layout Enumerate
 Kami menjadikan malam untuk menutupi kalian dengan kegelapannya.
 \end_layout
@@ -60647,9 +61712,13 @@ Kami membangun di atas kalian tujuh langit yang kokoh dan mantap.
 \end_layout
 
 \begin_layout Enumerate
-Kami menjadikan matahari yang bercahaya dan menghasilkan panas(1).
- (1) Maksud frase sirâjan wahhâjan ('pelita yang sangat terang') di sini
- adalah matahari.
+Kami menjadikan matahari yang bercahaya dan menghasilkan panas
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Maksud frase sirâjan wahhâjan ('pelita yang sangat terang') di sini adalah
+ matahari.
  Sebagaimana dibuktikan oleh penemuan ilmiah, panas permukaan matahari mencapai
  6.
  000 derajat.
@@ -60661,13 +61730,27 @@ Kami menjadikan matahari yang bercahaya dan menghasilkan panas(1).
  mengandung cahaya dan panas secara bersamaan.
 \end_layout
 
+\end_inset
+
+.
+\end_layout
+
 \begin_layout Enumerate
-Dan Kami menurunkan dari awan--di saat hujan–air yang tercurah dengan deras(1).
- (1) Hujan adalah sumber air tawar satu-satunya bagi bumi.
+Dan Kami menurunkan dari awan--di saat hujan–air yang tercurah dengan deras
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Hujan adalah sumber air tawar satu-satunya bagi bumi.
  Sebenarnya, hujan merupakan hasil kumpulan uap-uap air lautan dan samudera
  yang membentuk awan dan kemudian berubah--setelah semakin membesar--menjadi
  tetesan-tetesan air atau salju atau kedua-duanya.
  Uap-uap air yang terkumpul tadi akan tercurah dalam bentuk hujan atau embun.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -62513,9 +63596,13 @@ Dan permadani-permadani yang terhampar di tempat-tempat duduk.
 \begin_layout Enumerate
 Maka apakah mereka tetap meremehkan dan tidak mau merenungi bukti-bukti,
  sehingga mereka tidak memperhatikan unta: bagaimana dia diciptakan dengan
- penciptaan yang begitu indah yang menunjukan kekuasaan Allah?(1).
- (1) Dalam penciptaan unta terdapat mukjizat yang menunjukkan kekuasaan
- Allah untuk kita renungkan.
+ penciptaan yang begitu indah yang menunjukan kekuasaan Allah?
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Dalam penciptaan unta terdapat mukjizat yang menunjukkan kekuasaan Allah
+ untuk kita renungkan.
  Dari bentuk lahirnya, seperti kita ketahui, unta benar-benar memiliki potensi
  untuk menjadi kendaraan di wilayah gurun pasir.
  Matanya terletak pada bagian kepala yang agak tinggi dan agak ke belakang,
@@ -62569,6 +63656,11 @@ Maka apakah mereka tetap meremehkan dan tidak mau merenungi bukti-bukti,
  yang mengandung mukjizat itu.
 \end_layout
 
+\end_inset
+
+.
+\end_layout
+
 \begin_layout Enumerate
 Juga langit yang selalu mereka saksikan: bagaimana dia diangkat begitu tinggi
  tanpa tiang?
@@ -62580,13 +63672,21 @@ Juga gunung yang mereka daki sampai ke puncaknya: bagaimana dia didirikan
 \end_layout
 
 \begin_layout Enumerate
-Juga bumi yang mereka olah: bagaimana dia diluaskan dan dihamparkan?(1).
- (1) Pada beberapa ayat al-Qur'ân sering disebutkan bahwa bumi beratap dan
- terhampar.
+Juga bumi yang mereka olah: bagaimana dia diluaskan dan dihamparkan?
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Pada beberapa ayat al-Qur'ân sering disebutkan bahwa bumi beratap dan terhampar.
  Ayat-ayat itu harus dipahami bahwa bumi terlihat beratap dan terhampar,
  meskipun pada hakikatnya berbentuk bulat.
  Dengan demikian pernyataan al-Qur'ân bahwa bumi itu terhampar tidak bertentanga
 n dengan penemuan ilmu pengetahuan modern.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
