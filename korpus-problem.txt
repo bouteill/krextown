@@ -1,0 +1,11 @@
+Korpus Problem
+Di komunitas Penerjemah, hari ini muncul masalah identifikasi penggunaan kata Bahasa sebagai pengenal Indonesian Language.
+Pembangunan korpus bahasa Indonesia. Masih banyak tantangannya. Beberapa kelompok / individu yang teridentifikasi giat melakukan usaha membangun korpus antara lain:
+I Wayan Arka
+Ivan Lanin
+Studi kasus yang dipilih: Pemeringkas Teks.
+Metodologi yang perlu dilakukan: Mengumpulkan teks dari berbagai sumber.
+Tantangannya: Kriteria apa yang ditetapkan untuk membangun korpus? Data-data linguistik apa yang perlu disertakan di dalam korpus? Apa saja informasi linguistik yang punya peran penting dalam penelitian Linguistik Komputasional?
+Apakah korpus yang dibangun dapat dibentuk dengan menerapkan teknik semi-otomatis, misalnya dengan menggunakan penelitian-penelitian sebelumnya untuk menentukan POS dari kalimat-kalimat dalam korpus yang dikumpulkan?
+Salah satu penelitian survey menyebutkan masalah yang mungkin menarik untuk dijawab, yaitu bahwa teknik-teknik pemeringkasan yang banyak dipublikasikan lebih sering dibuat untuk dataset berbahasa Inggris. Salah satu pertanyaan menarik yang penting untuk dibuktikan secara eksperimen ilmiah adalah apakah metode-metode tersebut bersifat language independent?
+How to measure the sensitivity of independency in text summarization? Apa yang diukur?
