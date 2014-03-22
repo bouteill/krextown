@@ -2,62 +2,87 @@
 
 == To Do ==
 
-
 == Topik-topik Menarik ==
 
-Lexical chaining tanpa menggunakan Word-Net. Sebagai penggantinya, coba gunakan teknik dari paper-paper graph-based summarization.
-Membangun Word-Net berdasarkan sebuah korpus dengan teknik graph-based summarization.
-Apa perbedaan antara Lexical Chain dengan Syntactical Chain?
-Automatic computational technique to capture correlated word of any distance.
-Syntactic, lexical approach.
-Small-world property of Bahasa Indonesia.
-Clustering coefficient path length in Bahasa Indonesia and Bahasa Daerah.
-Questions to Ponder
-Pidgin Language.
-Evolutionary language game model.
-Nowak Krakauer (99), Nowak (00).
-identifying new words in Blogosphere. Identify its neighbors. Method: How to identify time of occurrence of English words? What about Asian languages? What about Malay blog activity?
-Telegraphic speech, Akmajian 95.
-British National Corpus.
-Log Book Krextown Penelitian
-Sabtu, 2012 Feb 02.
-Use nltk.PlaintextCorpusReader to load in all Tempo news file.
-Sentence segmentation in nltk?
-Senin, 2012 Jul 30.
-Lebih dari sebulan nggak ada entri log. Padahal barusan merasa nggak suka dengan sikap mahasiswa bimbingan yang ngisi buku konsultasi belakangan. Kenapa nggak bisa konsisten? Gimana caranya supaya situasi seperti ini bisa berubah? Mulai dari siapa, kalo bukan dari orang yang ngebimbing? Si pembimbingnya sendiri punya masalah.
-
-Selasa, 2012 Jun 26
-Observation: Is there any possibilities, given a corpus, we come up with a set of nodes who have these characteristics:
-Zero in-degree.
-One or more out-degree.
-those properties says that we found a set of words which used as a starting sentence in the corpus.
-Need to put in kompas corpus into netbook workplace.
-Rabu, 2012 Jun 13
-Mencoba memodularisasikan pembaca korpus, supaya bisa lebih fleksibel jika diberikan korpus yang baru.
-Menuliskan langkah-langkah yang perlu dilakukan untuk mengumpulkan data yang diperlukan untuk mendukung hipotesis penelitian. Dokumentasi ini dituliskan dalam dokumen terpisah (sebutkan nama dokumennya: -).
-Minggu, 20120512
-Memanfaatkan NLTK untuk sentence segmentation korpus Tempo.
-Rabu, 20120509
-Menghitung Clustering Coefficient menggunakan NetworkX: clustering(G[, nodes, weight]) Compute the clustering coefficient for nodes.
-Menghitung Clustering Coefficient menggunakan NetworkX: average_clustering(G[, nodes, weight, ..]) Compute the average clustering coefficient for the graph G.
-Menghitung Average Shortest Path Length menggunakan NetworkX: average_shortest_path_length(G, weight=None) Return the average shortest path length in the graph.
-Senin, 20120409
-Belajar dulu tentang degree centrality: Tulis, kasih contoh.
-Rabu, 20120118
-Membaca korpus tempo.
-Memasukkannya ke dalam nltk.Text.
-Senin, 20120116
-Coding Python untuk membaca Korpus Tempo.
-Digabungkan dengan package NetworkX untuk membangun graf.
-Coding Experience:
-Gimana caranya menggabungkan direktori korpus, tanpa harus memasukkannya ke dalam svn repository.
-Minggu, 20111113
-Log Book dimulai lagi.
-Fokus ke InfoMap, SemanticVector, dan NetworkX, Graph Mining. Dengan arah ke bahasa dan dokumen teks.
+* Lexical chaining tanpa menggunakan Word-Net. Sebagai penggantinya,
+  coba gunakan teknik dari paper-paper graph-based summarization.
+* Membangun Word-Net berdasarkan sebuah korpus dengan teknik
+  graph-based summarization.
+* Apa perbedaan antara Lexical Chain dengan Syntactical Chain?
+* Automatic computational technique to capture correlated word of any
+  distance.
+* Syntactic, lexical approach.
+* Small-world property of Bahasa Indonesia.
+* Clustering coefficient path length in Bahasa Indonesia and Bahasa
+  Daerah.
+* Questions to Ponder
+* Pidgin Language.
+* Evolutionary language game model.
+* Nowak Krakauer (99), Nowak (00).
+* identifying new words in Blogosphere. Identify its neighbors.
+  Method: How to identify time of occurrence of English words? What
+  about Asian languages? What about Malay blog activity?
+* Telegraphic speech, Akmajian 95.
+* British National Corpus.
 
 
 == Log ==
+* 2014 03 17, Senin
+  * gunakan gensim topic modelling untuk identifikasi topik dan
+    cluster plagiasi.
 * Senin, 10 Februari 2014
   * Terjemah Muntakhab surat 50
 * Jumat, 2014 02 07
   * Terjemah Muntakhab dilanjutkan.
+* Sabtu, 2012 Feb 02.
+  * Use nltk.PlaintextCorpusReader to load in all Tempo news file.
+  * Sentence segmentation in nltk?
+* Senin, 2012 Jul 30.
+  * Lebih dari sebulan nggak ada entri log. Padahal barusan merasa
+    nggak suka dengan sikap mahasiswa bimbingan yang ngisi buku
+    konsultasi belakangan. Kenapa nggak bisa konsisten? Gimana caranya
+    supaya situasi seperti ini bisa berubah? Mulai dari siapa, kalo
+    bukan dari orang yang ngebimbing? Si pembimbingnya sendiri punya
+    masalah.
+* Selasa, 2012 Jun 26
+  * Observation: Is there any possibilities, given a corpus, we come
+    up with a set of nodes who have these characteristics:
+  * Zero in-degree.
+  * One or more out-degree.
+  * those properties says that we found a set of words which used as a
+    starting sentence in the corpus.
+  * Need to put in kompas corpus into netbook workplace.
+* Rabu, 2012 Jun 13
+  * Mencoba memodularisasikan pembaca korpus, supaya bisa lebih
+    fleksibel jika diberikan korpus yang baru.
+  * Menuliskan langkah-langkah yang perlu dilakukan untuk mengumpulkan
+    data yang diperlukan untuk mendukung hipotesis penelitian.
+    Dokumentasi ini dituliskan dalam dokumen terpisah (sebutkan nama
+        dokumennya: -).
+* Minggu, 20120512
+  * Memanfaatkan NLTK untuk sentence segmentation korpus Tempo.
+* Rabu, 20120509
+  * Menghitung Clustering Coefficient menggunakan NetworkX:
+    clustering(G[, nodes, weight]) Compute the clustering coefficient
+    for nodes.
+  * Menghitung Clustering Coefficient menggunakan NetworkX:
+    average_clustering(G[, nodes, weight, ..]) Compute the average
+    clustering coefficient for the graph G.
+  * Menghitung Average Shortest Path Length menggunakan NetworkX:
+    average_shortest_path_length(G, weight=None) Return the average
+    shortest path length in the graph.
+* Senin, 20120409
+  * Belajar dulu tentang degree centrality: Tulis, kasih contoh.
+* Rabu, 20120118
+  * Membaca korpus tempo.
+  * Memasukkannya ke dalam nltk.Text.
+* Senin, 20120116
+  * Coding Python untuk membaca Korpus Tempo.
+  * Digabungkan dengan package NetworkX untuk membangun graf.
+  * Coding Experience:
+    * Gimana caranya menggabungkan direktori korpus, tanpa harus
+      memasukkannya ke dalam svn repository.
+* Minggu, 20111113
+  * Log Book dimulai lagi.
+  * Fokus ke InfoMap, SemanticVector, dan NetworkX, Graph Mining.
+    Dengan arah ke bahasa dan dokumen teks.
