@@ -6,13 +6,15 @@ from kivy.uix.label import Label
 
 
 class MyApp(App):
-
-  def build(self):
-    return Label(text="Let's move!")
+    pass
+    '''
+    def build(self):
+        return Label(text="Let's move!")
+    '''
 
 
 
 if __name__ == '__main__':
-  first_app = MyApp()
-  first_app.run()
+    first_app = MyApp()
+    first_app.run()
 
