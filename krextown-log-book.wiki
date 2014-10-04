@@ -27,6 +27,9 @@
 
 
 == Log ==
+* Sabtu, 20141004
+  * Created subfolder complexplorer\, untuk code kuliah-kuliah MOOC di
+    complexityExplorer.org.
 * 2014Sep15, Senin
   * Checking in korpus ID Muntakhab, dalam format XHTML dan ePub.
 * 2014 03 17, Senin
