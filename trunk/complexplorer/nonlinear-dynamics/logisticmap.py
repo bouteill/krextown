@@ -11,6 +11,6 @@ def logmap(n, x0, r):
 
 
 if __name__ == "__main__":
-    y = logmap(20, 0.2, 2.5)
+    y = logmap(10, 0.2, 2.6)
     print y
 

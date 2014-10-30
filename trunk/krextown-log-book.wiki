@@ -27,6 +27,18 @@
 
 
 == Log ==
+* Kamis, 2014 Okt 23
+  * What is text analytics? Apa sih yang dianalisis dari sebuah data
+    teks?
+  * Data teks itu bentuknya seperti apa? Kan luas banget
+    kemungkinannya.
+  * Pra pengolahan data untuk data teks itu apa aja? Apa yang perlu
+    dilakukan? Kenapa perlu dilakukan? Apakah harus dilakukan dengan
+    cara seperti itu? Kapan pra pengolahan X sebaiknya dilakukan,
+    kapan bisa ditinggalkan?
+  * Contoh analisis teks. Mencari "topik" di dalam korpus.
+    Menganalisis hubungan pronomina persona (personal pronoun) dalam
+    korpus teks.
 * Sabtu, 20141004
   * Created subfolder complexplorer\, untuk code kuliah-kuliah MOOC di
     complexityExplorer.org.
