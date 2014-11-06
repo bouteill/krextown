@@ -2,6 +2,10 @@
 
 == To Do ==
 
+== Sub Projects ==
+* [[gensim]]
+
+
 == Topik-topik Menarik ==
 
 * Lexical chaining tanpa menggunakan Word-Net. Sebagai penggantinya,
